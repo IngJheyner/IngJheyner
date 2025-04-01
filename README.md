@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-cocodrilus-usa-ingenieria-social-robar-dinero-ya-espana-1452147'>Cuidado con el malware 'Cocodrilus': usa ingeniería social para robar tu dinero y ya está en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-cocodrilus-usa-ingenieria-social-robar-dinero-ya-espana-1452147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malware-cocodrilus-4309857.jpg?tf=1200x' alt='Cuidado con el malware 'Cocodrilus': usa ingeniería social para robar tu dinero y ya está en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148'>Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-4309871.jpg?tf=1200x' alt='Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119'>¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069'>El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-4309759.jpg?tf=1200x' alt='El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"' />
     </a>
 </div>
 
