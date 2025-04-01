@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148'>Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-4309871.jpg?tf=1200x' alt='Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alcasec-hacker-dice-tener-datos-casi-todos-espanoles-acusado-filtrar-informacion-policial-1452146'>Alcasec, el hacker que dice tener los datos de casi todos los españoles, acusado de filtrar información policial</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alcasec-hacker-dice-tener-datos-casi-todos-espanoles-acusado-filtrar-informacion-policial-1452146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alcasec-hacker-4309838.jpg?tf=1200x' alt='Alcasec, el hacker que dice tener los datos de casi todos los españoles, acusado de filtrar información policial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/12-mejores-moviles-xiaomi-rango-precio-211816'>Los 12 mejores móviles de Xiaomi por rango de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/12-mejores-moviles-xiaomi-rango-precio-211816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-15-ultra-4301094.jpg?tf=1200x' alt='Los 12 mejores móviles de Xiaomi por rango de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119'>¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069'>El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-4309759.jpg?tf=1200x' alt='El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-lanza-alerta-sera-experta-manipularnos-deberiamos-preocuparnos-1452108'>Geoffrey Hinton, padre de la IA, lanza una alerta: "Será experta en manipularnos, y deberíamos preocuparnos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-lanza-alerta-sera-experta-manipularnos-deberiamos-preocuparnos-1452108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/geoffrey-hinton-ia-4309806.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA, lanza una alerta: "Será experta en manipularnos, y deberíamos preocuparnos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-ia-esclavizar-ser-humano-respuesta-aterradora-1450110'>Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/plan-ia-esclavizar-ser-humano-respuesta-aterradora-1450110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-esclavizando-ser-humano-4309819.jpg?tf=1200x' alt='Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388'>Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eu-os-linux-4309805.jpg?tf=1200x' alt='Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
     </a>
 </div>
 
