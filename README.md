@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-1451824'>Elon Musk elige a los tres mejores empresarios tecnológicos: ni Bill Gates ni Steve Jobs</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-1451824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-4309381.jpg?tf=1200x' alt='Elon Musk elige a los tres mejores empresarios tecnológicos: ni Bill Gates ni Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-1452070'>iOS 18.4 estrena los Genmoji en España y 8 nuevos emojis, incluyendo la cara con ojeras</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-1452070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-4309755.jpg?tf=1200x' alt='iOS 18.4 estrena los Genmoji en España y 8 nuevos emojis, incluyendo la cara con ojeras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907'>La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-4309478.jpg?tf=1200x' alt='La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-1451917'>La IA da la razón a Elon Musk: la profesión que podría desaparecer en el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-1451917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-4309495.jpg?tf=1200x' alt='La IA da la razón a Elon Musk: la profesión que podría desaparecer en el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845'>Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudiante-4309413.jpg?tf=1200x' alt='Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057'>La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-va-vpn-suponen-desafio-aplicar-ley-4309735.jpg?tf=1200x' alt='La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049'>Netflix llega a las tarifas de O2, y lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-llega-tarifas-o2-cambia-todo-4309707.jpg?tf=1200x' alt='Netflix llega a las tarifas de O2, y lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045'>Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4309717.jpg?tf=1200x' alt='Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041'>La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/viajar-tiempo-4309710.jpg?tf=1200x' alt='La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho' />
     </a>
 </div>
 
