@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877'>El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-watch-s4-4309564.jpg?tf=1200x' alt='El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-gustaria-apple-obliga-tener-ue-cual-sera-mejor-1451565'>El iPhone que le gustaría a Apple y el que le obliga a tener la UE, ¿cuál será mejor?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-gustaria-apple-obliga-tener-ue-cual-sera-mejor-1451565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-cambios-europa-apple-4308971.jpg?tf=1200x' alt='El iPhone que le gustaría a Apple y el que le obliga a tener la UE, ¿cuál será mejor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-1451824'>Elon Musk elige a los tres mejores empresarios tecnológicos: ni Bill Gates ni Steve Jobs</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-1451824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-elige-tres-mejores-empresarios-tecnologicos-ni-bill-gates-ni-steve-jobs-4309381.jpg?tf=1200x' alt='Elon Musk elige a los tres mejores empresarios tecnológicos: ni Bill Gates ni Steve Jobs' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907'>La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-4309478.jpg?tf=1200x' alt='La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-1451917'>La IA da la razón a Elon Musk: la profesión que podría desaparecer en el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-1451917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-da-razon-elon-musk-profesion-podria-desaparecer-futuro-4309495.jpg?tf=1200x' alt='La IA da la razón a Elon Musk: la profesión que podría desaparecer en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845'>Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudiante-4309413.jpg?tf=1200x' alt='Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido' />
     </a>
 </div>
 
