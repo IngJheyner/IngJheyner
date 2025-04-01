@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202'>Podrás llevar el DNI el móvil, pero con importantes limitaciones que debes conocer</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-espana-4309961.jpg?tf=1200x' alt='Podrás llevar el DNI el móvil, pero con importantes limitaciones que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-1452187'>Movistar Plus+ elimina por sorpresa uno de sus canales más veteranos y es posible que no te hayas dado cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-1452187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-4309910.jpg?tf=1200x' alt='Movistar Plus+ elimina por sorpresa uno de sus canales más veteranos y es posible que no te hayas dado cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104'>Expertos advierten, pero el gobierno español ignora: "No las apaguen" </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/planta-nuclear-4309840.jpg?tf=1200x' alt='Expertos advierten, pero el gobierno español ignora: "No las apaguen" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-sigue-imparable-eeuu-tiembla-siguiente-objetivo-cia-1452170'>Elon Musk sigue imparable y EEUU tiembla: su siguiente objetivo es la CIA</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-sigue-imparable-eeuu-tiembla-siguiente-objetivo-cia-1452170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4309913.jpg?tf=1200x' alt='Elon Musk sigue imparable y EEUU tiembla: su siguiente objetivo es la CIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-anuncia-sorpresa-importante-cambio-chatgpt-llevamos-mucho-tiempo-pensando-1452185'>Sam Altman anuncia por sorpresa un importante cambio para ChatGPT: "Llevamos mucho tiempo pensando en esto"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-anuncia-sorpresa-importante-cambio-chatgpt-llevamos-mucho-tiempo-pensando-1452185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-4309931.jpg?tf=1200x' alt='Sam Altman anuncia por sorpresa un importante cambio para ChatGPT: "Llevamos mucho tiempo pensando en esto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-moviles-hoy-ya-no-podran-actualizarse-nunca-1452191'>Adiós WhatsApp, estos son los móviles que a partir de hoy ya no podrán actualizarse nunca más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-moviles-hoy-ya-no-podran-actualizarse-nunca-1452191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-abandona-algunos-moviles-compatibilidad-4309916.jpg?tf=1200x' alt='Adiós WhatsApp, estos son los móviles que a partir de hoy ya no podrán actualizarse nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/no-solo-ia-coche-electrico-china-promete-primera-central-fusion-nuclear-historia-2030-1452167'>No solo la IA o coche eléctrico: China promete la primera central de fusión nuclear de la historia en 2030</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/no-solo-ia-coche-electrico-china-promete-primera-central-fusion-nuclear-historia-2030-1452167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/central-fusion-nuclear-4309887.jpg?tf=1200x' alt='No solo la IA o coche eléctrico: China promete la primera central de fusión nuclear de la historia en 2030' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-cocodrilus-usa-ingenieria-social-robar-dinero-ya-espana-1452147'>Cuidado con el malware 'Cocodrilus': usa ingeniería social para robar tu dinero y ya está en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-cocodrilus-usa-ingenieria-social-robar-dinero-ya-espana-1452147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malware-cocodrilus-4309857.jpg?tf=1200x' alt='Cuidado con el malware 'Cocodrilus': usa ingeniería social para robar tu dinero y ya está en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148'>Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-1452148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-iptv-digi-tv-anade-pack-deportes-partidos-laliga-solo-3-euros-mes-4309871.jpg?tf=1200x' alt='Adiós IPTV, DIGI TV añade un pack deportes con partidos de la LaLiga por solo 3 euros más al mes' />
     </a>
 </div>
 
