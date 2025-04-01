@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069'>El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-4309759.jpg?tf=1200x' alt='El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-lanza-alerta-sera-experta-manipularnos-deberiamos-preocuparnos-1452108'>Geoffrey Hinton, padre de la IA, lanza una alerta: "Será experta en manipularnos, y deberíamos preocuparnos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-lanza-alerta-sera-experta-manipularnos-deberiamos-preocuparnos-1452108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/geoffrey-hinton-ia-4309806.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA, lanza una alerta: "Será experta en manipularnos, y deberíamos preocuparnos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-ia-esclavizar-ser-humano-respuesta-aterradora-1450110'>Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/plan-ia-esclavizar-ser-humano-respuesta-aterradora-1450110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-esclavizando-ser-humano-4309819.jpg?tf=1200x' alt='Preguntamos a la IA por su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388'>Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eu-os-linux-4309805.jpg?tf=1200x' alt='Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amigos-adiccion-ia-puede-curar-soledad-pero-vas-pagar-unas-consecuencias-muy-caras-1452100'>¿Amigos o adicción? La IA puede curar tu soledad, pero vas a pagar unas consecuencias muy caras</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amigos-adiccion-ia-puede-curar-soledad-pero-vas-pagar-unas-consecuencias-muy-caras-1452100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-inteligencia-artificial-puede-ser-peligro-adolescentes-enamoren-ella-provocar-obsesion-soledad-4268776.jpg?tf=1200x' alt='¿Amigos o adicción? La IA puede curar tu soledad, pero vas a pagar unas consecuencias muy caras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-studios-vault-bunker-secreto-dentro-mina-sony-videojuegos-1452096'>Sony tiene un búnker secreto dentro de una mina bajo tierra, en donde guarda una copia de todos sus juegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-studios-vault-bunker-secreto-dentro-mina-sony-videojuegos-1452096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sony-tiene-bunker-secreto-mina-donde-guarda-copia-todos-juegos-4309767.jpg?tf=1200x' alt='Sony tiene un búnker secreto dentro de una mina bajo tierra, en donde guarda una copia de todos sus juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ia-apple-intelligence-ya-disponible-espana-todo-puedes-hacer-dispositivos-disponibles-1450960'>La IA de Apple Intelligence ya está disponible en España: todo lo que puedes hacer y dispositivos disponibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ia-apple-intelligence-ya-disponible-espana-todo-puedes-hacer-dispositivos-disponibles-1450960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-intelligence-4308508.jpg?tf=1200x' alt='La IA de Apple Intelligence ya está disponible en España: todo lo que puedes hacer y dispositivos disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877'>El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-watch-s4-4309564.jpg?tf=1200x' alt='El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-gustaria-apple-obliga-tener-ue-cual-sera-mejor-1451565'>El iPhone que le gustaría a Apple y el que le obliga a tener la UE, ¿cuál será mejor?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-gustaria-apple-obliga-tener-ue-cual-sera-mejor-1451565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-cambios-europa-apple-4308971.jpg?tf=1200x' alt='El iPhone que le gustaría a Apple y el que le obliga a tener la UE, ¿cuál será mejor?' />
     </a>
 </div>
 
