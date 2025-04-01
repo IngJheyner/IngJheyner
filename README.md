@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-1452115'>¿BlackBerry de vuelta? Un misterioso mensaje desata la locura en internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-1452115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-4309817.jpg?tf=1200x' alt='¿BlackBerry de vuelta? Un misterioso mensaje desata la locura en internet' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294'>Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883621.jpg?tf=1200x' alt='Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ubuntu-actualiza-importantes-novedades-ultimo-kernel-linux-1452219'>Ubuntu se actualiza con importantes novedades y el último kernel de Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ubuntu-actualiza-importantes-novedades-ultimo-kernel-linux-1452219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ubuntu-2504-nueva-actualizacion-4309992.jpg?tf=1200x' alt='Ubuntu se actualiza con importantes novedades y el último kernel de Linux' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325'>ChatGPT activa la creación de imágenes para todos, pero con letra pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generador-imagenes-chatgpt-4310156.jpg?tf=1200x' alt='ChatGPT activa la creación de imágenes para todos, pero con letra pequeña' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202'>Podrás llevar el DNI en el móvil, pero con importantes limitaciones que debes conocer</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-espana-4309961.jpg?tf=1200x' alt='Podrás llevar el DNI en el móvil, pero con importantes limitaciones que debes conocer' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-acaban-planes-colonizar-marte-elon-musk-no-puede-permitirse-lujo-1452285'>Científicos acaban con los planes de colonizar Marte de Elon Musk: “No puede permitirse el lujo” </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-acaban-planes-colonizar-marte-elon-musk-no-puede-permitirse-lujo-1452285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-quiere-colonizar-marte-4310128.jpg?tf=1200x' alt='Científicos acaban con los planes de colonizar Marte de Elon Musk: “No puede permitirse el lujo” ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-1452187'>Movistar Plus+ elimina por sorpresa uno de sus canales más veteranos y es posible que no te hayas dado cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-1452187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-elimina-sorpresa-canales-veteranos-posible-no-te-hayas-dado-cuenta-4309910.jpg?tf=1200x' alt='Movistar Plus+ elimina por sorpresa uno de sus canales más veteranos y es posible que no te hayas dado cuenta' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318'>Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ios-19-4310148.jpg?tf=1200x' alt='Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104'>Expertos advierten, pero el gobierno español ignora: "No las apaguen" </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/planta-nuclear-4309840.jpg?tf=1200x' alt='Expertos advierten, pero el gobierno español ignora: "No las apaguen" ' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/bombazo-bizum-rompe-todas-limitaciones-pagos-internacionales-1452311'>Bombazo en Bizum, rompe todas las limitaciones con la funcionalidad más esperada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bombazo-bizum-rompe-todas-limitaciones-pagos-internacionales-1452311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bombazo-bizum-rompe-todas-limitaciones-funcionalidad-esperada-4310123.jpg?tf=1200x' alt='Bombazo en Bizum, rompe todas las limitaciones con la funcionalidad más esperada' />
     </a>
 </div>
 
