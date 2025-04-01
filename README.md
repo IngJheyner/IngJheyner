@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202'>Podrás llevar el DNI el móvil, pero con importantes limitaciones que debes conocer</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/moviles/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-1452115'>¿BlackBerry de vuelta? Un misterioso mensaje desata la locura en internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-1452115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/blackberry-vuelta-misterioso-mensaje-desata-locura-internet-4309817.jpg?tf=1200x' alt='¿BlackBerry de vuelta? Un misterioso mensaje desata la locura en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ubuntu-actualiza-importantes-novedades-ultimo-kernel-linux-1452219'>Ubuntu se actualiza con importantes novedades y el último kernel de Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ubuntu-actualiza-importantes-novedades-ultimo-kernel-linux-1452219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ubuntu-2504-nueva-actualizacion-4309992.jpg?tf=1200x' alt='Ubuntu se actualiza con importantes novedades y el último kernel de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202'>Podrás llevar el DNI en el móvil, pero con importantes limitaciones que debes conocer</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/podras-llevar-dni-movil-pero-importantes-limitaciones-debes-conocer-1452202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-espana-4309961.jpg?tf=1200x' alt='Podrás llevar el DNI el móvil, pero con importantes limitaciones que debes conocer' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-espana-4309961.jpg?tf=1200x' alt='Podrás llevar el DNI en el móvil, pero con importantes limitaciones que debes conocer' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104'>Expertos advierten, pero el gobierno español ignora: "No las apaguen" </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/expertos-advierten-pero-gobierno-espanol-ignora-no-apaguen-1452104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/planta-nuclear-4309840.jpg?tf=1200x' alt='Expertos advierten, pero el gobierno español ignora: "No las apaguen" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-sigue-imparable-eeuu-tiembla-siguiente-objetivo-cia-1452170'>Elon Musk sigue imparable y EEUU tiembla: su siguiente objetivo es la CIA</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-sigue-imparable-eeuu-tiembla-siguiente-objetivo-cia-1452170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4309913.jpg?tf=1200x' alt='Elon Musk sigue imparable y EEUU tiembla: su siguiente objetivo es la CIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-anuncia-sorpresa-importante-cambio-chatgpt-llevamos-mucho-tiempo-pensando-1452185'>Sam Altman anuncia por sorpresa un importante cambio para ChatGPT: "Llevamos mucho tiempo pensando en esto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-anuncia-sorpresa-importante-cambio-chatgpt-llevamos-mucho-tiempo-pensando-1452185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-4309931.jpg?tf=1200x' alt='Sam Altman anuncia por sorpresa un importante cambio para ChatGPT: "Llevamos mucho tiempo pensando en esto"' />
     </a>
 </div>
 
