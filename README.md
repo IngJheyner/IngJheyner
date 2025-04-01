@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ia-apple-intelligence-ya-disponible-espana-todo-puedes-hacer-dispositivos-disponibles-1450960'>La IA de Apple Intelligence ya está disponible en España: todo lo que puedes hacer y dispositivos disponibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ia-apple-intelligence-ya-disponible-espana-todo-puedes-hacer-dispositivos-disponibles-1450960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-intelligence-4308508.jpg?tf=1200x' alt='La IA de Apple Intelligence ya está disponible en España: todo lo que puedes hacer y dispositivos disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877'>El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zafiro-muy-caro-xiaomi-ha-encontrado-curiosa-solucion-watch-s4-1451877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-watch-s4-4309564.jpg?tf=1200x' alt='El zafiro es muy caro y Xiaomi ha encontrado una curiosa solución para su Watch S4' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-1452070'>iOS 18.4 estrena los Genmoji en España y 8 nuevos emojis, incluyendo la cara con ojeras</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-1452070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ios-184-estrena-genmoji-espana-8-nuevos-emojis-incluyendo-cara-ojeras-4309755.jpg?tf=1200x' alt='iOS 18.4 estrena los Genmoji en España y 8 nuevos emojis, incluyendo la cara con ojeras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907'>La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-1451907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-nueva-estafa-cuidado-recibes-sms-dgt-4309478.jpg?tf=1200x' alt='La Policía Nacional advierte sobre una nueva estafa: "Cuidado si recibes este SMS de la DGT"' />
     </a>
 </div>
 
