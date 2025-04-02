@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466'>Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-4310356.jpg?tf=1200x' alt='Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514'>Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-4310426.jpg?tf=1200x' alt='Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-caracteristicas-finales-precio-fecha-lanzamiento-1452529'>Nintendo Switch 2 ya está aquí: características finales, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-caracteristicas-finales-precio-fecha-lanzamiento-1452529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-switch-2-ya-aqui-caracteristicas-finales-precio-fecha-lanzamiento-4310449.jpg?tf=1200x' alt='Nintendo Switch 2 ya está aquí: características finales, precio y fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411'>La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-muestra-apple-fitness-4310277.jpg?tf=1200x' alt='La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507'>10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ilustraciones-chatgpt-4310381.jpg?tf=1200x' alt='10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/decano-mit-deja-claras-cuatro-verdades-incomodas-ia-no-creo-jamas-logre-1452448'>Decano del MIT deja claras sus cuatro verdades incómodas sobre la IA: "No creo que jamás lo logre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/decano-mit-deja-claras-cuatro-verdades-incomodas-ia-no-creo-jamas-logre-1452448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4310355.jpg?tf=1200x' alt='Decano del MIT deja claras sus cuatro verdades incómodas sobre la IA: "No creo que jamás lo logre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463'>Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4310368.jpg?tf=1200x' alt='Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473'>Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-pedir-online-eta-4310323.jpg?tf=1200x' alt='Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido' />
     </a>
 </div>
 
