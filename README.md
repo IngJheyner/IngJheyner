@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463'>Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4310368.jpg?tf=1200x' alt='Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473'>Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-pedir-online-eta-4310323.jpg?tf=1200x' alt='Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428'>Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lanza-mensaje-mark-zuckerberg-4310299.jpg?tf=1200x' alt='Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414'>El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra' />
     </a>
 </div>
 
