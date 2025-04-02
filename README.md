@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-1452203'>La TDT en España da el salto a las 4K y todo el mundo se pregunta lo mismo: ¿tendremos que cambiar de antena?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-1452203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-4309962.jpg?tf=1200x' alt='La TDT en España da el salto a las 4K y todo el mundo se pregunta lo mismo: ¿tendremos que cambiar de antena?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126'>Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4309865.jpg?tf=1200x' alt='Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-tiene-claro-popular-electrodomestico-dejaras-tener-casa-1452092'>Mark Zuckerberg lo tiene claro: este es el popular electrodoméstico que dejarás de tener en casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-tiene-claro-popular-electrodomestico-dejaras-tener-casa-1452092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-electrodomesticos-4310051.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene claro: este es el popular electrodoméstico que dejarás de tener en casa' />
+    <h4><a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362'>Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-litio-china-ya-fabrica-serie-baterias-nucleares-tamano-moneda-duran-50-anos-4310213.jpg?tf=1200x' alt='Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347'>De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/polo-polo-millonario-criptomonedas-contrata-spacex-viaje-espacial-nunca-visto-4310157.jpg?tf=1200x' alt='De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-quitar-ia-whatsapp-posible-eliminar-meta-ai-movil-1452196'>Cómo quitar la IA de WhatsApp: ¿es posible eliminar Meta AI de tu móvil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-quitar-ia-whatsapp-posible-eliminar-meta-ai-movil-1452196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-whatsapp-4310081.jpg?tf=1200x' alt='Cómo quitar la IA de WhatsApp: ¿es posible eliminar Meta AI de tu móvil?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294'>Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883621.jpg?tf=1200x' alt='Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-1452139'>Alerta de la Guardia Civil: de tu bolsa de basura a la ciberestafa, ni se te ocurra tirar esto a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-1452139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-4309835.jpg?tf=1200x' alt='Alerta de la Guardia Civil: de tu bolsa de basura a la ciberestafa, ni se te ocurra tirar esto a partir de ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325'>ChatGPT activa la creación de imágenes para todos, pero con letra pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generador-imagenes-chatgpt-4310156.jpg?tf=1200x' alt='ChatGPT activa la creación de imágenes para todos, pero con letra pequeña' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/navegar-seguro-siempre-todos-dispositivos-surfshark-permite-vpn-ademas-86-menos-1452079'>Navegar seguro siempre y en todos tus dispositivos: Surfshark lo permite con su VPN, y además por un 86% menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/navegar-seguro-siempre-todos-dispositivos-surfshark-permite-vpn-ademas-86-menos-1452079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movil-candado-vpn-4309774.jpg?tf=1200x' alt='Navegar seguro siempre y en todos tus dispositivos: Surfshark lo permite con su VPN, y además por un 86% menos' />
     </a>
 </div>
 
