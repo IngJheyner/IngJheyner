@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414'>El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406'>Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4310260.jpg?tf=1200x' alt='Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181'>La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/poco-f7-ultra-4309909.jpg?tf=1200x' alt='La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980'>He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4310025.jpg?tf=1200x' alt='He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato' />
     </a>
 </div>
 
