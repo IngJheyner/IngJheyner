@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275'>Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/motorola-edge-60-fusion-4310069.jpg?tf=1200x' alt='Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181'>La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/poco-f7-ultra-4309909.jpg?tf=1200x' alt='La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980'>He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4310025.jpg?tf=1200x' alt='He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126'>Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4309865.jpg?tf=1200x' alt='Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362'>Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-litio-china-ya-fabrica-serie-baterias-nucleares-tamano-moneda-duran-50-anos-4310213.jpg?tf=1200x' alt='Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-quitar-ia-whatsapp-posible-eliminar-meta-ai-movil-1452196'>Cómo quitar la IA de WhatsApp: ¿es posible eliminar Meta AI de tu móvil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-quitar-ia-whatsapp-posible-eliminar-meta-ai-movil-1452196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-whatsapp-4310081.jpg?tf=1200x' alt='Cómo quitar la IA de WhatsApp: ¿es posible eliminar Meta AI de tu móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-1452139'>Alerta de la Guardia Civil: de tu bolsa de basura a la ciberestafa, ni se te ocurra tirar esto a partir de ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-1452139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alerta-guardia-civil-bolsa-basura-ciberestafa-ni-te-ocurra-tirar-partir-ahora-4309835.jpg?tf=1200x' alt='Alerta de la Guardia Civil: de tu bolsa de basura a la ciberestafa, ni se te ocurra tirar esto a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/navegar-seguro-siempre-todos-dispositivos-surfshark-permite-vpn-ademas-86-menos-1452079'>Navegar seguro siempre y en todos tus dispositivos: Surfshark lo permite con su VPN, y además por un 86% menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/navegar-seguro-siempre-todos-dispositivos-surfshark-permite-vpn-ademas-86-menos-1452079' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movil-candado-vpn-4309774.jpg?tf=1200x' alt='Navegar seguro siempre y en todos tus dispositivos: Surfshark lo permite con su VPN, y además por un 86% menos' />
     </a>
 </div>
 
