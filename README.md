@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478'>Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-4310370.jpg?tf=1200x' alt='Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-1452532'>Ni arquitecto ni ingeniero, para el multimillonario José Elías estas profesiones deben temer a la IA: "50, 60 o 200 euros la hora"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-1452532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-4310624.jpg?tf=1200x' alt='Ni arquitecto ni ingeniero, para el multimillonario José Elías estas profesiones deben temer a la IA: "50, 60 o 200 euros la hora"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420'>Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-trabajo-inteligencia-artificial-4310379.jpg?tf=1200x' alt='Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524'>Atención programadores: Python realiza un importante cambio de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-seguridad-python-4310517.jpg?tf=1200x' alt='Atención programadores: Python realiza un importante cambio de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396'>Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-4310288.jpg?tf=1200x' alt='Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550'>Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jugar-nintendo-switch-2-te-va-salir-muy-caro-consola-vale-casi-500-euros-juegos-90-euros-4310492.jpg?tf=1200x' alt='Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares' />
     </a>
 </div>
 
