@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433'>Cómo tener el DNI en móvil: requisitos, guía paso a paso y todo lo debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-movil-4310301.jpg?tf=1200x' alt='Cómo tener el DNI en móvil: requisitos, guía paso a paso y todo lo debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/olvidate-lecturas-interminables-ia-microsoft-word-ya-puede-resumir-miles-paginas-1452412'>Olvídate de lecturas interminables: la IA de Microsoft Word ya puede resumir miles de páginas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/olvidate-lecturas-interminables-ia-microsoft-word-ya-puede-resumir-miles-paginas-1452412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-copilot-4310338.jpg?tf=1200x' alt='Olvídate de lecturas interminables: la IA de Microsoft Word ya puede resumir miles de páginas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428'>Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lanza-mensaje-mark-zuckerberg-4310299.jpg?tf=1200x' alt='Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414'>El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406'>Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4310260.jpg?tf=1200x' alt='Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/demanda-millonaria-ocu-apple-avanza-significa-usuarios-spotify-otras-apps-musica-1452397'>La demanda millonaria de la OCU contra Apple avanza: ¿qué significa para los usuarios de Spotify y otras apps de música?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/demanda-millonaria-ocu-apple-avanza-significa-usuarios-spotify-otras-apps-musica-1452397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-apple-4310253.jpg?tf=1200x' alt='La demanda millonaria de la OCU contra Apple avanza: ¿qué significa para los usuarios de Spotify y otras apps de música?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275'>Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/motorola-edge-60-fusion-4310069.jpg?tf=1200x' alt='Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181'>La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/noche-joven-muy-fotogenica-gracias-fotos-nocturnas-poco-f7-ultra-1452181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/poco-f7-ultra-4309909.jpg?tf=1200x' alt='La noche es joven y muy fotogénica gracias a las fotos nocturnas del POCO F7 Ultra' />
     </a>
 </div>
 
