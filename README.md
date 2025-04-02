@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420'>Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-trabajo-inteligencia-artificial-4310379.jpg?tf=1200x' alt='Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-1452488'>Usar el móvil en la cama es peor idea de lo que imaginabas: un estudio revela datos impactantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-1452488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-4310382.jpg?tf=1200x' alt='Usar el móvil en la cama es peor idea de lo que imaginabas: un estudio revela datos impactantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524'>Atención programadores: Python realiza un importante cambio de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-seguridad-python-4310517.jpg?tf=1200x' alt='Atención programadores: Python realiza un importante cambio de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396'>Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-4310288.jpg?tf=1200x' alt='Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550'>Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jugar-nintendo-switch-2-te-va-salir-muy-caro-consola-vale-casi-500-euros-juegos-90-euros-4310492.jpg?tf=1200x' alt='Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-1452493'>Acusan a la Comisión Europea de utilizar ChatGPT para responder preguntas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-1452493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-4310389.jpg?tf=1200x' alt='Acusan a la Comisión Europea de utilizar ChatGPT para responder preguntas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466'>Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-4310356.jpg?tf=1200x' alt='Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514'>Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-4310426.jpg?tf=1200x' alt='Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas' />
     </a>
 </div>
 
