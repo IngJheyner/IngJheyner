@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475'>Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-4310380.jpg?tf=1200x' alt='Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ghibli-telenecos-nuevo-generador-imagenes-chatgpt-impresionante-1452569'>Ni Ghibli ni teleñecos, el nuevo generador de imágenes de ChatGPT es impresionante y estás perdiendo el tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ghibli-telenecos-nuevo-generador-imagenes-chatgpt-impresionante-1452569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estilo-ghibli-imagen-generada-chatgpt-4310590.jpg?tf=1200x' alt='Ni Ghibli ni teleñecos, el nuevo generador de imágenes de ChatGPT es impresionante y estás perdiendo el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478'>Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-4310370.jpg?tf=1200x' alt='Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420'>Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-trabajo-inteligencia-artificial-4310379.jpg?tf=1200x' alt='Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-1452488'>Usar el móvil en la cama es peor idea de lo que imaginabas: un estudio revela datos impactantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-1452488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/usar-movil-cama-peor-idea-imaginabas-estudio-revela-datos-impactantes-4310382.jpg?tf=1200x' alt='Usar el móvil en la cama es peor idea de lo que imaginabas: un estudio revela datos impactantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524'>Atención programadores: Python realiza un importante cambio de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/atencion-programadores-python-realiza-importante-cambio-seguridad-1452524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-seguridad-python-4310517.jpg?tf=1200x' alt='Atención programadores: Python realiza un importante cambio de seguridad' />
     </a>
 </div>
 
