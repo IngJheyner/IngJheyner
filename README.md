@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-1452203'>La TDT en España da el salto a las 4K y todo el mundo se pregunta lo mismo: ¿tendremos que cambiar de antena?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-1452203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tdt-espana-da-salto-4k-todo-mundo-pregunta-mismo-tendremos-cambiar-antena-4309962.jpg?tf=1200x' alt='La TDT en España da el salto a las 4K y todo el mundo se pregunta lo mismo: ¿tendremos que cambiar de antena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-tiene-claro-popular-electrodomestico-dejaras-tener-casa-1452092'>Mark Zuckerberg lo tiene claro: este es el popular electrodoméstico que dejarás de tener en casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-tiene-claro-popular-electrodomestico-dejaras-tener-casa-1452092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-electrodomesticos-4310051.jpg?tf=1200x' alt='Mark Zuckerberg lo tiene claro: este es el popular electrodoméstico que dejarás de tener en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347'>De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/polo-polo-millonario-criptomonedas-contrata-spacex-viaje-espacial-nunca-visto-4310157.jpg?tf=1200x' alt='De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325'>ChatGPT activa la creación de imágenes para todos, pero con letra pequeña</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-activa-creacion-imagenes-todos-pero-letra-pequena-1452325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generador-imagenes-chatgpt-4310156.jpg?tf=1200x' alt='ChatGPT activa la creación de imágenes para todos, pero con letra pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-acaban-planes-colonizar-marte-elon-musk-no-puede-permitirse-lujo-1452285'>Científicos acaban con los planes de colonizar Marte de Elon Musk: “No puede permitirse el lujo” </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-acaban-planes-colonizar-marte-elon-musk-no-puede-permitirse-lujo-1452285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-quiere-colonizar-marte-4310128.jpg?tf=1200x' alt='Científicos acaban con los planes de colonizar Marte de Elon Musk: “No puede permitirse el lujo” ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318'>Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ios-19-4310148.jpg?tf=1200x' alt='Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?' />
     </a>
 </div>
 
