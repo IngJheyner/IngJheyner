@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582'>Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-4310712.jpg?tf=1200x' alt='Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395'>Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602'>Windows 11 arregla un problema estético que llevaba años en el escritorio</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-4310697.jpg?tf=1200x' alt='Windows 11 arregla un problema estético que llevaba años en el escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475'>Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-4310380.jpg?tf=1200x' alt='Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League' />
     </a>
 </div>
 
