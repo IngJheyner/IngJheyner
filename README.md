@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396'>Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-1452396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-vodafone-ni-digi-operadora-tiene-mejor-5g-espana-4310288.jpg?tf=1200x' alt='Ni Vodafone ni DIGI, esta es la operadora que tiene el mejor 5G en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550'>Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-precios-consola-vale-casi-500-euros-juegos-90-euros-1452550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jugar-nintendo-switch-2-te-va-salir-muy-caro-consola-vale-casi-500-euros-juegos-90-euros-4310492.jpg?tf=1200x' alt='Los abusivos precios de los juegos de Nintendo Switch 2, el fin de una era: adiós a las consolas asequibles y populares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-1452493'>Acusan a la Comisión Europea de utilizar ChatGPT para responder preguntas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-1452493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/acusan-comision-europea-utilizar-chatgpt-responder-preguntas-4310389.jpg?tf=1200x' alt='Acusan a la Comisión Europea de utilizar ChatGPT para responder preguntas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466'>Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-1452466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-mueve-ficha-regala-dos-meses-suscripciones-populares-4310356.jpg?tf=1200x' alt='Movistar Plus+ mueve ficha y regala dos meses de una sus suscripciones más populares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514'>Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-1452514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prepara-cartera-nuevas-gafas-meta-llegaran-ano-no-seran-baratas-4310426.jpg?tf=1200x' alt='Prepara la cartera: las nuevas gafas de Meta llegarán este año y no serán baratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-caracteristicas-finales-precio-fecha-lanzamiento-1452529'>Nintendo Switch 2 ya está aquí: características finales, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-caracteristicas-finales-precio-fecha-lanzamiento-1452529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-switch-2-ya-aqui-caracteristicas-finales-precio-fecha-lanzamiento-4310449.jpg?tf=1200x' alt='Nintendo Switch 2 ya está aquí: características finales, precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411'>La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-muestra-apple-fitness-4310277.jpg?tf=1200x' alt='La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507'>10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ilustraciones-chatgpt-4310381.jpg?tf=1200x' alt='10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli' />
     </a>
 </div>
 
