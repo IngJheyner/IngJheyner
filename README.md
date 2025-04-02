@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433'>Cómo tener el DNI en móvil: requisitos, guía paso a paso y todo lo debes saber</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473'>Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-pedir-online-eta-4310323.jpg?tf=1200x' alt='Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433'>Cómo tener el DNI en el móvil: requisitos, guía paso a paso y todo lo debes saber</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-movil-4310301.jpg?tf=1200x' alt='Cómo tener el DNI en móvil: requisitos, guía paso a paso y todo lo debes saber' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-movil-4310301.jpg?tf=1200x' alt='Cómo tener el DNI en el móvil: requisitos, guía paso a paso y todo lo debes saber' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414'>El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/impacto-imagenes-chatgpt-estilo-estudio-ghibli-tan-grande-afectando-negativamente-tierra-1452414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='El impacto de las imágenes de ChatGPT estilo Estudio Ghibli es tan grande que está afectando negativamente a La Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406'>Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4310260.jpg?tf=1200x' alt='Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta' />
     </a>
 </div>
 
