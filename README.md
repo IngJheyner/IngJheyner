@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395'>Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-trae-extensiones-chrome-android-pero-gran-limitacion-1452608'>Google trae las extensiones de Chrome a Android, pero con una gran limitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-trae-extensiones-chrome-android-pero-gran-limitacion-1452608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chrome-android-4310707.jpg?tf=1200x' alt='Google trae las extensiones de Chrome a Android, pero con una gran limitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606'>Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-iphone-ios-18-4310703.jpg?tf=1200x' alt='Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602'>Windows 11 arregla un problema estético que llevaba años en el escritorio</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-4310697.jpg?tf=1200x' alt='Windows 11 arregla un problema estético que llevaba años en el escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475'>Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-consigue-poderoso-aliado-lucha-iptv-cloudflare-premier-league-1452475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-4310380.jpg?tf=1200x' alt='Javier Tebas consigue un poderoso aliado en su lucha contra las IPTV y Cloudflare: la Premier League' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ghibli-telenecos-nuevo-generador-imagenes-chatgpt-impresionante-1452569'>Ni Ghibli ni teleñecos, el nuevo generador de imágenes de ChatGPT es impresionante y estás perdiendo el tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ghibli-telenecos-nuevo-generador-imagenes-chatgpt-impresionante-1452569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estilo-ghibli-imagen-generada-chatgpt-4310590.jpg?tf=1200x' alt='Ni Ghibli ni teleñecos, el nuevo generador de imágenes de ChatGPT es impresionante y estás perdiendo el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478'>Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-1452478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-confundido-robots-humanoides-no-son-buena-idea-parte-culpa-ciencia-ficcion-4310370.jpg?tf=1200x' alt='Elon Musk está confundido: los robots humanoides no son una buena idea, y parte de la culpa es de la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-1452532'>Ni arquitecto ni ingeniero, para el multimillonario José Elías estas profesiones deben temer a la IA: "50, 60 o 200 euros la hora"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-1452532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-arquitecto-ni-ingeniero-multimillonario-jose-elias-estas-profesiones-deben-temer-ia-50-60-200-euros-hora-4310624.jpg?tf=1200x' alt='Ni arquitecto ni ingeniero, para el multimillonario José Elías estas profesiones deben temer a la IA: "50, 60 o 200 euros la hora"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420'>Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-plantea-ya-semana-laboral-solo-dos-dias-ia-asumira-toda-carga-trabajo-1452420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-trabajo-inteligencia-artificial-4310379.jpg?tf=1200x' alt='Bill Gates plantea ya una semana laboral de solo dos días: "La IA asumirá toda la carga de trabajo"' />
     </a>
 </div>
 
