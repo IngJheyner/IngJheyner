@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411'>La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/app-salud-apple-renueva-11-anos-asistente-ia-te-entrenara-1452411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-muestra-apple-fitness-4310277.jpg?tf=1200x' alt='La app Salud de Apple se renueva, tras 11 años, con un asistente con IA que te entrenará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507'>10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estilos-arte-crear-imagenes-chatgpt-mejores-estudio-ghibli-1452507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ilustraciones-chatgpt-4310381.jpg?tf=1200x' alt='10 estilos de arte para crear tus imágenes de ChatGPT mejores que las de Estudio Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/decano-mit-deja-claras-cuatro-verdades-incomodas-ia-no-creo-jamas-logre-1452448'>Decano del MIT deja claras sus cuatro verdades incómodas sobre la IA: "No creo que jamás lo logre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/decano-mit-deja-claras-cuatro-verdades-incomodas-ia-no-creo-jamas-logre-1452448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4310355.jpg?tf=1200x' alt='Decano del MIT deja claras sus cuatro verdades incómodas sobre la IA: "No creo que jamás lo logre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463'>Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-estas-son-tres-profesiones-invulnerables-ia-recomienda-estudiar-1452463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4310368.jpg?tf=1200x' alt='Para Bill Gates estas son las tres profesiones invulnerables a la IA que recomienda estudiar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473'>Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-pedir-online-eta-nueva-visa-obligatoria-viajar-londres-cualquier-parte-reino-unido-1452473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-pedir-online-eta-4310323.jpg?tf=1200x' alt='Cómo pedir online el ETA: la nueva visa obligatoria para viajar a Londres o cualquier parte del Reino Unido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433'>Cómo tener el DNI en el móvil: requisitos, guía paso a paso y todo lo debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-tener-dni-movil-requisitos-guia-paso-paso-todo-debes-saber-1452433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dni-movil-4310301.jpg?tf=1200x' alt='Cómo tener el DNI en el móvil: requisitos, guía paso a paso y todo lo debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/olvidate-lecturas-interminables-ia-microsoft-word-ya-puede-resumir-miles-paginas-1452412'>Olvídate de lecturas interminables: la IA de Microsoft Word ya puede resumir miles de páginas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/olvidate-lecturas-interminables-ia-microsoft-word-ya-puede-resumir-miles-paginas-1452412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-copilot-4310338.jpg?tf=1200x' alt='Olvídate de lecturas interminables: la IA de Microsoft Word ya puede resumir miles de páginas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428'>Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-contundente-mensaje-mark-zuckerberg-no-haremos-nada-absurdo-1452428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lanza-mensaje-mark-zuckerberg-4310299.jpg?tf=1200x' alt='Sam Altman lanza un contundente mensaje a Mark Zuckerberg: "No haremos nada absurdo"' />
     </a>
 </div>
 
