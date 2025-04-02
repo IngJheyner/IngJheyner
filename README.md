@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406'>Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-recupera-trono-como-rico-mundo-mientras-tesla-ahoga-papel-gobierno-trump-asusta-1452406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4310260.jpg?tf=1200x' alt='Elon Musk recupera el trono como el más rico del mundo mientras Tesla se ahoga y su papel en el gobierno de Trump asusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/demanda-millonaria-ocu-apple-avanza-significa-usuarios-spotify-otras-apps-musica-1452397'>La demanda millonaria de la OCU contra Apple avanza: ¿qué significa para los usuarios de Spotify y otras apps de música?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/demanda-millonaria-ocu-apple-avanza-significa-usuarios-spotify-otras-apps-musica-1452397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-apple-4310253.jpg?tf=1200x' alt='La demanda millonaria de la OCU contra Apple avanza: ¿qué significa para los usuarios de Spotify y otras apps de música?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275'>Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/motorola-edge-60-fusion-colores-infarto-gracias-pantone-bateria-top-unas-camaras-altura-1452275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/motorola-edge-60-fusion-4310069.jpg?tf=1200x' alt='Motorola Edge 60 Fusion: colores de infarto gracias a Pantone, batería top y unas cámaras a la altura' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980'>He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a36-5g-creo-merece-oportunidad-ser-barato-1451980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4310025.jpg?tf=1200x' alt='He probado el Samsung Galaxy A36 5G y creo que merece una oportunidad por ser más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126'>Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-pone-fecha-fin-dominio-absoluto-ser-humano-vaya-da-poco-miedo-1452126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4309865.jpg?tf=1200x' alt='Bill Gates pone fecha al fin al dominio absoluto del ser humano: "Vaya, esto da un poco de miedo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362'>Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/china-ya-fabrica-baterias-nucleares-tamano-moneda-duran-50-anos-1452362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-litio-china-ya-fabrica-serie-baterias-nucleares-tamano-moneda-duran-50-anos-4310213.jpg?tf=1200x' alt='Adiós al litio: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años' />
     </a>
 </div>
 
