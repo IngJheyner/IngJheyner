@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683'>Coca-Cola usa una IA para crear bebidas personalizadas para cada persona</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coca-cola-usa-ia-crear-ia-crear-bebidas-personalizadas-cada-persona-4310788.jpg?tf=1200x' alt='Coca-Cola usa una IA para crear bebidas personalizadas para cada persona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tetiana-klymchuk-experta-mundial-ia-tiene-claro-siguiente-generacion-todo-sera-distinto-1452680'>Tetiana Klymchuk, experta mundial en IA, lo tiene claro: "Para la siguiente generación todo será distinto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tetiana-klymchuk-experta-mundial-ia-tiene-claro-siguiente-generacion-todo-sera-distinto-1452680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tetiana-klymchuk-experta-mundial-ia-4310815.jpg?tf=1200x' alt='Tetiana Klymchuk, experta mundial en IA, lo tiene claro: "Para la siguiente generación todo será distinto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/activar-modo-espia-whatsapp-1406329'>He activado el modo espía de WhatsApp, y no me arrepiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/activar-modo-espia-whatsapp-1406329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-4236331.jpg?tf=1200x' alt='He activado el modo espía de WhatsApp, y no me arrepiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/movil-plegable-barato-mundo-llega-oficialmente-espana-zte-nubia-flip-2-5g-1452571'>El móvil plegable más barato del mundo llega oficialmente a España: así es el ZTE Nubia Flip 2 5G</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/movil-plegable-barato-mundo-llega-oficialmente-espana-zte-nubia-flip-2-5g-1452571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/zte-nubia-flip-2-5g-4310628.jpg?tf=1200x' alt='El móvil plegable más barato del mundo llega oficialmente a España: así es el ZTE Nubia Flip 2 5G' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646'>El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-reloj-casio-cuesta-igual-apple-watch-ultra-pero-viene-extra-no-te-esperas-4310755.jpg?tf=1200x' alt='El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-bill-gates-ideas-descabelladas-magnates-industria-tecnologica-1452157'>Elon Musk, Sam Altman, Bill Gates y las ideas más descabelladas de los magnates de la industria tecnológica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-bill-gates-ideas-descabelladas-magnates-industria-tecnologica-1452157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-bill-gates-jeff-bezos-elon-musk-4310052.jpg?tf=1200x' alt='Elon Musk, Sam Altman, Bill Gates y las ideas más descabelladas de los magnates de la industria tecnológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-automatizar-tareas-trabajo-repetitivas-puede-ser-mala-idea-excientifica-jefe-google-1451706'>La IA para automatizar tareas de trabajo repetitivas puede ser mala idea, según esta excientífica jefe de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-automatizar-tareas-trabajo-repetitivas-puede-ser-mala-idea-excientifica-jefe-google-1451706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cassie-kozyrkov-4309807.jpg?tf=1200x' alt='La IA para automatizar tareas de trabajo repetitivas puede ser mala idea, según esta excientífica jefe de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449'>Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-4310331.jpg?tf=1200x' alt='Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"' />
     </a>
 </div>
 
