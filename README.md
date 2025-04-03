@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743'>ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hayao-miyazaki-4311044.jpg?tf=1200x' alt='ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-1452798'>Ofensiva sin precedentes contra las IPTV: si las presiones continúan, pueden tener los días contados</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-1452798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-4311111.jpg?tf=1200x' alt='Ofensiva sin precedentes contra las IPTV: si las presiones continúan, pueden tener los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709'>Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/montanas-submarinas-4310892.jpg?tf=1200x' alt='Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763'>Detenido por vender en Wallapop móviles Android disfrazados de iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/detenido-vender-wallapop-moviles-android-disfrazados-iphone-4310978.jpg?tf=1200x' alt='Detenido por vender en Wallapop móviles Android disfrazados de iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/revolucion-movistar-plus-anade-canales-futbol-ademas-veran-mucho-mejor-1452761'>Revolución en Movistar Plus+: añade más canales de fútbol que además se verán mucho mejor</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/revolucion-movistar-plus-anade-canales-futbol-ademas-veran-mucho-mejor-1452761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-4311019.jpg?tf=1200x' alt='Revolución en Movistar Plus+: añade más canales de fútbol que además se verán mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738'>Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-4310938.jpg?tf=1200x' alt='Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros' />
     </a>
 </div>
 
