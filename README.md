@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776'>Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-4311023.jpg?tf=1200x' alt='Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4311123.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790'>El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-switch-2-welcome-tour-4310884.jpg?tf=1200x' alt='El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/china-quiere-estacion-espacial-solar-energia-infinita-sustituir-petroleo-1452667'>China quiere una estación espacial solar con energía infinita para sustituir al petróleo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/china-quiere-estacion-espacial-solar-energia-infinita-sustituir-petroleo-1452667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prototipo-nave-solar-4310832.jpg?tf=1200x' alt='China quiere una estación espacial solar con energía infinita para sustituir al petróleo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743'>ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hayao-miyazaki-4311044.jpg?tf=1200x' alt='ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-1452798'>Ofensiva sin precedentes contra las IPTV: si las presiones continúan, pueden tener los días contados</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-1452798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ofensiva-precedentes-iptv-presiones-continuan-pueden-tener-dias-contados-4311111.jpg?tf=1200x' alt='Ofensiva sin precedentes contra las IPTV: si las presiones continúan, pueden tener los días contados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709'>Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/montanas-submarinas-4310892.jpg?tf=1200x' alt='Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747'>Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudiante-chino-17-anos-llamado-lan-bowen-4310952.jpg?tf=1200x' alt='Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763'>Detenido por vender en Wallapop móviles Android disfrazados de iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/detenido-vender-wallapop-moviles-android-disfrazados-iphone-4310978.jpg?tf=1200x' alt='Detenido por vender en Wallapop móviles Android disfrazados de iPhone' />
     </a>
 </div>
 
