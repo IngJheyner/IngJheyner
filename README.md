@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615'>Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-4310728.jpg?tf=1200x' alt='Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582'>Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-4310712.jpg?tf=1200x' alt='Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606'>Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-iphone-ios-18-4310703.jpg?tf=1200x' alt='Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602'>Windows 11 arregla un problema estético que llevaba años en el escritorio</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-1452602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-arregla-problema-estetico-llevaba-anos-escritorio-4310697.jpg?tf=1200x' alt='Windows 11 arregla un problema estético que llevaba años en el escritorio' />
     </a>
 </div>
 
