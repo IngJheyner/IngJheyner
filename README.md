@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476'>Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-4303997.jpg?tf=1200x' alt='Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-1452837'>Elon Musk responde con zasca épico a los que se rieron por gastar 41.800 millones para comprar Twitter</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-1452837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-4311223.jpg?tf=1200x' alt='Elon Musk responde con zasca épico a los que se rieron por gastar 41.800 millones para comprar Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776'>Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-4311023.jpg?tf=1200x' alt='Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790'>El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-switch-2-welcome-tour-4310884.jpg?tf=1200x' alt='El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/china-quiere-estacion-espacial-solar-energia-infinita-sustituir-petroleo-1452667'>China quiere una estación espacial solar con energía infinita para sustituir al petróleo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/china-quiere-estacion-espacial-solar-energia-infinita-sustituir-petroleo-1452667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prototipo-nave-solar-4310832.jpg?tf=1200x' alt='China quiere una estación espacial solar con energía infinita para sustituir al petróleo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743'>ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-hacer-imagenes-studio-ghibli-control-tiene-consecuencia-propio-hayao-miyazaki-detestaria-1452743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hayao-miyazaki-4311044.jpg?tf=1200x' alt='ChatGPT: hacer imágenes del Studio Ghibli sin control tiene esta consecuencia, que el propio Hayao Miyazaki detestaría' />
     </a>
 </div>
 
