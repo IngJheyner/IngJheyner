@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709'>Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-descubren-100000-montanas-sumergidas-fondo-marino-tierra-1452709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/montanas-submarinas-4310892.jpg?tf=1200x' alt='Científicos de la NASA descubren más de 100.000 montañas sumergidas en el fondo marino de La Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747'>Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudiante-chino-17-anos-llamado-lan-bowen-4310952.jpg?tf=1200x' alt='Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738'>Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-4310938.jpg?tf=1200x' alt='Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711'>Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-4310889.jpg?tf=1200x' alt='Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años' />
     </a>
 </div>
 
