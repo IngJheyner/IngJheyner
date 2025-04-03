@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451'>Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-4304014.jpg?tf=1200x' alt='Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476'>Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-4303997.jpg?tf=1200x' alt='Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4311123.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790'>El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/lado-oscuro-nueva-switch-2-nintendo-no-atrevio-contar-presentacion-1452790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-switch-2-welcome-tour-4310884.jpg?tf=1200x' alt='El lado "oscuro" de la nueva Switch 2 que Nintendo no se atrevió a contar en su presentación' />
     </a>
 </div>
 
