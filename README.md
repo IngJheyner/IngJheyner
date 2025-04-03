@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886'>Una misteriosa app de Google llega a Android Auto con un propósito incierto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/misteriosa-app-google-llega-android-auto-proposito-incierto-4311253.jpg?tf=1200x' alt='Una misteriosa app de Google llega a Android Auto con un propósito incierto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885'>¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-windows-11-4311251.jpg?tf=1200x' alt='¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-chatgpt-ni-gemini-herramienta-redactar-ia-favorita-estudiantes-hacer-trabajos-esquivar-suspensos-1452655'>Ni ChatGPT ni Gemini: esta herramienta para redactar con IA es la favorita de los estudiantes para hacer trabajos y esquivar suspensos</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-chatgpt-ni-gemini-herramienta-redactar-ia-favorita-estudiantes-hacer-trabajos-esquivar-suspensos-1452655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/terminal-estudiante-ordenador-4310783.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini: esta herramienta para redactar con IA es la favorita de los estudiantes para hacer trabajos y esquivar suspensos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-frotan-manos-nuevo-dni-digital-peligros-consejos-1452879'>Los ciberdelincuentes se frotan las manos con el nuevo DNI digital: "Conlleva una ampliación de la superficie de exposición”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-frotan-manos-nuevo-dni-digital-peligros-consejos-1452879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberdelincuentes-frotan-manos-nuevo-dni-digital-conlleva-ampliacion-superficie-exposicion-4311221.jpg?tf=1200x' alt='Los ciberdelincuentes se frotan las manos con el nuevo DNI digital: "Conlleva una ampliación de la superficie de exposición”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451'>Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-4304014.jpg?tf=1200x' alt='Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476'>Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-1448476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-confirman-nos-hemos-equivocado-durante-30-anos-culpa-jurassic-park-4303997.jpg?tf=1200x' alt='Científicos lo confirman: "Nos hemos equivocado durante 30 años por culpa de Jurassic Park"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-1452837'>Elon Musk responde con zasca épico a los que se rieron por gastar 41.800 millones para comprar Twitter</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-1452837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-responde-zasca-epico-rieron-gastar-41800-millones-comprar-twitter-4311223.jpg?tf=1200x' alt='Elon Musk responde con zasca épico a los que se rieron por gastar 41.800 millones para comprar Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776'>Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-1452776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-openai-confirman-funcion-potente-chatgpt-sera-gratis-todos-muy-pronto-4311023.jpg?tf=1200x' alt='Sam Altman y OpenAI confirman que la función más potente de ChatGPT será gratis para todos muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-expertos-todo-mundo-hacen-saltar-alarmas-nos-llevando-direccion-equivocada-1452855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4311123.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
     </a>
 </div>
 
