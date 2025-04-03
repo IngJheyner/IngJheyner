@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llegan-tabletas-galaxy-tab-s10-fe-creativos-nuevas-funciones-ia-multitarea-mejorada-1452541'>Llegan las tabletas Galaxy Tab S10 FE para los más creativos, con nuevas funciones de IA y multitarea mejorada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/llegan-tabletas-galaxy-tab-s10-fe-creativos-nuevas-funciones-ia-multitarea-mejorada-1452541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-tab-s10-4310909.jpg?tf=1200x' alt='Llegan las tabletas Galaxy Tab S10 FE para los más creativos, con nuevas funciones de IA y multitarea mejorada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-peligroso-abismo-nos-lleva-ia-no-habra-humanidad-1452725'>Elon Musk alerta sobre el peligroso abismo al que nos lleva la IA: "No habrá más humanidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-peligroso-abismo-nos-lleva-ia-no-habra-humanidad-1452725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-alerta-peligro-ia-4310876.jpg?tf=1200x' alt='Elon Musk alerta sobre el peligroso abismo al que nos lleva la IA: "No habrá más humanidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cerca-conseguir-parecia-imposible-acabar-windows-10-antes-tiempo-1452705'>Microsoft más cerca de conseguir lo que parecía imposible: acabar con Windows 10 antes de tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-cerca-conseguir-parecia-imposible-acabar-windows-10-antes-tiempo-1452705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft más cerca de conseguir lo que parecía imposible: acabar con Windows 10 antes de tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683'>Coca-Cola usa una IA para crear bebidas personalizadas para cada persona</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coca-cola-usa-ia-crear-ia-crear-bebidas-personalizadas-cada-persona-4310788.jpg?tf=1200x' alt='Coca-Cola usa una IA para crear bebidas personalizadas para cada persona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tetiana-klymchuk-experta-mundial-ia-tiene-claro-siguiente-generacion-todo-sera-distinto-1452680'>Tetiana Klymchuk, experta mundial en IA, lo tiene claro: "Para la siguiente generación todo será distinto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tetiana-klymchuk-experta-mundial-ia-tiene-claro-siguiente-generacion-todo-sera-distinto-1452680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tetiana-klymchuk-experta-mundial-ia-4310815.jpg?tf=1200x' alt='Tetiana Klymchuk, experta mundial en IA, lo tiene claro: "Para la siguiente generación todo será distinto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/activar-modo-espia-whatsapp-1406329'>He activado el modo espía de WhatsApp, y no me arrepiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/activar-modo-espia-whatsapp-1406329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/mucho-pensarlo-he-activado-llamado-modo-espia-whatsapp-no-me-arrepiento-4236331.jpg?tf=1200x' alt='He activado el modo espía de WhatsApp, y no me arrepiento' />
     </a>
 </div>
 
