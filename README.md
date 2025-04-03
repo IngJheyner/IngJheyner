@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747'>Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adolescente-17-anos-consigue-fabricar-smartphone-plegable-piezas-5-moviles-viejos-1452747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudiante-chino-17-anos-llamado-lan-bowen-4310952.jpg?tf=1200x' alt='Adolescente de 17 años consigue fabricar un smartphone plegable con las piezas de 5 móviles viejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763'>Detenido por vender en Wallapop móviles Android disfrazados de iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/detenido-vender-wallapop-moviles-android-disfrazados-iphone-1452763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/detenido-vender-wallapop-moviles-android-disfrazados-iphone-4310978.jpg?tf=1200x' alt='Detenido por vender en Wallapop móviles Android disfrazados de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/revolucion-movistar-plus-anade-canales-futbol-ademas-veran-mucho-mejor-1452761'>Revolución en Movistar Plus+: añade más canales de fútbol que además se verán mucho mejor</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/revolucion-movistar-plus-anade-canales-futbol-ademas-veran-mucho-mejor-1452761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-4311019.jpg?tf=1200x' alt='Revolución en Movistar Plus+: añade más canales de fútbol que además se verán mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738'>Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-1452738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-meta-crean-unas-gafas-inteligentes-estilo-ray-ban-poco-120-euros-4310938.jpg?tf=1200x' alt='Xiaomi contra Meta: crean unas gafas inteligentes al estilo Ray-Ban por poco más de 120 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711'>Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-4310889.jpg?tf=1200x' alt='Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-aventura-alla-aspiradores-z1-c1-primeros-robots-piscinas-cristales-1452292'>Dreame se aventura más allá de los aspiradores con Z1 y C1, sus primeros robots para piscinas y cristales</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/dreame-aventura-alla-aspiradores-z1-c1-primeros-robots-piscinas-cristales-1452292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dreame-z1-pro-4311011.jpg?tf=1200x' alt='Dreame se aventura más allá de los aspiradores con Z1 y C1, sus primeros robots para piscinas y cristales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-primer-ser-vivo-capaz-sobrevivir-superficie-marte-1452773'>Científicos descubren el primer ser vivo capaz de sobrevivir en la superficie de Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-primer-ser-vivo-capaz-sobrevivir-superficie-marte-1452773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ser-vivo-descubierto-marte-4310973.jpg?tf=1200x' alt='Científicos descubren el primer ser vivo capaz de sobrevivir en la superficie de Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcionan-granjas-moviles-intentan-estafarte-sms-cada-dia-otra-vez-1452782'>Así funcionan las granjas de móviles que intentan estafarte por SMS cada día, una y otra vez</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcionan-granjas-moviles-intentan-estafarte-sms-cada-dia-otra-vez-1452782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/granjas-moviles-intentan-estafarte-sms-4311031.jpg?tf=1200x' alt='Así funcionan las granjas de móviles que intentan estafarte por SMS cada día, una y otra vez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-1452689'>Gemini Live ha adelantado a ChatGPT con dos nuevas funciones disponibles para Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-1452689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-4310834.jpg?tf=1200x' alt='Gemini Live ha adelantado a ChatGPT con dos nuevas funciones disponibles para Android' />
     </a>
 </div>
 
