@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456'>Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-4310340.jpg?tf=1200x' alt='Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429'>Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4310328.jpg?tf=1200x' alt='Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615'>Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-4310728.jpg?tf=1200x' alt='Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395'>Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-trae-extensiones-chrome-android-pero-gran-limitacion-1452608'>Google trae las extensiones de Chrome a Android, pero con una gran limitación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-trae-extensiones-chrome-android-pero-gran-limitacion-1452608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chrome-android-4310707.jpg?tf=1200x' alt='Google trae las extensiones de Chrome a Android, pero con una gran limitación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606'>Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-quejan-ios-184-arruina-bateria-absolutamente-horrendo-1452606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-iphone-ios-18-4310703.jpg?tf=1200x' alt='Usuarios de iPhone se quejan de que iOS 18.4 arruina la batería: "Es absolutamente horrendo"' />
     </a>
 </div>
 
