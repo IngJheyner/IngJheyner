@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/movil-plegable-barato-mundo-llega-oficialmente-espana-zte-nubia-flip-2-5g-1452571'>El móvil plegable más barato del mundo llega oficialmente a España: así es el ZTE Nubia Flip 2 5G</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/movil-plegable-barato-mundo-llega-oficialmente-espana-zte-nubia-flip-2-5g-1452571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/zte-nubia-flip-2-5g-4310628.jpg?tf=1200x' alt='El móvil plegable más barato del mundo llega oficialmente a España: así es el ZTE Nubia Flip 2 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646'>El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-reloj-casio-cuesta-igual-apple-watch-ultra-pero-viene-extra-no-te-esperas-4310755.jpg?tf=1200x' alt='El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449'>Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-4310331.jpg?tf=1200x' alt='Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394'>La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-whatsapp-policia-4310441.jpg?tf=1200x' alt='La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"' />
     </a>
 </div>
 
