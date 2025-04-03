@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896'>Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hori-vence-nintendo-terreno-camara-perfecta-nueva-funcion-gamechat-nintendo-switch-2-4311256.jpg?tf=1200x' alt='Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-1452866'>Google hace saltar las alarmas: hay hackers norcoreanos teletrabajando en empresas de toda Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-1452866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-4311265.jpg?tf=1200x' alt='Google hace saltar las alarmas: hay hackers norcoreanos teletrabajando en empresas de toda Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888'>Google Maps no solo te guía, también podría estar manipulando tu forma de pensar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-4311255.jpg?tf=1200x' alt='Google Maps no solo te guía, también podría estar manipulando tu forma de pensar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886'>Una misteriosa app de Google llega a Android Auto con un propósito incierto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/misteriosa-app-google-llega-android-auto-proposito-incierto-4311253.jpg?tf=1200x' alt='Una misteriosa app de Google llega a Android Auto con un propósito incierto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885'>¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-windows-11-4311251.jpg?tf=1200x' alt='¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-chatgpt-ni-gemini-herramienta-redactar-ia-favorita-estudiantes-hacer-trabajos-esquivar-suspensos-1452655'>Ni ChatGPT ni Gemini: esta herramienta para redactar con IA es la favorita de los estudiantes para hacer trabajos y esquivar suspensos</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-chatgpt-ni-gemini-herramienta-redactar-ia-favorita-estudiantes-hacer-trabajos-esquivar-suspensos-1452655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/terminal-estudiante-ordenador-4310783.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini: esta herramienta para redactar con IA es la favorita de los estudiantes para hacer trabajos y esquivar suspensos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-frotan-manos-nuevo-dni-digital-peligros-consejos-1452879'>Los ciberdelincuentes se frotan las manos con el nuevo DNI digital: "Conlleva una ampliación de la superficie de exposición”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-frotan-manos-nuevo-dni-digital-peligros-consejos-1452879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberdelincuentes-frotan-manos-nuevo-dni-digital-conlleva-ampliacion-superficie-exposicion-4311221.jpg?tf=1200x' alt='Los ciberdelincuentes se frotan las manos con el nuevo DNI digital: "Conlleva una ampliación de la superficie de exposición”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451'>Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/podrian-triplicar-autonomia-coches-electricos-cual-limite-baterias-estado-solido-1448451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-4304014.jpg?tf=1200x' alt='Podrían triplicar la autonomía de los coches eléctricos: ¿cuál es el límite de las baterías de estado sólido?' />
     </a>
 </div>
 
