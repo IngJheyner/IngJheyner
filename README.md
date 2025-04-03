@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449'>Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-4310331.jpg?tf=1200x' alt='Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394'>La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-whatsapp-policia-4310441.jpg?tf=1200x' alt='La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/linux-vuela-portatil-64gb-ram-amazon-vende-precio-bastante-sorprendente-1452090'>Linux vuela en este portátil con 64GB de RAM que Amazon vende a un precio bastante sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/linux-vuela-portatil-64gb-ram-amazon-vende-precio-bastante-sorprendente-1452090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/vant-moove15-4309776.jpg?tf=1200x' alt='Linux vuela en este portátil con 64GB de RAM que Amazon vende a un precio bastante sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456'>Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-4310340.jpg?tf=1200x' alt='Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429'>Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4310328.jpg?tf=1200x' alt='Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615'>Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-1452615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-cuchillo-dientes-todo-futbol-durante-5-meses-solo-30-euros-4310728.jpg?tf=1200x' alt='Movistar Plus+ con el cuchillo entre los dientes: todo el fútbol durante 5 meses por solo 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582'>Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-1452582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mazazo-cloudflare-obligada-bloquear-retransmisiones-ilegales-motogp-francia-sentando-importante-precedente-4310712.jpg?tf=1200x' alt='Mazazo a Cloudflare, obligada a bloquear las retransmisiones ilegales de MotoGP en Francia, sentando un importante precedente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395'>Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-raspberry-ni-orange-pi-mini-pc-linux-tercera-amantes-cacharreo-1452395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/banana-pi-3276538.jpg?tf=1200x' alt='Ni Raspberry ni Orange Pi: este Mini PC para Linux es la tercera vía para amantes del cacharreo' />
     </a>
 </div>
 
