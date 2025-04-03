@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646'>El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-reloj-casio-pro-trek-prw-aire-libre-1452646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-reloj-casio-cuesta-igual-apple-watch-ultra-pero-viene-extra-no-te-esperas-4310755.jpg?tf=1200x' alt='El nuevo reloj de Casio cuesta igual que el Apple Watch Ultra, pero viene con un extra que no te esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-bill-gates-ideas-descabelladas-magnates-industria-tecnologica-1452157'>Elon Musk, Sam Altman, Bill Gates y las ideas más descabelladas de los magnates de la industria tecnológica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-bill-gates-ideas-descabelladas-magnates-industria-tecnologica-1452157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-bill-gates-jeff-bezos-elon-musk-4310052.jpg?tf=1200x' alt='Elon Musk, Sam Altman, Bill Gates y las ideas más descabelladas de los magnates de la industria tecnológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-automatizar-tareas-trabajo-repetitivas-puede-ser-mala-idea-excientifica-jefe-google-1451706'>La IA para automatizar tareas de trabajo repetitivas puede ser mala idea, según esta excientífica jefe de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-automatizar-tareas-trabajo-repetitivas-puede-ser-mala-idea-excientifica-jefe-google-1451706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cassie-kozyrkov-4309807.jpg?tf=1200x' alt='La IA para automatizar tareas de trabajo repetitivas puede ser mala idea, según esta excientífica jefe de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449'>Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-1452449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-advierte-usuarios-chatgpt-no-estais-preparados-4310331.jpg?tf=1200x' alt='Sam Altman advierte a los usuarios de ChatGPT: "No estáis preparados"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394'>La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-peligrosa-estafa-puedes-perder-control-whatsapp-1452394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-whatsapp-policia-4310441.jpg?tf=1200x' alt='La Policía Nacional alerta sobre la última y peligrosa estafa: "Puedes perder el control de tu WhatsApp"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/linux-vuela-portatil-64gb-ram-amazon-vende-precio-bastante-sorprendente-1452090'>Linux vuela en este portátil con 64GB de RAM que Amazon vende a un precio bastante sorprendente</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/linux-vuela-portatil-64gb-ram-amazon-vende-precio-bastante-sorprendente-1452090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/vant-moove15-4309776.jpg?tf=1200x' alt='Linux vuela en este portátil con 64GB de RAM que Amazon vende a un precio bastante sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456'>Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-1452456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experto-ia-tiene-claro-sera-ano-ser-humano-dejara-envejecer-4310340.jpg?tf=1200x' alt='Experto en IA lo tiene claro: este será el año en el que el ser humano dejará de envejecer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429'>Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-lado-oscuro-chatgpt-no-controla-podria-ser-mucho-peor-1452429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4310328.jpg?tf=1200x' alt='Expertos descubren el lado más oscuro de ChatGPT: "Si no se controla, podría ser mucho peor"' />
     </a>
 </div>
 
