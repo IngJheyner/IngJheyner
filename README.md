@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llegan-tabletas-galaxy-tab-s10-fe-creativos-nuevas-funciones-ia-multitarea-mejorada-1452541'>Llegan las tabletas Galaxy Tab S10 FE para los más creativos, con nuevas funciones de IA y multitarea mejorada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/llegan-tabletas-galaxy-tab-s10-fe-creativos-nuevas-funciones-ia-multitarea-mejorada-1452541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-tab-s10-4310909.jpg?tf=1200x' alt='Llegan las tabletas Galaxy Tab S10 FE para los más creativos, con nuevas funciones de IA y multitarea mejorada' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711'>Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-1452711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/disney-anade-fin-funcion-esperada-usuarios-estaba-netflix-max-hace-anos-4310889.jpg?tf=1200x' alt='Disney añade por fin la función más esperada por los usuarios, estaba en Netflix y MAX hace años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-peligroso-abismo-nos-lleva-ia-no-habra-humanidad-1452725'>Elon Musk alerta sobre el peligroso abismo al que nos lleva la IA: "No habrá más humanidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-peligroso-abismo-nos-lleva-ia-no-habra-humanidad-1452725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-alerta-peligro-ia-4310876.jpg?tf=1200x' alt='Elon Musk alerta sobre el peligroso abismo al que nos lleva la IA: "No habrá más humanidad"' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-aventura-alla-aspiradores-z1-c1-primeros-robots-piscinas-cristales-1452292'>Dreame se aventura más allá de los aspiradores con Z1 y C1, sus primeros robots para piscinas y cristales</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/dreame-aventura-alla-aspiradores-z1-c1-primeros-robots-piscinas-cristales-1452292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dreame-z1-pro-4311011.jpg?tf=1200x' alt='Dreame se aventura más allá de los aspiradores con Z1 y C1, sus primeros robots para piscinas y cristales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cerca-conseguir-parecia-imposible-acabar-windows-10-antes-tiempo-1452705'>Microsoft más cerca de conseguir lo que parecía imposible: acabar con Windows 10 antes de tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-cerca-conseguir-parecia-imposible-acabar-windows-10-antes-tiempo-1452705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft más cerca de conseguir lo que parecía imposible: acabar con Windows 10 antes de tiempo' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-primer-ser-vivo-capaz-sobrevivir-superficie-marte-1452773'>Científicos descubren el primer ser vivo capaz de sobrevivir en la superficie de Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-primer-ser-vivo-capaz-sobrevivir-superficie-marte-1452773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ser-vivo-descubierto-marte-4310973.jpg?tf=1200x' alt='Científicos descubren el primer ser vivo capaz de sobrevivir en la superficie de Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-demasiado-linux-lite-opcion-revivir-viejo-pc-dramas-1452699'>Windows 11 es demasiado: Linux Lite, la opción para revivir tu viejo PC sin dramas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-demasiado-linux-lite-opcion-revivir-viejo-pc-dramas-1452699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-linux-lite-4310826.jpg?tf=1200x' alt='Windows 11 es demasiado: Linux Lite, la opción para revivir tu viejo PC sin dramas' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcionan-granjas-moviles-intentan-estafarte-sms-cada-dia-otra-vez-1452782'>Así funcionan las granjas de móviles que intentan estafarte por SMS cada día, una y otra vez</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcionan-granjas-moviles-intentan-estafarte-sms-cada-dia-otra-vez-1452782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/granjas-moviles-intentan-estafarte-sms-4311031.jpg?tf=1200x' alt='Así funcionan las granjas de móviles que intentan estafarte por SMS cada día, una y otra vez' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683'>Coca-Cola usa una IA para crear bebidas personalizadas para cada persona</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/coca-cola-usa-ia-crear-bebidas-personalizadas-cada-persona-1452683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coca-cola-usa-ia-crear-ia-crear-bebidas-personalizadas-cada-persona-4310788.jpg?tf=1200x' alt='Coca-Cola usa una IA para crear bebidas personalizadas para cada persona' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-1452689'>Gemini Live ha adelantado a ChatGPT con dos nuevas funciones disponibles para Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-1452689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gemini-live-ha-adelantado-chatgpt-dos-nuevas-funciones-disponibles-android-4310834.jpg?tf=1200x' alt='Gemini Live ha adelantado a ChatGPT con dos nuevas funciones disponibles para Android' />
     </a>
 </div>
 
