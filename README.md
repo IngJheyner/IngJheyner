@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990'>Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado:"Cavamos nuestra propia tumba”</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001'>LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/laliga-quiere-cortar-iptv-4311460.jpg?tf=1200x' alt='LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-tiktok-notes-app-paso-desapercibida-parecerse-demasiado-instagram-1452961'>Adiós a TikTok Notes, la app que pasó desapercibida por parecerse demasiado a Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-tiktok-notes-app-paso-desapercibida-parecerse-demasiado-instagram-1452961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tiktok-notes-desaparece-4311425.jpg?tf=1200x' alt='Adiós a TikTok Notes, la app que pasó desapercibida por parecerse demasiado a Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990'>Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4311427.jpg?tf=1200x' alt='Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado:"Cavamos nuestra propia tumba”' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4311427.jpg?tf=1200x' alt='Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968'>Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-presume-millon-usuarios-chatgpt-4311399.jpg?tf=1200x' alt='Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933'>Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4311347.jpg?tf=1200x' alt='Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952'>Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4311366.jpg?tf=1200x' alt='Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles' />
     </a>
 </div>
 
