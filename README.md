@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-1453130'>exFAT en Linux ahora es 172 veces más rápido: eliminados 80 GB de datos en menos de 2 segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-1453130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-4311685.jpg?tf=1200x' alt='exFAT en Linux ahora es 172 veces más rápido: eliminados 80 GB de datos en menos de 2 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149'>Por primera vez en la historia, los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primera-historia-tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-4311668.jpg?tf=1200x' alt='Por primera vez en la historia, los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/disenador-microsoft-admite-ignoraron-usuarios-windows-8-era-mundo-iphone-1453140'>Un diseñador de Microsoft admite que ignoraron a los usuarios con Windows 8: "Era un mundo de iPhone"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/disenador-microsoft-admite-ignoraron-usuarios-windows-8-era-mundo-iphone-1453140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-8-4311674.jpg?tf=1200x' alt='Un diseñador de Microsoft admite que ignoraron a los usuarios con Windows 8: "Era un mundo de iPhone"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajo-podria-estar-cuerda-floja-onu-dice-ia-afectara-casi-mitad-empleos-1453136'>Tu trabajo podría estar en la cuerda floja: la ONU dice que la IA afectará a casi la mitad de los empleos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/trabajo-podria-estar-cuerda-floja-onu-dice-ia-afectara-casi-mitad-empleos-1453136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/empleo-ia-4311669.jpg?tf=1200x' alt='Tu trabajo podría estar en la cuerda floja: la ONU dice que la IA afectará a casi la mitad de los empleos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-1453110'>Alemania y Francia crean el "Google Docs europeo" para romper con la dependencia de EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-1453110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-4311664.jpg?tf=1200x' alt='Alemania y Francia crean el "Google Docs europeo" para romper con la dependencia de EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-val-kilmer-merece-ser-recordado-puedes-ver-streaming-1452651'>5 películas por las que Val Kilmer merece ser recordado, y que puedes ver en streaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-val-kilmer-merece-ser-recordado-puedes-ver-streaming-1452651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-ha-generado-voz-val-kilmer-nueva-pelicula-topgun-2718595.jpg?tf=1200x' alt='5 películas por las que Val Kilmer merece ser recordado, y que puedes ver en streaming' />
     </a>
 </div>
 
