@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990'>Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado:"Cavamos nuestra propia tumba”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4311427.jpg?tf=1200x' alt='Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado:"Cavamos nuestra propia tumba”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-1452936'>Xiaomi confirma 22 móviles que recibirán HyperOS 3.0 y Android 16: ¿está el tuyo en la lista?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-1452936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-4311363.jpg?tf=1200x' alt='Xiaomi confirma 22 móviles que recibirán HyperOS 3.0 y Android 16: ¿está el tuyo en la lista?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968'>Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-presume-millon-usuarios-chatgpt-4311399.jpg?tf=1200x' alt='Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933'>Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4311347.jpg?tf=1200x' alt='Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952'>Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4311366.jpg?tf=1200x' alt='Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-1452945'>Los bots de IA están matando a la Wikipedia: su tráfico ha aumentado un 50%</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-1452945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-50-4311320.jpg?tf=1200x' alt='Los bots de IA están matando a la Wikipedia: su tráfico ha aumentado un 50%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-peligrosa-estafa-puedes-perder-control-whatsapp-1452394'>Policía Nacional activa la alerta en toda España por esta estafa de WhatsApp: "Pueden hacerse pasar por ti"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-peligrosa-estafa-puedes-perder-control-whatsapp-1452394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-whatsapp-policia-4310441.jpg?tf=1200x' alt='Policía Nacional activa la alerta en toda España por esta estafa de WhatsApp: "Pueden hacerse pasar por ti"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943'>Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mustafa-suleyman-gran-guru-ia-microsoft-4311358.jpg?tf=1200x' alt='Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"' />
     </a>
 </div>
 
