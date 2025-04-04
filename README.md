@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729'>Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-t-eye-deteccion-autismo-4310928.jpg?tf=1200x' alt='Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694'>Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prototipo-levitacion-magnetica-4310868.jpg?tf=1200x' alt='Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398'>Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/bill-williams-salmon-run-atari-videojuegos-retro-1452908'>Los médicos le dijeron que no llegaría a los 13 años de vida, pero le dio tiempo a crear un clásico de los videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/bill-williams-salmon-run-atari-videojuegos-retro-1452908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/medicos-dijeron-no-llegaria-13-anos-vida-pero-dio-tiempo-crear-clasico-videojuegos-4311283.jpg?tf=1200x' alt='Los médicos le dijeron que no llegaría a los 13 años de vida, pero le dio tiempo a crear un clásico de los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762'>Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-4310947.jpg?tf=1200x' alt='Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-1452662'>La OCU advierte: esta es la estafa más común en España, y lo que debes hacer para evitarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-1452662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-4310795.jpg?tf=1200x' alt='La OCU advierte: esta es la estafa más común en España, y lo que debes hacer para evitarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901'>Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-4311280.jpg?tf=1200x' alt='Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897'>Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-4311275.jpg?tf=1200x' alt='Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896'>Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hori-vence-nintendo-terreno-camara-perfecta-nueva-funcion-gamechat-nintendo-switch-2-4311256.jpg?tf=1200x' alt='Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2' />
     </a>
 </div>
 
