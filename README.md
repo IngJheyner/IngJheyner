@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-ver-filmin-1452911'>La película de suspense que dejó sin palabras a todo el mundo en los 90, y que ahora puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-ver-filmin-1452911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-verla-filmin-4311312.jpg?tf=1200x' alt='La película de suspense que dejó sin palabras a todo el mundo en los 90, y que ahora puedes ver en Filmin' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/south-park-ceba-elon-musk-voy-tomar-ketamina-j-poco-gobierno-1452997'>South Park se ceba con Elon Musk: "Voy a tomar ketamina y a j**** un poco al gobierno"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/south-park-ceba-elon-musk-voy-tomar-ketamina-j-poco-gobierno-1452997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-south-park-4311475.jpg?tf=1200x' alt='South Park se ceba con Elon Musk: "Voy a tomar ketamina y a j**** un poco al gobierno"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-1453067'>Elon Musk regala al ser humano a ser un mero esclavo de la IA: "Un gestor de arranque biológico"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-1453067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-4311629.jpg?tf=1200x' alt='Elon Musk regala al ser humano a ser un mero esclavo de la IA: "Un gestor de arranque biológico"' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-1452920'>Al nivel del Studio Ghibli o Akira: así es la película anime de Movistar Plus+ con mejores críticas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-1452920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-4311316.jpg?tf=1200x' alt='Al nivel del Studio Ghibli o Akira: así es la película anime de Movistar Plus+ con mejores críticas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/trabajadores-elon-musk-estrategia-despidos-1450607'>Los trabajadores despedidos por Elon Musk descubren su perversa estrategia: “Somos solo el canario en la mina”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/trabajadores-elon-musk-estrategia-despidos-1450607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canario-elon-musk-4311503.jpg?tf=1200x' alt='Los trabajadores despedidos por Elon Musk descubren su perversa estrategia: “Somos solo el canario en la mina”' />
+    <h4><a href='https://computerhoy.20minutos.es/life/canada-pesadilla-elon-musk-1451524'>Canadá no piensa pasarle una a Elon Musk: "No pagaremos hasta que estemos seguros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/canada-pesadilla-elon-musk-1451524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-rodeado-banderas-canada-4311506.jpg?tf=1200x' alt='Canadá no piensa pasarle una a Elon Musk: "No pagaremos hasta que estemos seguros"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-sustituir-sistema-ayudas-sociales-ia-pone-riesgo-millones-personas-vulnerables-1452963'>Elon Musk quiere sustituir el sistema de ayudas sociales por IA y pone en riesgo a millones de personas vulnerables</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-sustituir-sistema-ayudas-sociales-ia-pone-riesgo-millones-personas-vulnerables-1452963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4311407.jpg?tf=1200x' alt='Elon Musk quiere sustituir el sistema de ayudas sociales por IA y pone en riesgo a millones de personas vulnerables' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/cuenta-internet-rufus-liquida-muchas-restricciones-instalar-windows-11-1453103'>Ni cuenta ni Internet, Rufus liquida muchas de las restricciones para instalar Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/cuenta-internet-rufus-liquida-muchas-restricciones-instalar-windows-11-1453103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-rufus-windows-4311624.jpg?tf=1200x' alt='Ni cuenta ni Internet, Rufus liquida muchas de las restricciones para instalar Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950'>Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-4311357.jpg?tf=1200x' alt='Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/primer-pais-tomar-medidas-radicales-coche-electrico-no-podran-aparcar-parkings-subterraneos-1452974'>Primer país en tomar medidas radicales contra el coche eléctrico: no podrán aparcar en los parkings subterráneos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/primer-pais-tomar-medidas-radicales-coche-electrico-no-podran-aparcar-parkings-subterraneos-1452974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-incendiado-4311441.jpg?tf=1200x' alt='Primer país en tomar medidas radicales contra el coche eléctrico: no podrán aparcar en los parkings subterráneos' />
     </a>
 </div>
 
