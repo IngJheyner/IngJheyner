@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933'>Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-x-decision-elon-musk-habria-provocado-filtracion-masiva-datos-1452933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4311347.jpg?tf=1200x' alt='Alerta en X: una decisión de Elon Musk habría provocado una filtración masiva de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952'>Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4311366.jpg?tf=1200x' alt='Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943'>Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mustafa-suleyman-gran-guru-ia-microsoft-4311358.jpg?tf=1200x' alt='Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102'>Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/miyoo-mini-plus-4309797.jpg?tf=1200x' alt='Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo' />
     </a>
 </div>
 
