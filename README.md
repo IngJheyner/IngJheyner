@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102'>Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/miyoo-mini-plus-4309797.jpg?tf=1200x' alt='Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528'>El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4309982.jpg?tf=1200x' alt='El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694'>Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prototipo-levitacion-magnetica-4310868.jpg?tf=1200x' alt='Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398'>Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura' />
     </a>
 </div>
 
