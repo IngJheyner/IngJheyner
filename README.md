@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762'>Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-4310947.jpg?tf=1200x' alt='Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-1452662'>La OCU advierte: esta es la estafa más común en España, y lo que debes hacer para evitarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-1452662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-advierte-estafa-comun-espana-debes-hacer-evitarla-4310795.jpg?tf=1200x' alt='La OCU advierte: esta es la estafa más común en España, y lo que debes hacer para evitarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901'>Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-4311280.jpg?tf=1200x' alt='Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896'>Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hori-vence-nintendo-terreno-camara-perfecta-nueva-funcion-gamechat-nintendo-switch-2-4311256.jpg?tf=1200x' alt='Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-1452866'>Google hace saltar las alarmas: hay hackers norcoreanos teletrabajando en empresas de toda Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-1452866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-hace-saltar-alarmas-hay-hackers-norcoreanos-teletrabajando-empresas-toda-europa-4311265.jpg?tf=1200x' alt='Google hace saltar las alarmas: hay hackers norcoreanos teletrabajando en empresas de toda Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888'>Google Maps no solo te guía, también podría estar manipulando tu forma de pensar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-4311255.jpg?tf=1200x' alt='Google Maps no solo te guía, también podría estar manipulando tu forma de pensar' />
     </a>
 </div>
 
