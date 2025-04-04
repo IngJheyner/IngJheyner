@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025'>Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/midni-4311526.jpg?tf=1200x' alt='Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hack-reinventa-chatgpt-sacando-lado-rebelde-peligroso-usalo-responsabilidad-1453021'>Este hack reinventa ChatGPT sacando su lado más rebelde y peligroso: úsalo bajo tu responsabilidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hack-reinventa-chatgpt-sacando-lado-rebelde-peligroso-usalo-responsabilidad-1453021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-diablo-4311486.jpg?tf=1200x' alt='Este hack reinventa ChatGPT sacando su lado más rebelde y peligroso: úsalo bajo tu responsabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001'>LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/laliga-quiere-cortar-iptv-4311460.jpg?tf=1200x' alt='LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990'>Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4311427.jpg?tf=1200x' alt='Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-1452936'>Xiaomi confirma 22 móviles que recibirán HyperOS 3.0 y Android 16: ¿está el tuyo en la lista?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-1452936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-confirma-22-moviles-recibiran-hyperos-30-android-16-lista-4311363.jpg?tf=1200x' alt='Xiaomi confirma 22 móviles que recibirán HyperOS 3.0 y Android 16: ¿está el tuyo en la lista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968'>Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-guerra-miyazaki-ni-gpu-rojo-vivo-sam-altman-presume-millon-usuarios-hora-chatgpt-studio-ghibli-1452968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-presume-millon-usuarios-chatgpt-4311399.jpg?tf=1200x' alt='Ni guerra con Miyazaki, ni GPU al rojo vivo: Sam Altman presume del millón de usuarios en una hora de ChatGPT por Studio Ghibli' />
     </a>
 </div>
 
