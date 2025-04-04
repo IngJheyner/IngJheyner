@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901'>Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-1452901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-deja-claro-pc-no-compatible-windows-11-mejor-comprate-otro-4311280.jpg?tf=1200x' alt='Microsoft lo deja claro: si tu PC no es compatible con Windows 11, mejor cómprate otro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897'>Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-4311275.jpg?tf=1200x' alt='Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888'>Google Maps no solo te guía, también podría estar manipulando tu forma de pensar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-1452888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-no-solo-te-guia-tambien-podria-estar-manipulando-forma-pensar-4311255.jpg?tf=1200x' alt='Google Maps no solo te guía, también podría estar manipulando tu forma de pensar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886'>Una misteriosa app de Google llega a Android Auto con un propósito incierto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/misteriosa-app-google-llega-android-auto-proposito-incierto-4311253.jpg?tf=1200x' alt='Una misteriosa app de Google llega a Android Auto con un propósito incierto' />
     </a>
 </div>
 
