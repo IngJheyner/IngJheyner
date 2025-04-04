@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-ver-filmin-1452911'>La película de suspense que dejó sin palabras a todo el mundo en los 90, y que ahora puedes ver en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-ver-filmin-1452911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/pelicula-suspense-dejo-palabras-todo-mundo-90-ahora-puedes-verla-filmin-4311312.jpg?tf=1200x' alt='La película de suspense que dejó sin palabras a todo el mundo en los 90, y que ahora puedes ver en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-1453067'>Elon Musk regala al ser humano a ser un mero esclavo de la IA: "Un gestor de arranque biológico"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-1453067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-regala-ser-humano-ser-mero-esclavo-ia-gestor-arranque-biologico-4311629.jpg?tf=1200x' alt='Elon Musk regala al ser humano a ser un mero esclavo de la IA: "Un gestor de arranque biológico"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/trabajadores-elon-musk-estrategia-despidos-1450607'>Los trabajadores despedidos por Elon Musk descubren su perversa estrategia: “Somos solo el canario en la mina”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/trabajadores-elon-musk-estrategia-despidos-1450607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canario-elon-musk-4311503.jpg?tf=1200x' alt='Los trabajadores despedidos por Elon Musk descubren su perversa estrategia: “Somos solo el canario en la mina”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-sustituir-sistema-ayudas-sociales-ia-pone-riesgo-millones-personas-vulnerables-1452963'>Elon Musk quiere sustituir el sistema de ayudas sociales por IA y pone en riesgo a millones de personas vulnerables</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-sustituir-sistema-ayudas-sociales-ia-pone-riesgo-millones-personas-vulnerables-1452963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4311407.jpg?tf=1200x' alt='Elon Musk quiere sustituir el sistema de ayudas sociales por IA y pone en riesgo a millones de personas vulnerables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950'>Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-4311357.jpg?tf=1200x' alt='Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-punto-debil-bloqueos-iptv-laliga-1451597'>Javier Tebas desvela el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-punto-debil-bloqueos-iptv-laliga-1451597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-4309055.jpg?tf=1200x' alt='Javier Tebas desvela el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-1452977'>Giro de 180 grados para Waze: cambiará su estética para siempre para los usuarios de Android </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-1452977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-4311408.jpg?tf=1200x' alt='Giro de 180 grados para Waze: cambiará su estética para siempre para los usuarios de Android ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-frustra-esperanzas-millones-personas-todo-mundo-no-ira-ninguna-parte-1453086'>Elon Musk frustra las esperanzas de millones de personas en todo el mundo: “No se irá a ninguna parte” </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-frustra-esperanzas-millones-personas-todo-mundo-no-ira-ninguna-parte-1453086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-personas-dinero-mundo-4311573.jpg?tf=1200x' alt='Elon Musk frustra las esperanzas de millones de personas en todo el mundo: “No se irá a ninguna parte” ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-recuperar-canales-miticos-gratis-todos-clientes-1453037'>Movistar Plus+ podría recuperar uno de sus canales más míticos, gratis para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-recuperar-canales-miticos-gratis-todos-clientes-1453037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-podrias-recuperar-canales-miticos-gratis-todos-clientes-4311507.jpg?tf=1200x' alt='Movistar Plus+ podría recuperar uno de sus canales más míticos, gratis para todos sus clientes' />
     </a>
 </div>
 
