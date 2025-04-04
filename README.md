@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-1453110'>Alemania y Francia crean el "Google Docs europeo" para romper con la dependencia de EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-1453110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alemania-francia-crean-google-docs-europeo-romper-dependencia-eeuu-4311664.jpg?tf=1200x' alt='Alemania y Francia crean el "Google Docs europeo" para romper con la dependencia de EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-val-kilmer-merece-ser-recordado-puedes-ver-streaming-1452651'>5 películas por las que Val Kilmer merece ser recordado, y que puedes ver en streaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-val-kilmer-merece-ser-recordado-puedes-ver-streaming-1452651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/inteligencia-artificial-ha-generado-voz-val-kilmer-nueva-pelicula-topgun-2718595.jpg?tf=1200x' alt='5 películas por las que Val Kilmer merece ser recordado, y que puedes ver en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-cancela-reservas-nintendo-switch-2-tarifas-donald-trump-fecha-lanzamiento-peligro-1453121'>Nintendo cancela las reservas de Nintendo Switch 2 por las tarifas de Donald Trump, la fecha de lanzamiento en peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-cancela-reservas-nintendo-switch-2-tarifas-donald-trump-fecha-lanzamiento-peligro-1453121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nintendo-cancela-reservas-nintendo-switch-2-tarifas-donald-trump-fecha-lanzamiento-peligro-4311656.jpg?tf=1200x' alt='Nintendo cancela las reservas de Nintendo Switch 2 por las tarifas de Donald Trump, la fecha de lanzamiento en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/south-park-ceba-elon-musk-voy-tomar-ketamina-j-poco-gobierno-1452997'>South Park se ceba con Elon Musk: "Voy a tomar ketamina y a j**** un poco al gobierno"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/south-park-ceba-elon-musk-voy-tomar-ketamina-j-poco-gobierno-1452997' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-south-park-4311475.jpg?tf=1200x' alt='South Park se ceba con Elon Musk: "Voy a tomar ketamina y a j**** un poco al gobierno"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-1452920'>Al nivel del Studio Ghibli o Akira: así es la película anime de Movistar Plus+ con mejores críticas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-1452920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nivel-studio-ghibli-akira-pelicula-anime-movistar-plus-mejores-criticas-4311316.jpg?tf=1200x' alt='Al nivel del Studio Ghibli o Akira: así es la película anime de Movistar Plus+ con mejores críticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/canada-pesadilla-elon-musk-1451524'>Canadá no piensa pasarle una a Elon Musk: "No pagaremos hasta que estemos seguros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/canada-pesadilla-elon-musk-1451524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-rodeado-banderas-canada-4311506.jpg?tf=1200x' alt='Canadá no piensa pasarle una a Elon Musk: "No pagaremos hasta que estemos seguros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/cuenta-internet-rufus-liquida-muchas-restricciones-instalar-windows-11-1453103'>Ni cuenta ni Internet, Rufus liquida muchas de las restricciones para instalar Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/cuenta-internet-rufus-liquida-muchas-restricciones-instalar-windows-11-1453103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-rufus-windows-4311624.jpg?tf=1200x' alt='Ni cuenta ni Internet, Rufus liquida muchas de las restricciones para instalar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/primer-pais-tomar-medidas-radicales-coche-electrico-no-podran-aparcar-parkings-subterraneos-1452974'>Primer país en tomar medidas radicales contra el coche eléctrico: no podrán aparcar en los parkings subterráneos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/primer-pais-tomar-medidas-radicales-coche-electrico-no-podran-aparcar-parkings-subterraneos-1452974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-incendiado-4311441.jpg?tf=1200x' alt='Primer país en tomar medidas radicales contra el coche eléctrico: no podrán aparcar en los parkings subterráneos' />
     </a>
 </div>
 
