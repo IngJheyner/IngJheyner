@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023'>Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-4311488.jpg?tf=1200x' alt='Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043'>Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-4311508.jpg?tf=1200x' alt='Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/circulo-azul-meta-ai-whatsapp-no-puedes-desactivarlo-proteger-privacidad-1453041'>Círculo azul de Meta AI en WhatsApp: por qué no puedes desactivarlo y qué puedes hacer para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/circulo-azul-meta-ai-whatsapp-no-puedes-desactivarlo-proteger-privacidad-1453041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberseguridad-usar-mera-ai-4311541.jpg?tf=1200x' alt='Círculo azul de Meta AI en WhatsApp: por qué no puedes desactivarlo y qué puedes hacer para proteger tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nino-becerra-alerta-proximo-gran-riesgo-privacidad-espanoles-llegara-antes-piensa-1453013'>Niño Becerra alerta sobre el próximo gran riesgo para privacidad de los españoles: "Llegará antes de lo que se piensa"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nino-becerra-alerta-proximo-gran-riesgo-privacidad-espanoles-llegara-antes-piensa-1453013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nino-becerra-euro-digital-4311493.jpg?tf=1200x' alt='Niño Becerra alerta sobre el próximo gran riesgo para privacidad de los españoles: "Llegará antes de lo que se piensa"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025'>Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/midni-4311526.jpg?tf=1200x' alt='Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hack-reinventa-chatgpt-sacando-lado-rebelde-peligroso-usalo-responsabilidad-1453021'>Este hack reinventa ChatGPT sacando su lado más rebelde y peligroso: úsalo bajo tu responsabilidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hack-reinventa-chatgpt-sacando-lado-rebelde-peligroso-usalo-responsabilidad-1453021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-diablo-4311486.jpg?tf=1200x' alt='Este hack reinventa ChatGPT sacando su lado más rebelde y peligroso: úsalo bajo tu responsabilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001'>LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/laliga-quiere-cortar-iptv-raiz-nuevo-objetivo-son-aplicaciones-ha-comenzado-denunciarlas-1453001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/laliga-quiere-cortar-iptv-4311460.jpg?tf=1200x' alt='LaLiga quiere cortar las IPTV de raíz: su nuevo objetivo son las aplicaciones y ha comenzado a denunciarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-tiktok-notes-app-paso-desapercibida-parecerse-demasiado-instagram-1452961'>Adiós a TikTok Notes, la app que pasó desapercibida por parecerse demasiado a Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-tiktok-notes-app-paso-desapercibida-parecerse-demasiado-instagram-1452961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tiktok-notes-desaparece-4311425.jpg?tf=1200x' alt='Adiós a TikTok Notes, la app que pasó desapercibida por parecerse demasiado a Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990'>Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-tenia-razon-tesla-cybertruck-no-vende-ni-regaladocavamos-propia-tumba-1452990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4311427.jpg?tf=1200x' alt='Elon Musk tenía razón y el Tesla Cybertruck no se vende ni regalado: "Cavamos nuestra propia tumba”' />
     </a>
 </div>
 
