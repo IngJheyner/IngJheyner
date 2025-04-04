@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528'>El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4309982.jpg?tf=1200x' alt='El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-sopla-velas-50-anos-logros-decisiones-incorrectas-mirada-puesta-futuro-ia-1452482'>Microsoft sopla las velas: 50 años de logros y decisiones incorrectas, con la mirada puesta en el futuro de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-sopla-velas-50-anos-logros-decisiones-incorrectas-mirada-puesta-futuro-ia-1452482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-cumple-50-anos-4311135.jpg?tf=1200x' alt='Microsoft sopla las velas: 50 años de logros y decisiones incorrectas, con la mirada puesta en el futuro de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729'>Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-t-eye-deteccion-autismo-4310928.jpg?tf=1200x' alt='Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398'>Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/vpn-tiene-mes-medio-prueba-baratas-he-probado-televisor-apuesta-segura-1452398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cyberghost-3408327.jpg?tf=1200x' alt='Esta VPN tiene mes y medio de prueba y es de las más baratas: la he probado y para el televisor es apuesta segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/bill-williams-salmon-run-atari-videojuegos-retro-1452908'>Los médicos le dijeron que no llegaría a los 13 años de vida, pero le dio tiempo a crear un clásico de los videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/bill-williams-salmon-run-atari-videojuegos-retro-1452908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/medicos-dijeron-no-llegaria-13-anos-vida-pero-dio-tiempo-crear-clasico-videojuegos-4311283.jpg?tf=1200x' alt='Los médicos le dijeron que no llegaría a los 13 años de vida, pero le dio tiempo a crear un clásico de los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762'>Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-1452762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ha-sustituido-ghosting-nueva-tendencia-generacion-z-redes-sociales-preocupa-expertos-4310947.jpg?tf=1200x' alt='Ha sustituido al ghosting: así es la nueva tendencia de la generación Z en redes sociales que preocupa a los expertos' />
     </a>
 </div>
 
