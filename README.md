@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897'>Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-1452897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-convierte-tesla-infierno-coche-suenos-ha-convertido-pesadilla-viviente-4311275.jpg?tf=1200x' alt='Elon Musk convierte Tesla en un infierno: "El coche de mis sueños se ha convertido en una pesadilla viviente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896'>Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/hori-camara-planta-pirana-nintendo-switch-2-1452896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hori-vence-nintendo-terreno-camara-perfecta-nueva-funcion-gamechat-nintendo-switch-2-4311256.jpg?tf=1200x' alt='Hori humilla a Nintendo con la cámara perfecta para la nueva función GameChat de Nintendo Switch 2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886'>Una misteriosa app de Google llega a Android Auto con un propósito incierto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/misteriosa-app-google-llega-android-auto-proposito-incierto-1452886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/misteriosa-app-google-llega-android-auto-proposito-incierto-4311253.jpg?tf=1200x' alt='Una misteriosa app de Google llega a Android Auto con un propósito incierto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885'>¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-reinicios-windows-11-permite-instalar-actualizaciones-seguridad-reinicios-1452885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-windows-11-4311251.jpg?tf=1200x' alt='¡Adiós reinicios! Windows 11 permite instalar actualizaciones de seguridad sin reinicios' />
     </a>
 </div>
 
