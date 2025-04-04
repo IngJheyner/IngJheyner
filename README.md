@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-1453010'>Bill Gates podría estar equivocado: estos son los problemas de trabajar dos días a la semana, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-1453010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-4311470.jpg?tf=1200x' alt='Bill Gates podría estar equivocado: estos son los problemas de trabajar dos días a la semana, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-1453000'>Bill Gates ha mostrado el primer gran código de Microsoft en el 50 aniversario: “Es el mejor que se ha creado”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-1453000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-4311442.jpg?tf=1200x' alt='Bill Gates ha mostrado el primer gran código de Microsoft en el 50 aniversario: “Es el mejor que se ha creado”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-1453003'>Sam Altman ha tenido una idea genial para hacerse con el monopolio de la IA: regalar ChatGPT Plus a los estudiantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-1453003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-4311454.jpg?tf=1200x' alt='Sam Altman ha tenido una idea genial para hacerse con el monopolio de la IA: regalar ChatGPT Plus a los estudiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023'>Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-4311488.jpg?tf=1200x' alt='Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043'>Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-4311508.jpg?tf=1200x' alt='Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/circulo-azul-meta-ai-whatsapp-no-puedes-desactivarlo-proteger-privacidad-1453041'>Círculo azul de Meta AI en WhatsApp: por qué no puedes desactivarlo y qué puedes hacer para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/circulo-azul-meta-ai-whatsapp-no-puedes-desactivarlo-proteger-privacidad-1453041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberseguridad-usar-mera-ai-4311541.jpg?tf=1200x' alt='Círculo azul de Meta AI en WhatsApp: por qué no puedes desactivarlo y qué puedes hacer para proteger tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nino-becerra-alerta-proximo-gran-riesgo-privacidad-espanoles-llegara-antes-piensa-1453013'>Niño Becerra alerta sobre el próximo gran riesgo para privacidad de los españoles: "Llegará antes de lo que se piensa"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nino-becerra-alerta-proximo-gran-riesgo-privacidad-espanoles-llegara-antes-piensa-1453013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nino-becerra-euro-digital-4311493.jpg?tf=1200x' alt='Niño Becerra alerta sobre el próximo gran riesgo para privacidad de los españoles: "Llegará antes de lo que se piensa"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025'>Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-obtener-codigo-activacion-tener-dni-movil-mi-midni-1453025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/midni-4311526.jpg?tf=1200x' alt='Cómo obtener el código de activación para tener el DNI en el móvil con mi MiDNI' />
     </a>
 </div>
 
