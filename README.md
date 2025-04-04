@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952'>Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/donald-trump-pone-precio-iphone-17-2300-dolares-apple-samsung-jaque-nuevos-aranceles-1452952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4311366.jpg?tf=1200x' alt='Donald Trump le pone precio al iPhone 17: ¿2.300 dólares? Apple y Samsung en jaque por los nuevos aranceles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-1452945'>Los bots de IA están matando a la Wikipedia: su tráfico ha aumentado un 50%</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-1452945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bots-ia-estan-matando-wikipedia-trafico-ha-aumentado-50-4311320.jpg?tf=1200x' alt='Los bots de IA están matando a la Wikipedia: su tráfico ha aumentado un 50%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-peligrosa-estafa-puedes-perder-control-whatsapp-1452394'>Policía Nacional activa la alerta en toda España por esta estafa de WhatsApp: "Pueden hacerse pasar por ti"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-peligrosa-estafa-puedes-perder-control-whatsapp-1452394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-whatsapp-policia-4310441.jpg?tf=1200x' alt='Policía Nacional activa la alerta en toda España por esta estafa de WhatsApp: "Pueden hacerse pasar por ti"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943'>Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mustafa-suleyman-gran-guru-ia-microsoft-predice-futuro-olvidate-raton-teclado-olvidate-windows-1452943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mustafa-suleyman-gran-guru-ia-microsoft-4311358.jpg?tf=1200x' alt='Mustafa Suleyman, gran gurú de la IA de Microsoft, predice tu futuro: "Olvídate del ratón y el teclado, olvídate de Windows"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102'>Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/retro-lleva-linux-tambien-consola-noventera-barata-bolsillo-1452102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/miyoo-mini-plus-4309797.jpg?tf=1200x' alt='Lo retro se lleva y Linux también: esta consola noventera es barata y cabe en el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528'>El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a36-5g-opcion-perfecta-buscas-movil-te-aguante-5-anos-1452528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a36-5g-4309982.jpg?tf=1200x' alt='El Samsung Galaxy A36 5G es una opción perfecta si buscas un móvil que te aguante más de 5 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-sopla-velas-50-anos-logros-decisiones-incorrectas-mirada-puesta-futuro-ia-1452482'>Microsoft sopla las velas: 50 años de logros y decisiones incorrectas, con la mirada puesta en el futuro de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-sopla-velas-50-anos-logros-decisiones-incorrectas-mirada-puesta-futuro-ia-1452482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-cumple-50-anos-4311135.jpg?tf=1200x' alt='Microsoft sopla las velas: 50 años de logros y decisiones incorrectas, con la mirada puesta en el futuro de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729'>Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-espanoles-crean-sistema-ia-detecta-autismo-ninos-85-precision-1452729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-t-eye-deteccion-autismo-4310928.jpg?tf=1200x' alt='Expertos españoles crean un sistema con IA que detecta el autismo en niños con un 85% de precisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694'>Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ruedas-ni-combustible-japon-ya-tiene-tecnologia-jubilara-coches-electricos-1452694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/prototipo-levitacion-magnetica-4310868.jpg?tf=1200x' alt='Ni ruedas ni combustible, Japón ya tiene la tecnología que jubilará a los coches eléctricos' />
     </a>
 </div>
 
