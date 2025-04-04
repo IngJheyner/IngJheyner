@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-1453010'>Bill Gates podría estar equivocado: estos son los problemas de trabajar dos días a la semana, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-1453010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-podria-estar-equivocado-estos-son-problemas-trabajar-dos-dias-semana-expertos-4311470.jpg?tf=1200x' alt='Bill Gates podría estar equivocado: estos son los problemas de trabajar dos días a la semana, según los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950'>Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-1452950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-tiene-sorprendente-herramienta-pensar-no-ia-4311357.jpg?tf=1200x' alt='Sam Altman tiene una sorprendente herramienta para pensar, y no es la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-1453000'>Bill Gates ha mostrado el primer gran código de Microsoft en el 50 aniversario: “Es el mejor que se ha creado”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-1453000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-ha-mostrado-primer-gran-codigo-microsoft-50-aniversario-mejor-ha-creado-4311442.jpg?tf=1200x' alt='Bill Gates ha mostrado el primer gran código de Microsoft en el 50 aniversario: “Es el mejor que se ha creado”' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-punto-debil-bloqueos-iptv-laliga-1451597'>Javier Tebas desvela el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-punto-debil-bloqueos-iptv-laliga-1451597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-4309055.jpg?tf=1200x' alt='Javier Tebas desvela el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-1453003'>Sam Altman ha tenido una idea genial para hacerse con el monopolio de la IA: regalar ChatGPT Plus a los estudiantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-1453003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-ha-tenido-idea-genial-hacerse-monopolio-ia-regalar-chatgpt-plus-estudiantes-4311454.jpg?tf=1200x' alt='Sam Altman ha tenido una idea genial para hacerse con el monopolio de la IA: regalar ChatGPT Plus a los estudiantes' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-1452977'>Giro de 180 grados para Waze: cambiará su estética para siempre para los usuarios de Android </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-1452977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-waze-cambiara-estetica-siempre-usuarios-android-4311408.jpg?tf=1200x' alt='Giro de 180 grados para Waze: cambiará su estética para siempre para los usuarios de Android ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023'>Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-1453023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-advierten-nunca-devuelves-llamada-perdida-estos-numeros-estafa-4311488.jpg?tf=1200x' alt='Los expertos advierten: nunca devuelves una llamada perdida a estos números, es una estafa' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-frustra-esperanzas-millones-personas-todo-mundo-no-ira-ninguna-parte-1453086'>Elon Musk frustra las esperanzas de millones de personas en todo el mundo: “No se irá a ninguna parte” </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-frustra-esperanzas-millones-personas-todo-mundo-no-ira-ninguna-parte-1453086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-personas-dinero-mundo-4311573.jpg?tf=1200x' alt='Elon Musk frustra las esperanzas de millones de personas en todo el mundo: “No se irá a ninguna parte” ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043'>Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-1453043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grandes-carencias-nintendo-switch-2-descubierto-no-tipo-jugadores-4311508.jpg?tf=1200x' alt='Las grandes carencias de Nintendo Switch 2 al descubierto: "No es para este tipo de jugadores"' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-recuperar-canales-miticos-gratis-todos-clientes-1453037'>Movistar Plus+ podría recuperar uno de sus canales más míticos, gratis para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-recuperar-canales-miticos-gratis-todos-clientes-1453037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-plus-podrias-recuperar-canales-miticos-gratis-todos-clientes-4311507.jpg?tf=1200x' alt='Movistar Plus+ podría recuperar uno de sus canales más míticos, gratis para todos sus clientes' />
     </a>
 </div>
 
