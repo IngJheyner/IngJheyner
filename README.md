@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241'>Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reimaginacion-iphone-4311791.jpg?tf=1200x' alt='Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240'>Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/seguridad-whatsapp-4311788.jpg?tf=1200x' alt='Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573'>¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/esqueleto-persona-escaner-aeropuerto-4311014.jpg?tf=1200x' alt='¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219'>Microsoft bloquea la actualización Windows 11 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-windows-11-4311767.jpg?tf=1200x' alt='Microsoft bloquea la actualización Windows 11 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error' />
     </a>
 </div>
 
