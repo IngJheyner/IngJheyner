@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311'>Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-4303739.jpg?tf=1200x' alt='Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/rusia-lanza-tres-satelites-libera-misterio-objeto-desconocido-1453175'>Rusia lanza tres satélites y uno de ellos libera un misterio objeto desconocido</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/rusia-lanza-tres-satelites-libera-misterio-objeto-desconocido-1453175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/rusia-lanza-tres-satelites-ellos-libera-misterio-objeto-desconocido-4311703.jpg?tf=1200x' alt='Rusia lanza tres satélites y uno de ellos libera un misterio objeto desconocido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guillaume-deterville-hacker-cuentas-bancarias-1449693'>Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guillaume-deterville-hacker-cuentas-bancarias-1449693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hacker-ordenador-tarjeta-credito-4311513.jpg?tf=1200x' alt='Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367'>El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidades-claves-cuentas-4308627.jpg?tf=1200x' alt='El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368'>Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-4308638.jpg?tf=1200x' alt='Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-4310738.jpg?tf=1200x' alt='Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/televisores-lg-pierden-importante-funcion-1-mayo-1453162'>Los televisores LG pierden una importante función el 1 de mayo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/televisores-lg-pierden-importante-funcion-1-mayo-1453162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/televisores-lg-pierden-importante-funcion-1-mayo-4311694.jpg?tf=1200x' alt='Los televisores LG pierden una importante función el 1 de mayo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-4310210.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos' />
     </a>
 </div>
 
