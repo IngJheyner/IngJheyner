@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243'>Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-gaming-4311793.jpg?tf=1200x' alt='Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-gafas-realidad-aumentada-son-baratas-hacen-todo-puedes-pedir-1453234'>Ni Meta ni Apple: estas gafas de realidad aumentada son baratas y hacen todo lo que puedes pedir</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-gafas-realidad-aumentada-son-baratas-hacen-todo-puedes-pedir-1453234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orion-realidad-aumentada-gafas-meta-4261376.jpg?tf=1200x' alt='Ni Meta ni Apple: estas gafas de realidad aumentada son baratas y hacen todo lo que puedes pedir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242'>¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/youtube-4311792.jpg?tf=1200x' alt='¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241'>Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reimaginacion-iphone-4311791.jpg?tf=1200x' alt='Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240'>Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/seguridad-whatsapp-4311788.jpg?tf=1200x' alt='Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228'>Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/descarga-aplicaciones-android-4311776.jpg?tf=1200x' alt='Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225'>Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/netflix-4311771.jpg?tf=1200x' alt='Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573'>¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/esqueleto-persona-escaner-aeropuerto-4311014.jpg?tf=1200x' alt='¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?' />
     </a>
 </div>
 
