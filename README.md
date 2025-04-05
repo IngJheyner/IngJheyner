@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367'>El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidades-claves-cuentas-4308627.jpg?tf=1200x' alt='El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368'>Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-4308638.jpg?tf=1200x' alt='Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
     <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-4310738.jpg?tf=1200x' alt='Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-4310210.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-toma-mando-humanidad-nos-estamos-volviendo-demasiado-dependientes-tecnologia-1452204'>La IA toma el mando de la humanidad: ¿nos estamos volviendo demasiado dependientes de esta tecnología?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-toma-mando-humanidad-nos-estamos-volviendo-demasiado-dependientes-tecnologia-1452204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-toma-mando-humanidad-4309959.jpg?tf=1200x' alt='La IA toma el mando de la humanidad: ¿nos estamos volviendo demasiado dependientes de esta tecnología?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518'>Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fotograma-llegada-2016-logo-chtgpt-4309462.jpg?tf=1200x' alt='Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción' />
     </a>
 </div>
 
