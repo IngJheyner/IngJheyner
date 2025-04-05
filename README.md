@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-4310210.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-toma-mando-humanidad-nos-estamos-volviendo-demasiado-dependientes-tecnologia-1452204'>La IA toma el mando de la humanidad: ¿nos estamos volviendo demasiado dependientes de esta tecnología?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-toma-mando-humanidad-nos-estamos-volviendo-demasiado-dependientes-tecnologia-1452204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-toma-mando-humanidad-4309959.jpg?tf=1200x' alt='La IA toma el mando de la humanidad: ¿nos estamos volviendo demasiado dependientes de esta tecnología?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518'>Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fotograma-llegada-2016-logo-chtgpt-4309462.jpg?tf=1200x' alt='Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-h15-pro-aspiradora-seco-humedo-1450661'>He probado la Dreame H15 Pro, una aspiradora en seco y húmedo muy avanzada, ¿pero reemplazará a mi querida fregona?</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/dreame-h15-pro-aspiradora-seco-humedo-1450661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dreame-h15-pro-4310678.jpg?tf=1200x' alt='He probado la Dreame H15 Pro, una aspiradora en seco y húmedo muy avanzada, ¿pero reemplazará a mi querida fregona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-cuales-son-trabajos-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-1452346'>Le preguntamos a la IA cuáles son los trabajos inmunes a la inteligencia artificial y no duda: "Ninguna profesión está a salvo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-cuales-son-trabajos-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-1452346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-cuales-son-trabajos-son-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-4310188.jpg?tf=1200x' alt='Le preguntamos a la IA cuáles son los trabajos inmunes a la inteligencia artificial y no duda: "Ninguna profesión está a salvo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/7-alternativas-baratas-secador-pelo-dyson-tambien-merecen-pena-1421838'>6 alternativas baratas al secador de pelo Dyson que también merecen la pena</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/7-alternativas-baratas-secador-pelo-dyson-tambien-merecen-pena-1421838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cecotec-bamba-ceramiccare-4311472.jpg?tf=1200x' alt='6 alternativas baratas al secador de pelo Dyson que también merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-1453130'>exFAT en Linux ahora es 172 veces más rápido: eliminados 80 GB de datos en menos de 2 segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-1453130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/exfat-linux-ahora-172-veces-rapido-eliminados-80-gb-datos-menos-2-segundos-4311685.jpg?tf=1200x' alt='exFAT en Linux ahora es 172 veces más rápido: eliminados 80 GB de datos en menos de 2 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149'>Por primera vez en la historia los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primera-historia-tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-4311668.jpg?tf=1200x' alt='Por primera vez en la historia los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/disenador-microsoft-admite-ignoraron-usuarios-windows-8-era-mundo-iphone-1453140'>Un diseñador de Microsoft admite que ignoraron a los usuarios con Windows 8: "Era un mundo de iPhone"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/disenador-microsoft-admite-ignoraron-usuarios-windows-8-era-mundo-iphone-1453140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-8-4311674.jpg?tf=1200x' alt='Un diseñador de Microsoft admite que ignoraron a los usuarios con Windows 8: "Era un mundo de iPhone"' />
     </a>
 </div>
 
