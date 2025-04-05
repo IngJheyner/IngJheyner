@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228'>Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/descarga-aplicaciones-android-4311776.jpg?tf=1200x' alt='Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225'>Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/netflix-4311771.jpg?tf=1200x' alt='Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017'>Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-4304834.jpg?tf=1200x' alt='Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214'>Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-avatar-4311762.jpg?tf=1200x' alt='Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca' />
     </a>
 </div>
 
