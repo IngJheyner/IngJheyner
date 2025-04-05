@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149'>Por primera vez en la historia, los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149'>Por primera vez en la historia los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-1453149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primera-historia-tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-4311668.jpg?tf=1200x' alt='Por primera vez en la historia, los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primera-historia-tres-ceo-microsoft-sientan-juntos-ser-entrevistados-copilot-4311668.jpg?tf=1200x' alt='Por primera vez en la historia los tres CEO de Microsoft se sientan juntos... para ser entrevistados por Copilot' />
     </a>
 </div>
 
