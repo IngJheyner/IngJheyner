@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225'>Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/netflix-rompe-barreras-linguisticas-ahora-puedes-ver-series-peliculas-cualquier-combinacion-audio-subtitulos-television-1453225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/netflix-4311771.jpg?tf=1200x' alt='Netflix rompe barreras lingüísticas: ahora puedes ver tus series y películas con cualquier combinación de audio y subtítulos en la televisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573'>¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/esqueleto-persona-escaner-aeropuerto-4311014.jpg?tf=1200x' alt='¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214'>Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-avatar-4311762.jpg?tf=1200x' alt='Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601'>Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/singularidad-ia-4311532.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años' />
     </a>
 </div>
 
