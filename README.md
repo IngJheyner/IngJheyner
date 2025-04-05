@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240'>Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/seguridad-whatsapp-4311788.jpg?tf=1200x' alt='Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228'>Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hacer-aplicaciones-instalen-abrir-cerrar-ojos-1453228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/descarga-aplicaciones-android-4311776.jpg?tf=1200x' alt='Android 16 estrenará una función para hacer que tus aplicaciones se instalen en un abrir y cerrar de ojos' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219'>Microsoft bloquea la actualización 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219'>Microsoft bloquea la actualización Windows 11 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-windows-11-4311767.jpg?tf=1200x' alt='Microsoft bloquea la actualización 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017'>Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-4304834.jpg?tf=1200x' alt='Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-windows-11-4311767.jpg?tf=1200x' alt='Microsoft bloquea la actualización Windows 11 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error' />
     </a>
 </div>
 
