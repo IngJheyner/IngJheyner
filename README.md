@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570'>Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-4304207.jpg?tf=1200x' alt='Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-cambia-planes-gpt-5-retrasa-pero-sera-mejor-esperado-1453199'>OpenAI cambia de planes: GPT-5 se retrasa, pero será mejor de lo esperado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-cambia-planes-gpt-5-retrasa-pero-sera-mejor-esperado-1453199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-openai-4311749.jpg?tf=1200x' alt='OpenAI cambia de planes: GPT-5 se retrasa, pero será mejor de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/portatil-4311704.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/china-baterias-nucleares-duran-50-anos-1452362'>Adiós a las pilas: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/china-baterias-nucleares-duran-50-anos-1452362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/baterias-nucleares-china-4311528.jpg?tf=1200x' alt='Adiós a las pilas: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311'>Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-4303739.jpg?tf=1200x' alt='Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/rusia-lanza-tres-satelites-libera-misterio-objeto-desconocido-1453175'>Rusia lanza tres satélites y uno de ellos libera un misterio objeto desconocido</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/rusia-lanza-tres-satelites-libera-misterio-objeto-desconocido-1453175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/rusia-lanza-tres-satelites-ellos-libera-misterio-objeto-desconocido-4311703.jpg?tf=1200x' alt='Rusia lanza tres satélites y uno de ellos libera un misterio objeto desconocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guillaume-deterville-hacker-cuentas-bancarias-1449693'>Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guillaume-deterville-hacker-cuentas-bancarias-1449693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hacker-ordenador-tarjeta-credito-4311513.jpg?tf=1200x' alt='Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367'>El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-prohibido-contrasenas-como-darle-llaves-casa-hacker-1451367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidades-claves-cuentas-4308627.jpg?tf=1200x' alt='El número prohibido en tus contraseñas: es como darle las llaves de tu casa a un hacker' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368'>Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/comprobar-online-bloqueos-iptv-laliga-1451368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-4308638.jpg?tf=1200x' alt='Nuevo fin de semana de bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando' />
     </a>
 </div>
 
