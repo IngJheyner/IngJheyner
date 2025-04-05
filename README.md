@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574'>Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-4304215.jpg?tf=1200x' alt='Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-final-openai-python-c-javascript-1450477'>Sam Altman dice adiós a Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sam-altman-final-openai-python-c-javascript-1450477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lenguajes-programacion-4311531.jpg?tf=1200x' alt='Sam Altman dice adiós a Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570'>Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-4304207.jpg?tf=1200x' alt='Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/portatil-4311704.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/china-baterias-nucleares-duran-50-anos-1452362'>Adiós a las pilas: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/china-baterias-nucleares-duran-50-anos-1452362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/baterias-nucleares-china-4311528.jpg?tf=1200x' alt='Adiós a las pilas: China ya fabrica en serie baterías nucleares del tamaño de una moneda, que duran 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311'>Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-1448311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nunca-cargues-movil-forma-metodo-prohibido-todos-fabricantes-4303739.jpg?tf=1200x' alt='Nunca cargues el móvil de esta forma: el método prohibido por todos los fabricantes' />
     </a>
 </div>
 
