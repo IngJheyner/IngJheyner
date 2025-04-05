@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573'>¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ve-exactamente-escaneres-cuerpo-entero-aeropuertos-1448573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/esqueleto-persona-escaner-aeropuerto-4311014.jpg?tf=1200x' alt='¿Qué se ve exactamente en los escáneres de cuerpo entero de los aeropuertos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219'>Microsoft bloquea la actualización 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-24h2-estos-dispositivos-no-dejan-aparecer-pantallas-negras-azules-error-1453219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-windows-11-4311767.jpg?tf=1200x' alt='Microsoft bloquea la actualización 24H2 en estos dispositivos: no dejan de aparecer pantallas negras y azules de error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017'>Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-4304834.jpg?tf=1200x' alt='Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601'>Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/singularidad-ia-4311532.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-salva-otra-vez-estados-unidos-donald-trump-concede-otros-75-dias-cerrar-acuerdo-bytedance-1453210'>TikTok se salva otra vez en Estados Unidos: Donald Trump concede otros 75 días más para cerrar un acuerdo con ByteDance</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tiktok-salva-otra-vez-estados-unidos-donald-trump-concede-otros-75-dias-cerrar-acuerdo-bytedance-1453210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-tiktok-4311757.jpg?tf=1200x' alt='TikTok se salva otra vez en Estados Unidos: Donald Trump concede otros 75 días más para cerrar un acuerdo con ByteDance' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574'>Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-4304215.jpg?tf=1200x' alt='Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer' />
     </a>
 </div>
 
