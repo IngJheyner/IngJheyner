@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017'>Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-1449017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usos-creativos-enchufes-inteligentes-van-mucho-alla-apagar-encender-dispositivos-4304834.jpg?tf=1200x' alt='Usos creativos de los enchufes inteligentes que van mucho más allá de apagar o encender dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214'>Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-pronto-tendra-cuerpo-rostro-emociones-regreso-glorioso-clippy-cerca-1453214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-avatar-4311762.jpg?tf=1200x' alt='Copilot pronto tendrá cuerpo, rostro y emociones: el regreso glorioso de Clippy está cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601'>Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-fusion-ser-humano-inteligencia-artificial-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/singularidad-ia-4311532.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano y la IA se fusionarán en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-salva-otra-vez-estados-unidos-donald-trump-concede-otros-75-dias-cerrar-acuerdo-bytedance-1453210'>TikTok se salva otra vez en Estados Unidos: Donald Trump concede otros 75 días más para cerrar un acuerdo con ByteDance</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-salva-otra-vez-estados-unidos-donald-trump-concede-otros-75-dias-cerrar-acuerdo-bytedance-1453210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-tiktok-4311757.jpg?tf=1200x' alt='TikTok se salva otra vez en Estados Unidos: Donald Trump concede otros 75 días más para cerrar un acuerdo con ByteDance' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574'>Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-1448574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-mensaje-movil-tarjeta-sim-puede-estar-pirateada-debes-hacer-4304215.jpg?tf=1200x' alt='Si ves este mensaje en tu móvil, tu tarjeta SIM puede estar pirateada: esto es lo que debes hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-final-openai-python-c-javascript-1450477'>Sam Altman dice adiós a Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sam-altman-final-openai-python-c-javascript-1450477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lenguajes-programacion-4311531.jpg?tf=1200x' alt='Sam Altman dice adiós a Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570'>Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-1448570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-cargar-movil-situaciones-emergencia-cuando-no-tienes-luz-casa-4304207.jpg?tf=1200x' alt='Cómo cargar el móvil en situaciones de emergencia cuando no tienes luz en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-cambia-planes-gpt-5-retrasa-pero-sera-mejor-esperado-1453199'>OpenAI cambia de planes: GPT-5 se retrasa, pero será mejor de lo esperado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-cambia-planes-gpt-5-retrasa-pero-sera-mejor-esperado-1453199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-openai-4311749.jpg?tf=1200x' alt='OpenAI cambia de planes: GPT-5 se retrasa, pero será mejor de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536'>Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/mejores-ordenadores-portatiles-relacion-calidad-precio-fijarte-recomendaciones-1183536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/portatil-4311704.jpg?tf=1200x' alt='Mejores ordenadores portátiles en relación calidad precio: en qué fijarte y recomendaciones' />
     </a>
 </div>
 
