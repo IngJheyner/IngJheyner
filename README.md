@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-opinion-sincera-elon-musk-nos-ha-dejado-palabras-mejor-peor-ejemplo-humanidad-4310738.jpg?tf=1200x' alt='Le preguntamos a la IA su opinión sincera sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/televisores-lg-pierden-importante-funcion-1-mayo-1453162'>Los televisores LG pierden una importante función el 1 de mayo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/televisores-lg-pierden-importante-funcion-1-mayo-1453162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/televisores-lg-pierden-importante-funcion-1-mayo-4311694.jpg?tf=1200x' alt='Los televisores LG pierden una importante función el 1 de mayo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-1452356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-windows-10-sistema-gratis-todos-publicos-instala-usb-funciona-ordenadores-antiguos-4310210.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en ordenadores antiguos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518'>Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/te-ensena-ia-actual-clasico-moderno-cine-ciencia-ficcion-1451518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fotograma-llegada-2016-logo-chtgpt-4309462.jpg?tf=1200x' alt='Lo que te enseña sobre la IA actual este clásico moderno del cine de ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-h15-pro-aspiradora-seco-humedo-1450661'>He probado la Dreame H15 Pro, una aspiradora en seco y húmedo muy avanzada, ¿pero reemplazará a mi querida fregona?</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/dreame-h15-pro-aspiradora-seco-humedo-1450661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dreame-h15-pro-4310678.jpg?tf=1200x' alt='He probado la Dreame H15 Pro, una aspiradora en seco y húmedo muy avanzada, ¿pero reemplazará a mi querida fregona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-cuales-son-trabajos-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-1452346'>Le preguntamos a la IA cuáles son los trabajos inmunes a la inteligencia artificial y no duda: "Ninguna profesión está a salvo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-cuales-son-trabajos-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-1452346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-cuales-son-trabajos-son-inmunes-inteligencia-artificial-no-duda-ninguna-profesion-salvo-4310188.jpg?tf=1200x' alt='Le preguntamos a la IA cuáles son los trabajos inmunes a la inteligencia artificial y no duda: "Ninguna profesión está a salvo"' />
     </a>
 </div>
 
