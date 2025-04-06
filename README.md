@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317'>Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-10-anos-carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-4311952.jpg?tf=1200x' alt='Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316'>Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-id-ni-john-carmack-quake-generado-ia-microsoft-ya-puedes-jugarlo-4311950.jpg?tf=1200x' alt='Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/llega-android-auto-141-todos-puedes-actualizar-ya-mismo-aprovechar-llegada-juegos-completos-android-coche-1453302'>Llega Android Auto 14.1 para todos: así puedes actualizar ya mismo para aprovechar la llegada de juegos completos de Android a tu coche</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llega-android-auto-141-todos-puedes-actualizar-ya-mismo-aprovechar-llegada-juegos-completos-android-coche-1453302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-141-4311924.jpg?tf=1200x' alt='Llega Android Auto 14.1 para todos: así puedes actualizar ya mismo para aprovechar la llegada de juegos completos de Android a tu coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028'>Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/distribuciones-lanzamiento-continuo-4304841.jpg?tf=1200x' alt='Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores' />
     </a>
 </div>
 
