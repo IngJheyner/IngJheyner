@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-error-1446685'>Experto en IA desmiente a Elon Musk y Sam Altman: "Puede perder el control y ser una amenaza"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-error-1446685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amenaza-robot-ia-4311554.jpg?tf=1200x' alt='Experto en IA desmiente a Elon Musk y Sam Altman: "Puede perder el control y ser una amenaza"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/nuevo-sistema-antirrobo-android-confunde-movimientos-normales-robos-1453287'>El nuevo sistema antirrobo de Android confunde movimientos normales con robos</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/nuevo-sistema-antirrobo-android-confunde-movimientos-normales-robos-1453287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robo-smartphone-4311905.jpg?tf=1200x' alt='El nuevo sistema antirrobo de Android confunde movimientos normales con robos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316'>Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ninguna-app-radares-android-auto-perfecta-actives-opcion-oculta-4303748.jpg?tf=1200x' alt='Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284'>El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-nvidia-windows-11-4311903.jpg?tf=1200x' alt='El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314'>5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-4303741.jpg?tf=1200x' alt='5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051'>Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-elon-musk-4311544.jpg?tf=1200x' alt='Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
     </a>
 </div>
 
