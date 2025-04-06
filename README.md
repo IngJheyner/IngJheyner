@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316'>Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-id-ni-john-carmack-quake-generado-ia-microsoft-ya-puedes-jugarlo-4311950.jpg?tf=1200x' alt='Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313'>Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-lanza-llama-4-como-no-potente-gpt-4o-gemini-20-flash-deepseek-v3-4311943.jpg?tf=1200x' alt='Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028'>Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/distribuciones-lanzamiento-continuo-4304841.jpg?tf=1200x' alt='Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295'>Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-menu-inicio-windows-11-4311912.jpg?tf=1200x' alt='Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible' />
     </a>
 </div>
 
