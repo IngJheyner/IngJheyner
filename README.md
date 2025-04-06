@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316'>Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ninguna-app-radares-android-auto-perfecta-actives-opcion-oculta-4303748.jpg?tf=1200x' alt='Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-aprender-programar-internet-1445288'>Bjarne Stroustrup, creador de C++, advierte a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-aprender-programar-internet-1445288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-seguridad-c-4300104.jpg?tf=1200x' alt='Bjarne Stroustrup, creador de C++, advierte a los futuros programadores: "No puedes aprender a programar por internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284'>El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-nvidia-windows-11-4311903.jpg?tf=1200x' alt='El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314'>5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-4303741.jpg?tf=1200x' alt='5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051'>Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-elon-musk-4311544.jpg?tf=1200x' alt='Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nevera-coche-llegan-latas-enfrian-solas-instante-1453261'>Adiós a la nevera para el coche: llegan las latas que se enfrían solas y al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-nevera-coche-llegan-latas-enfrian-solas-instante-1453261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-neveras-coche-llegan-latas-enfrian-solas-instante-4311885.jpg?tf=1200x' alt='Adiós a la nevera para el coche: llegan las latas que se enfrían solas y al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053'>Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-4303262.jpg?tf=1200x' alt='Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110'>Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robot-ia-conquistando-ser-humano-4311535.jpg?tf=1200x' alt='Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"' />
     </a>
 </div>
 
