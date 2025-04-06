@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-error-1446685'>Experto en IA desmiente a Elon Musk y Sam Altman: "Puede perder el control y ser una amenaza"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-error-1446685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amenaza-robot-ia-4311554.jpg?tf=1200x' alt='Experto en IA desmiente a Elon Musk y Sam Altman: "Puede perder el control y ser una amenaza"' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028'>Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/distro-linux-lanzamiento-continuo-ventajas-cuales-mejores-1449028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/distribuciones-lanzamiento-continuo-4304841.jpg?tf=1200x' alt='Qué es una distro Linux de lanzamiento continuo, ventajas y cuáles son las mejores' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/nuevo-sistema-antirrobo-android-confunde-movimientos-normales-robos-1453287'>El nuevo sistema antirrobo de Android confunde movimientos normales con robos</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/nuevo-sistema-antirrobo-android-confunde-movimientos-normales-robos-1453287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robo-smartphone-4311905.jpg?tf=1200x' alt='El nuevo sistema antirrobo de Android confunde movimientos normales con robos' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295'>Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-menu-inicio-windows-11-4311912.jpg?tf=1200x' alt='Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316'>Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-ninguna-app-detectar-radares-android-auto-perfecta-actives-opcion-oculta-1448316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ninguna-app-radares-android-auto-perfecta-actives-opcion-oculta-4303748.jpg?tf=1200x' alt='Ni Waze ni Google Maps, ninguna app para detectar radares para Android Auto es perfecta hasta que actives esta opción oculta' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advertencia-verdadera-inteligencia-artificial-1450416'>Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advertencia-verdadera-inteligencia-artificial-1450416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/verdadera-inteligencia-artificial-4311557.jpg?tf=1200x' alt='Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-aprender-programar-internet-1445288'>Bjarne Stroustrup, creador de C++, advierte a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-aprender-programar-internet-1445288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-seguridad-c-4300104.jpg?tf=1200x' alt='Bjarne Stroustrup, creador de C++, advierte a los futuros programadores: "No puedes aprender a programar por internet"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-modifica-como-gemini-presenta-fuentes-recuerda-chatgpt-1453291'>Google modifica cómo Gemini presenta las fuentes… y recuerda a ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-modifica-como-gemini-presenta-fuentes-recuerda-chatgpt-1453291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gemini-ai-google-4311909.jpg?tf=1200x' alt='Google modifica cómo Gemini presenta las fuentes… y recuerda a ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284'>El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ultimo-driver-nvidia-dando-problemas-pantallas-negras-azules-windows-10-11-1453284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-nvidia-windows-11-4311903.jpg?tf=1200x' alt='El último driver de NVIDIA está dando problemas: pantallas negras y azules en Windows 11 y 10' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/modo-oculto-windows-mejora-rendimiento-forma-permanente-instante-ideal-pc-antiguos-1449025'>Este modo oculto de Windows mejora el rendimiento de forma permanente al instante: es ideal para los PC más antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/modo-oculto-windows-mejora-rendimiento-forma-permanente-instante-ideal-pc-antiguos-1449025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rendimiento-pc-windows-4304838.jpg?tf=1200x' alt='Este modo oculto de Windows mejora el rendimiento de forma permanente al instante: es ideal para los PC más antiguos' />
     </a>
 </div>
 
