@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-1452305'>Experta en WhatsApp desvela sus trucos más desconocidos: "Lo usas todos los días y nadie te dijo esto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-1452305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-4310166.jpg?tf=1200x' alt='Experta en WhatsApp desvela sus trucos más desconocidos: "Lo usas todos los días y nadie te dijo esto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/relojes-hacen-electrocardiogramas-ecg-estos-son-mejores-baratos-puedes-comprar-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/relojes-hacen-electrocardiogramas-ecg-estos-son-mejores-baratos-puedes-comprar-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-8-4311114.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243'>Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-gaming-4311793.jpg?tf=1200x' alt='Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242'>¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/youtube-4311792.jpg?tf=1200x' alt='¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241'>Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-suena-vidrio-patente-revela-disenos-iphone-mac-pro-1453241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reimaginacion-iphone-4311791.jpg?tf=1200x' alt='Apple sueña en vidrio: una patente revela diseños para iPhone, Mac Pro y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240'>Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nueva-capa-privacidad-llega-whatsapp-tendras-control-mensajes-fotos-compartidas-1453240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/seguridad-whatsapp-4311788.jpg?tf=1200x' alt='Así es la nueva capa de privacidad que llega a WhatsApp: tendrás más control sobre tus mensajes y fotos compartidas' />
     </a>
 </div>
 
