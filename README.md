@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314'>5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-1448314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-ajustes-imagen-smart-tv-recomendados-expertos-despues-varios-anos-parece-tengo-tele-nueva-4303741.jpg?tf=1200x' alt='5 ajustes de imagen para tu Smart TV recomendados por expertos: después de varios años parece que tengo tele nueva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051'>Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cientificos-miedo-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-elon-musk-4311544.jpg?tf=1200x' alt='Científicos de todo el mundo aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nevera-coche-llegan-latas-enfrian-solas-instante-1453261'>Adiós a la nevera para el coche: llegan las latas que se enfrían solas y al instante</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-nevera-coche-llegan-latas-enfrian-solas-instante-1453261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/adios-neveras-coche-llegan-latas-enfrian-solas-instante-4311885.jpg?tf=1200x' alt='Adiós a la nevera para el coche: llegan las latas que se enfrían solas y al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053'>Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-4303262.jpg?tf=1200x' alt='Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110'>Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robot-ia-conquistando-ser-humano-4311535.jpg?tf=1200x' alt='Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/soy-usuario-windows-hace-decadas-comparto-contigo-mi-manual-supervivencia-1448575'>Soy usuario de Windows desde hace décadas y comparto contigo mi manual de supervivencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/soy-usuario-windows-hace-decadas-comparto-contigo-mi-manual-supervivencia-1448575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/naufrago-utilizando-windows-4310990.jpg?tf=1200x' alt='Soy usuario de Windows desde hace décadas y comparto contigo mi manual de supervivencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/estos-son-mejores-relojes-running-puedes-comprar-793903'>Estos son los mejores relojes de running que puedes comprar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/estos-son-mejores-relojes-running-puedes-comprar-793903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-8-4311132.jpg?tf=1200x' alt='Estos son los mejores relojes de running que puedes comprar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631'>Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-4310749.jpg?tf=1200x' alt='Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"' />
     </a>
 </div>
 
