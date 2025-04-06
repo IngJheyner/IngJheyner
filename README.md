@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321'>Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bloqueos-laliga-iptv-webs-inocentes-seguiran-2027-filtra-sentencia-judicial-4311954.jpg?tf=1200x' alt='Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317'>Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica</a></h4>
     <a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-10-anos-carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-4311952.jpg?tf=1200x' alt='Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065'>El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/desbloquear-clave-wifi-4309750.jpg?tf=1200x' alt='El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/llega-android-auto-141-todos-puedes-actualizar-ya-mismo-aprovechar-llegada-juegos-completos-android-coche-1453302'>Llega Android Auto 14.1 para todos: así puedes actualizar ya mismo para aprovechar la llegada de juegos completos de Android a tu coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/llega-android-auto-141-todos-puedes-actualizar-ya-mismo-aprovechar-llegada-juegos-completos-android-coche-1453302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-141-4311924.jpg?tf=1200x' alt='Llega Android Auto 14.1 para todos: así puedes actualizar ya mismo para aprovechar la llegada de juegos completos de Android a tu coche' />
     </a>
 </div>
 
