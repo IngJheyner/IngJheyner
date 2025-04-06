@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053'>Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-1448053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-aumentar-autonomia-movil-android-viejo-cambiar-bateria-ni-comprar-nuevo-4303262.jpg?tf=1200x' alt='Cómo aumentar la autonomía de un móvil Android viejo sin cambiar la batería ni comprar uno nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110'>Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-ser-humano-aterrador-1450110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robot-ia-conquistando-ser-humano-4311535.jpg?tf=1200x' alt='Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta es aterradora: "Cuando se den cuenta, será demasiado tarde"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/soy-usuario-windows-hace-decadas-comparto-contigo-mi-manual-supervivencia-1448575'>Soy usuario de Windows desde hace décadas y comparto contigo mi manual de supervivencia</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/soy-usuario-windows-hace-decadas-comparto-contigo-mi-manual-supervivencia-1448575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/naufrago-utilizando-windows-4310990.jpg?tf=1200x' alt='Soy usuario de Windows desde hace décadas y comparto contigo mi manual de supervivencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631'>Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-4310749.jpg?tf=1200x' alt='Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ves-lees-crees-peligrosa-realidad-instagram-x-tiktok-1452224'>¿Lo que ves y lees es lo que crees? Esta es la peligrosa realidad de Instagram, X o TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ves-lees-crees-peligrosa-realidad-instagram-x-tiktok-1452224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/redes-sociales-jovenes-4309988.jpg?tf=1200x' alt='¿Lo que ves y lees es lo que crees? Esta es la peligrosa realidad de Instagram, X o TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/apk-android-hay-detras-aplicaciones-instalas-movil-1447734'>¿Qué es un APK de Android y qué hay detrás de las aplicaciones que instalas en tu móvil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/apk-android-hay-detras-aplicaciones-instalas-movil-1447734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apk-android-4311484.jpg?tf=1200x' alt='¿Qué es un APK de Android y qué hay detrás de las aplicaciones que instalas en tu móvil?' />
     </a>
 </div>
 
