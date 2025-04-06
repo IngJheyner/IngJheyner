@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631'>Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-1452631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-dispositivo-sustituira-moviles-futuro-respuesta-aterradora-seras-dispositivo-4310749.jpg?tf=1200x' alt='Le preguntamos a la IA qué dispositivo sustituirá a los móviles en el futuro y su respuesta es aterradora: "Tú serás el dispositivo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ves-lees-crees-peligrosa-realidad-instagram-x-tiktok-1452224'>¿Lo que ves y lees es lo que crees? Esta es la peligrosa realidad de Instagram, X o TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ves-lees-crees-peligrosa-realidad-instagram-x-tiktok-1452224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/redes-sociales-jovenes-4309988.jpg?tf=1200x' alt='¿Lo que ves y lees es lo que crees? Esta es la peligrosa realidad de Instagram, X o TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/apk-android-hay-detras-aplicaciones-instalas-movil-1447734'>¿Qué es un APK de Android y qué hay detrás de las aplicaciones que instalas en tu móvil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/apk-android-hay-detras-aplicaciones-instalas-movil-1447734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apk-android-4311484.jpg?tf=1200x' alt='¿Qué es un APK de Android y qué hay detrás de las aplicaciones que instalas en tu móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a56-5g-nuevo-rey-gama-media-alma-alta-gama-1452561'>He probado el Samsung Galaxy A56 5G y es el nuevo rey de la gama media con alma de alta gama</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-a56-5g-nuevo-rey-gama-media-alma-alta-gama-1452561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a56-5g-4311074.jpg?tf=1200x' alt='He probado el Samsung Galaxy A56 5G y es el nuevo rey de la gama media con alma de alta gama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-1452305'>Experta en WhatsApp desvela sus trucos más desconocidos: "Lo usas todos los días y nadie te dijo esto"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-1452305' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experta-whatsapp-desvela-trucos-desconocidos-usas-todos-dias-nadie-te-dijo-4310166.jpg?tf=1200x' alt='Experta en WhatsApp desvela sus trucos más desconocidos: "Lo usas todos los días y nadie te dijo esto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/relojes-hacen-electrocardiogramas-ecg-estos-son-mejores-baratos-puedes-comprar-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/relojes-hacen-electrocardiogramas-ecg-estos-son-mejores-baratos-puedes-comprar-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-8-4311114.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243'>Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-domina-steam-mitad-jugadores-ya-usan-1453243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-gaming-4311793.jpg?tf=1200x' alt='Windows 11 domina en Steam: más de la mitad de los jugadores ya lo usan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-gafas-realidad-aumentada-son-baratas-hacen-todo-puedes-pedir-1453234'>Ni Meta ni Apple: estas gafas de realidad aumentada son baratas y hacen todo lo que puedes pedir</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-gafas-realidad-aumentada-son-baratas-hacen-todo-puedes-pedir-1453234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orion-realidad-aumentada-gafas-meta-4261376.jpg?tf=1200x' alt='Ni Meta ni Apple: estas gafas de realidad aumentada son baratas y hacen todo lo que puedes pedir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242'>¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/te-ha-pasado-youtube-empieza-reproducir-videos-automaticamente-permiso-1453242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/youtube-4311792.jpg?tf=1200x' alt='¿Te ha pasado? YouTube empieza a reproducir vídeos automáticamente sin tu permiso' />
     </a>
 </div>
 
