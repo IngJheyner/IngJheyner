@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313'>Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-lanza-llama-4-como-no-potente-gpt-4o-gemini-20-flash-deepseek-v3-4311943.jpg?tf=1200x' alt='Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065'>El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/desbloquear-clave-wifi-4309750.jpg?tf=1200x' alt='El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295'>Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-recomendaciones-nuevo-menu-inicio-windows-11-sera-flexible-1453295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-menu-inicio-windows-11-4311912.jpg?tf=1200x' alt='Adiós a las recomendaciones: el nuevo menú inicio de Windows 11 será más flexible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advertencia-verdadera-inteligencia-artificial-1450416'>Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advertencia-verdadera-inteligencia-artificial-1450416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/verdadera-inteligencia-artificial-4311557.jpg?tf=1200x' alt='Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"' />
     </a>
 </div>
 
