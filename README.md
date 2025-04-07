@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324'>Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/max-sube-precios-espana-estreno-last-us-anade-nueva-tarifa-barata-publicidad-4311960.jpg?tf=1200x' alt='Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321'>Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bloqueos-laliga-iptv-webs-inocentes-seguiran-2027-filtra-sentencia-judicial-4311954.jpg?tf=1200x' alt='Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313'>Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-lanza-llama-4-como-no-potente-gpt-4o-gemini-20-flash-deepseek-v3-4311943.jpg?tf=1200x' alt='Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065'>El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/genial-truco-conectar-movil-red-wifi-necesidad-saber-contrasena-1452065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/desbloquear-clave-wifi-4309750.jpg?tf=1200x' alt='El genial truco para conectar tu móvil a una red WiFi sin necesidad de saber la contraseña' />
     </a>
 </div>
 
