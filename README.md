@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315'>Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decathlon-riverside-100-4311947.jpg?tf=1200x' alt='Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007'>26 cursos gratis sobre inteligencia artificial que no te puedes perder</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-inteligencia-artificial-4292965.jpg?tf=1200x' alt='26 cursos gratis sobre inteligencia artificial que no te puedes perder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360'>Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-4310224.jpg?tf=1200x' alt='Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044'>Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programador-senior-inteligencia-artificial-4303245.jpg?tf=1200x' alt='Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”' />
     </a>
 </div>
 
