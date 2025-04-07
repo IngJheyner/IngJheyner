@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-advertencia-urgente-240-millones-usuarios-windows-dejen-utilizar-pc-ahora-mismo-1453400'>Microsoft lanza una advertencia urgente a 240 millones de usuarios de Windows: dejen de utilizar sus PC ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-advertencia-urgente-240-millones-usuarios-windows-dejen-utilizar-pc-ahora-mismo-1453400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-aviso-4312047.jpg?tf=1200x' alt='Microsoft lanza una advertencia urgente a 240 millones de usuarios de Windows: dejen de utilizar sus PC ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411'>Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma </a></h4>
     <a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-copilot-4312132.jpg?tf=1200x' alt='Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358'>Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/angel-gaitan-tesla-4312000.jpg?tf=1200x' alt='Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346'>Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-7x-solar-4311984.jpg?tf=1200x' alt='Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato' />
     </a>
 </div>
 
