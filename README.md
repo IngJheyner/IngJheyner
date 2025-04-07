@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-advertencia-urgente-240-millones-usuarios-windows-dejen-utilizar-pc-ahora-mismo-1453400'>Microsoft lanza una advertencia urgente a 240 millones de usuarios de Windows: dejen de utilizar sus PC ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-advertencia-urgente-240-millones-usuarios-windows-dejen-utilizar-pc-ahora-mismo-1453400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-aviso-4312047.jpg?tf=1200x' alt='Microsoft lanza una advertencia urgente a 240 millones de usuarios de Windows: dejen de utilizar sus PC ahora mismo' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449'>Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-introduce-nuevo-sistema-verificacion-contenidos-4312214.jpg?tf=1200x' alt='Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411'>Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-copilot-4312132.jpg?tf=1200x' alt='Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma ' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-1453439'>Llega un nuevo canal de la TDT en abierto: estas son las fechas en las que deberás volver a sintonizar tu TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-1453439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-4312119.jpg?tf=1200x' alt='Llega un nuevo canal de la TDT en abierto: estas son las fechas en las que deberás volver a sintonizar tu TV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ia-crea-replica-perfecta-pasaporte-chatgpt-sistemas-automaticos-aceptarian-pestanear-1453396'>Experto en IA crea una réplica perfecta de su pasaporte con ChatGPT: "Los sistemas automáticos lo aceptarían sin pestañear"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ia-crea-replica-perfecta-pasaporte-chatgpt-sistemas-automaticos-aceptarian-pestanear-1453396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/replica-pasaporte-chatgpt-4312035.jpg?tf=1200x' alt='Experto en IA crea una réplica perfecta de su pasaporte con ChatGPT: "Los sistemas automáticos lo aceptarían sin pestañear"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-privacidad-circulo-azul-whatsapp-meta-ai-no-puedo-eliminar-pero-usare-mi-cadaver-1453475'>Expertos en privacidad contra el círculo azul de WhatsApp y la Meta AI: “No lo puedo eliminar, pero la usaré sobre mi cadáver”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/expertos-privacidad-circulo-azul-whatsapp-meta-ai-no-puedo-eliminar-pero-usare-mi-cadaver-1453475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-inaceptable-usuarios-4312199.jpg?tf=1200x' alt='Expertos en privacidad contra el círculo azul de WhatsApp y la Meta AI: “No lo puedo eliminar, pero la usaré sobre mi cadáver”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379'>China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centro-dato-china-4312029.jpg?tf=1200x' alt='China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-1453468'>La última ocurrencia de Elon Musk: dará de baja miles de tarjetas de crédito</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-1453468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-4312146.jpg?tf=1200x' alt='La última ocurrencia de Elon Musk: dará de baja miles de tarjetas de crédito' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358'>Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/angel-gaitan-tesla-4312000.jpg?tf=1200x' alt='Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/eeuu-culpa-iphone-escandalo-incluir-civil-grupo-signal-planear-bombardeos-1453423'>EEUU culpa al iPhone del escándalo de incluir a un civil en un grupo de Signal para planear bombardeos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/eeuu-culpa-iphone-escandalo-incluir-civil-grupo-signal-planear-bombardeos-1453423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eeuu-culpa-iphone-4312098.jpg?tf=1200x' alt='EEUU culpa al iPhone del escándalo de incluir a un civil en un grupo de Signal para planear bombardeos' />
     </a>
 </div>
 
