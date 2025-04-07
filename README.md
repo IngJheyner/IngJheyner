@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/te-arrepentiste-actualizar-windows-11-microsoft-dice-problema-eres-1453609'>¿Te arrepentiste de actualizar a Windows 11? Microsoft dice que el problema eres tú</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/te-arrepentiste-actualizar-windows-11-microsoft-dice-problema-eres-1453609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-4312408.jpg?tf=1200x' alt='¿Te arrepentiste de actualizar a Windows 11? Microsoft dice que el problema eres tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608'>ChatGPT dejará su huella en las imágenes con IA si no pasas por caja</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312399.jpg?tf=1200x' alt='ChatGPT dejará su huella en las imágenes con IA si no pasas por caja' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603'>Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-futbol-4312392.jpg?tf=1200x' alt='Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330'>No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-4311964.jpg?tf=1200x' alt='No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables' />
     </a>
 </div>
 
