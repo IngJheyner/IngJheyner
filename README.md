@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379'>China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centro-dato-china-4312029.jpg?tf=1200x' alt='China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358'>Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/angel-gaitan-tesla-4312000.jpg?tf=1200x' alt='Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315'>Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decathlon-riverside-100-4311947.jpg?tf=1200x' alt='Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007'>26 cursos gratis sobre inteligencia artificial que no te puedes perder</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-inteligencia-artificial-4292965.jpg?tf=1200x' alt='26 cursos gratis sobre inteligencia artificial que no te puedes perder' />
     </a>
 </div>
 
