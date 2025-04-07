@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397'>Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312101.jpg?tf=1200x' alt='Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502'>Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-4680-tesla-4312257.jpg?tf=1200x' alt='Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432'>Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312143.jpg?tf=1200x' alt='Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349'>Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-4311990.jpg?tf=1200x' alt='Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-1453490'>La OCU hace saltar las alarmas sobre ChatGPT: esta es la función que debes desactivar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-1453490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-4312196.jpg?tf=1200x' alt='La OCU hace saltar las alarmas sobre ChatGPT: esta es la función que debes desactivar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449'>Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-introduce-nuevo-sistema-verificacion-contenidos-4312214.jpg?tf=1200x' alt='Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'' />
     </a>
 </div>
 
