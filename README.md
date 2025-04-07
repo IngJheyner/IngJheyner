@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330'>No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-4311964.jpg?tf=1200x' alt='No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-sense8-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-1453333'>No solo Black Mirror o Sense8: 5 series de Netflix que no puedes perderte si te gusta la ciencia ficción</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-sense8-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-1453333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-solo-black-mirror-5-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-4311968.jpg?tf=1200x' alt='No solo Black Mirror o Sense8: 5 series de Netflix que no puedes perderte si te gusta la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557'>GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la prehistoria</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-4312349.jpg?tf=1200x' alt='GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la prehistoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462'>Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312158.jpg?tf=1200x' alt='Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544'>Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackear-autentificacion-2-pasos-4312285.jpg?tf=1200x' alt='Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471'>La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-patrones-huellas-4312194.jpg?tf=1200x' alt='La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397'>Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312101.jpg?tf=1200x' alt='Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502'>Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-4680-tesla-4312257.jpg?tf=1200x' alt='Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”' />
     </a>
 </div>
 
