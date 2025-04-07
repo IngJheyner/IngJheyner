@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047'>Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-4303253.jpg?tf=1200x' alt='Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-1452637'>Experto de inteligencia artificial confirma los malos augurios para muchos trabajadores: "Cada vez más, la IA construye IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-1452637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-4310762.jpg?tf=1200x' alt='Experto de inteligencia artificial confirma los malos augurios para muchos trabajadores: "Cada vez más, la IA construye IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324'>Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/max-sube-precios-espana-estreno-last-us-anade-nueva-tarifa-barata-publicidad-4311960.jpg?tf=1200x' alt='Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317'>Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica</a></h4>
     <a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-10-anos-carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-4311952.jpg?tf=1200x' alt='Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316'>Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/quake-ii-generado-ia-muse-microsoft-ya-puedes-jugarlo-gratis-1453316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-id-ni-john-carmack-quake-generado-ia-microsoft-ya-puedes-jugarlo-4311950.jpg?tf=1200x' alt='Ni Id ni John Carmack: Quake II generado por la IA Muse de Microsoft, ya puedes jugarlo gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313'>Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-lanza-llama-4-mas-potente-gpt-4o-gemini-20-deepseek-v3-1453313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-lanza-llama-4-como-no-potente-gpt-4o-gemini-20-flash-deepseek-v3-4311943.jpg?tf=1200x' alt='Meta lanza Llama 4 y, cómo no, es más potente que GPT-4o, Gemini 2.0 y DeepSeek V3' />
     </a>
 </div>
 
