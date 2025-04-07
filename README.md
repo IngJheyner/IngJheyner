@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608'>ChatGPT dejará su huella en las imágenes con IA si no pasas por caja</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312399.jpg?tf=1200x' alt='ChatGPT dejará su huella en las imágenes con IA si no pasas por caja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/lobo-gigante-america-10000-anos-colossal-1453605'>Ni el mamut ni el dodo: resucitan al lobo gigante de América, 10.000 años después de extinguirse</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/lobo-gigante-america-10000-anos-colossal-1453605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-mamut-ni-dodo-han-resucitado-lobo-gigante-america-10000-anos-despues-extinguirse-4312366.jpg?tf=1200x' alt='Ni el mamut ni el dodo: resucitan al lobo gigante de América, 10.000 años después de extinguirse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-1453579'>Si le preguntas a ChatGPT que opina de tener que "perder el tiempo" haciendo imágenes Ghibli su respuesta da que pensar: "Es desgastar el trabajo de lo que otros tardaron décadas en construir"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-1453579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-4312390.jpg?tf=1200x' alt='Si le preguntas a ChatGPT que opina de tener que "perder el tiempo" haciendo imágenes Ghibli su respuesta da que pensar: "Es desgastar el trabajo de lo que otros tardaron décadas en construir"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603'>Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-futbol-4312392.jpg?tf=1200x' alt='Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330'>No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-1453330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-studio-ghibli-pero-pelicula-anime-movistar-plus-considerada-adultas-destacables-4311964.jpg?tf=1200x' alt='No es del Studio Ghibli, pero está película anime de Movistar Plus+ está considerada una de las más adultas y destacables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-sense8-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-1453333'>No solo Black Mirror o Sense8: 5 series de Netflix que no puedes perderte si te gusta la ciencia ficción</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-sense8-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-1453333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-solo-black-mirror-5-series-netflix-no-puedes-perderte-te-gusta-ciencia-ficcion-4311968.jpg?tf=1200x' alt='No solo Black Mirror o Sense8: 5 series de Netflix que no puedes perderte si te gusta la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557'>GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la prehistoria</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gpmi-nuevo-estandar-cable-chino-hace-usb-hdmi-parezcan-prehistoria-4312349.jpg?tf=1200x' alt='GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la prehistoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462'>Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312158.jpg?tf=1200x' alt='Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544'>Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackear-autentificacion-2-pasos-4312285.jpg?tf=1200x' alt='Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online' />
     </a>
 </div>
 
