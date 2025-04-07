@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471'>La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-patrones-huellas-4312194.jpg?tf=1200x' alt='La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397'>Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-manos-elon-musk-no-puede-romper-dependencia-starlink-no-estan-preparadas-1453397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312101.jpg?tf=1200x' alt='Ucrania en manos de Elon Musk, no puede romper la dependencia de Starlink: "No están preparadas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377'>Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-ardiendo-4312046.jpg?tf=1200x' alt='Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349'>Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-4311990.jpg?tf=1200x' alt='Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"' />
     </a>
 </div>
 
