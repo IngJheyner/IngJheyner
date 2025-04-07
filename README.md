@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462'>Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-no-solo-hace-cosas-malas-quiere-eliminar-cosas-odiamos-trabajo-1453462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312158.jpg?tf=1200x' alt='Elon Musk no solo hace cosas malas, quiere eliminar una de las cosas que más odiamos en el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544'>Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-crean-sistema-eludir-autenticacion-dos-factores-ya-puede-comprar-online-1453544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackear-autentificacion-2-pasos-4312285.jpg?tf=1200x' alt='Hackers crean un sistema para eludir la autenticación de dos factores y ya se puede comprar online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471'>La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/ia-pone-jaque-decadas-investigaciones-criminales-demuestra-huellas-dactilares-no-son-unicas-1453471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-patrones-huellas-4312194.jpg?tf=1200x' alt='La IA pone jaque décadas de investigaciones criminales: demuestra que las huellas dactilares no son únicas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502'>Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-plena-crisis-consigue-darle-elon-musk-pequena-alegria-4680-1453502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-4680-tesla-4312257.jpg?tf=1200x' alt='Tesla en plena crisis consigue darle a Elon Musk una pequeña alegría: “4680”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432'>Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312143.jpg?tf=1200x' alt='Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377'>Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-ardiendo-4312046.jpg?tf=1200x' alt='Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"' />
     </a>
 </div>
 
