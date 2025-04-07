@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358'>Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/angel-gaitan-critica-utilidad-camaras-tesla-robo-espana-tenemos-problemas-1453358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/angel-gaitan-tesla-4312000.jpg?tf=1200x' alt='Ángel Gaitán critica la utilidad de las cámaras de Tesla tras un robo: "En España tenemos problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346'>Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-7x-solar-4311984.jpg?tf=1200x' alt='Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/engano-perfecto-ia-inventa-filosofo-teoria-hace-viral-redes-sociales-1453355'>El engaño perfecto: una IA inventa un filósofo y su teoría se hace viral en redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/engano-perfecto-ia-inventa-filosofo-teoria-hace-viral-redes-sociales-1453355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-estafa-libro-4311994.jpg?tf=1200x' alt='El engaño perfecto: una IA inventa un filósofo y su teoría se hace viral en redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315'>Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decathlon-riverside-100-4311947.jpg?tf=1200x' alt='Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007'>26 cursos gratis sobre inteligencia artificial que no te puedes perder</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-inteligencia-artificial-4292965.jpg?tf=1200x' alt='26 cursos gratis sobre inteligencia artificial que no te puedes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-pad-7-pro-me-ha-encantado-ser-termino-medio-perfecto-portatil-movil-1452527'>La Xiaomi Pad 7 Pro me ha encantado por ser el término medio perfecto entre un portátil y un móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-pad-7-pro-me-ha-encantado-ser-termino-medio-perfecto-portatil-movil-1452527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-pad-7-pro-4310550.jpg?tf=1200x' alt='La Xiaomi Pad 7 Pro me ha encantado por ser el término medio perfecto entre un portátil y un móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777'>Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pasarse-windows-linux-4302836.jpg?tf=1200x' alt='Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360'>Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-4310224.jpg?tf=1200x' alt='Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes' />
     </a>
 </div>
 
