@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007'>26 cursos gratis sobre inteligencia artificial que no te puedes perder</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/26-cursos-gratis-inteligencia-artificial-no-te-puedes-perder-1442007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-inteligencia-artificial-4292965.jpg?tf=1200x' alt='26 cursos gratis sobre inteligencia artificial que no te puedes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-pad-7-pro-me-ha-encantado-ser-termino-medio-perfecto-portatil-movil-1452527'>La Xiaomi Pad 7 Pro me ha encantado por ser el término medio perfecto entre un portátil y un móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-pad-7-pro-me-ha-encantado-ser-termino-medio-perfecto-portatil-movil-1452527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-pad-7-pro-4310550.jpg?tf=1200x' alt='La Xiaomi Pad 7 Pro me ha encantado por ser el término medio perfecto entre un portátil y un móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777'>Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pasarse-windows-linux-4302836.jpg?tf=1200x' alt='Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360'>Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-4310224.jpg?tf=1200x' alt='Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044'>Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programador-senior-inteligencia-artificial-4303245.jpg?tf=1200x' alt='Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047'>Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-4303253.jpg?tf=1200x' alt='Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-1452637'>Experto de inteligencia artificial confirma los malos augurios para muchos trabajadores: "Cada vez más, la IA construye IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-1452637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experto-inteligencia-artificial-confirma-malos-augurios-muchos-trabajadores-cada-vez-ia-construye-ia-4310762.jpg?tf=1200x' alt='Experto de inteligencia artificial confirma los malos augurios para muchos trabajadores: "Cada vez más, la IA construye IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324'>Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/max-sube-precios-espana-estreno-last-us-anade-nueva-tarifa-barata-publicidad-4311960.jpg?tf=1200x' alt='Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad' />
     </a>
 </div>
 
