@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411'>Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/copilot-adelanta-chatgpt-ofrecer-ia-personalizada-puede-recordar-pelicula-favorita-reservar-entradas-concierto-forma-autonoma-1453411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-copilot-4312132.jpg?tf=1200x' alt='Copilot adelanta a ChatGPT para ofrecer una IA más personalizada: puede recordar tu película favorita y reservar entradas de forma autónoma ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ia-crea-replica-perfecta-pasaporte-chatgpt-sistemas-automaticos-aceptarian-pestanear-1453396'>Experto en IA crea una réplica perfecta de su pasaporte con ChatGPT: "Los sistemas automáticos lo aceptarían sin pestañear"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ia-crea-replica-perfecta-pasaporte-chatgpt-sistemas-automaticos-aceptarian-pestanear-1453396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/replica-pasaporte-chatgpt-4312035.jpg?tf=1200x' alt='Experto en IA crea una réplica perfecta de su pasaporte con ChatGPT: "Los sistemas automáticos lo aceptarían sin pestañear"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379'>China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-lleva-ia-fondo-mar-centro-datos-submarino-procesa-7000-conversaciones-segundo-1453379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centro-dato-china-4312029.jpg?tf=1200x' alt='China lleva su IA al fondo del mar: así es el centro de datos submarino que procesa 7.000 conversaciones por segundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346'>Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/amazon-vuelve-hacer-deja-garmin-mes-bateria-casi-200-euros-barato-1453346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/garmin-fenix-7x-solar-4311984.jpg?tf=1200x' alt='Amazon lo vuelve a hacer: deja un Garmin con un mes de batería casi 200 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/engano-perfecto-ia-inventa-filosofo-teoria-hace-viral-redes-sociales-1453355'>El engaño perfecto: una IA inventa un filósofo y su teoría se hace viral en redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/engano-perfecto-ia-inventa-filosofo-teoria-hace-viral-redes-sociales-1453355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-estafa-libro-4311994.jpg?tf=1200x' alt='El engaño perfecto: una IA inventa un filósofo y su teoría se hace viral en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315'>Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/decathlon-activa-outlet-vende-bicicleta-electrica-200-euros-menos-va-agotar-1453315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decathlon-riverside-100-4311947.jpg?tf=1200x' alt='Decathlon activa su outlet: vende una bicicleta eléctrica por 200 euros menos, y la va a agotar' />
     </a>
 </div>
 
