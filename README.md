@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432'>Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-ser-hazmerreir-mundo-entero-estalla-son-propia-parodia-1453432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4312143.jpg?tf=1200x' alt='Elon Musk se cansa de ser el hazmerreír del mundo entero y estalla: "Son su propia parodia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377'>Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ex-jefe-bomberos-alerta-gran-peligro-coches-electricos-frente-termicos-puedes-sumergirlos-agua-seguiran-ardiendo-1453377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-ardiendo-4312046.jpg?tf=1200x' alt='Ex jefe de Bomberos alerta del gran peligro de los coches eléctricos frente a los térmicos: "Puedes sumergirlos en agua y seguirán ardiendo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349'>Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-1453349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-rectifica-manda-mensaje-haters-como-puede-gente-reirse-mi-dolor-4311990.jpg?tf=1200x' alt='Elon Musk rectifica y manda un mensaje a sus haters: "¿Cómo puede la gente reírse de mi dolor?"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-1453490'>La OCU hace saltar las alarmas sobre ChatGPT: esta es la función que debes desactivar ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-1453490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ocu-hace-saltar-alarmas-chatgpt-funcion-debes-desactivar-ahora-mismo-4312196.jpg?tf=1200x' alt='La OCU hace saltar las alarmas sobre ChatGPT: esta es la función que debes desactivar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449'>Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/llegan-notas-comunitarias-meta-funciona-sistema-verificacion-contenidos-borra-mapa-fact-checking-1453449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-introduce-nuevo-sistema-verificacion-contenidos-4312214.jpg?tf=1200x' alt='Llegan las Notas comunitarias de Meta: así funciona el sistema de verificación de contenidos que borra del mapa el 'fact-checking'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-1453439'>Llega un nuevo canal de la TDT en abierto: estas son las fechas en las que deberás volver a sintonizar tu TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-1453439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llega-nuevo-canal-tdt-abierto-estas-son-fechas-deberas-volver-sintonizar-tv-4312119.jpg?tf=1200x' alt='Llega un nuevo canal de la TDT en abierto: estas son las fechas en las que deberás volver a sintonizar tu TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-privacidad-circulo-azul-whatsapp-meta-ai-no-puedo-eliminar-pero-usare-mi-cadaver-1453475'>Expertos en privacidad contra el círculo azul de WhatsApp y la Meta AI: “No lo puedo eliminar, pero la usaré sobre mi cadáver”</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/expertos-privacidad-circulo-azul-whatsapp-meta-ai-no-puedo-eliminar-pero-usare-mi-cadaver-1453475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-inaceptable-usuarios-4312199.jpg?tf=1200x' alt='Expertos en privacidad contra el círculo azul de WhatsApp y la Meta AI: “No lo puedo eliminar, pero la usaré sobre mi cadáver”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-1453468'>La última ocurrencia de Elon Musk: dará de baja miles de tarjetas de crédito</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-1453468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ultima-ocurrencia-elon-musk-dara-baja-miles-tarjetas-credito-4312146.jpg?tf=1200x' alt='La última ocurrencia de Elon Musk: dará de baja miles de tarjetas de crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/eeuu-culpa-iphone-escandalo-incluir-civil-grupo-signal-planear-bombardeos-1453423'>EEUU culpa al iPhone del escándalo de incluir a un civil en un grupo de Signal para planear bombardeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/eeuu-culpa-iphone-escandalo-incluir-civil-grupo-signal-planear-bombardeos-1453423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eeuu-culpa-iphone-4312098.jpg?tf=1200x' alt='EEUU culpa al iPhone del escándalo de incluir a un civil en un grupo de Signal para planear bombardeos' />
     </a>
 </div>
 
