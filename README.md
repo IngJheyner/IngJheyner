@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360'>Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-1452360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/llevo-toda-vida-utilizando-windows-todavia-sigo-descubriendo-funciones-sorprendentes-4310224.jpg?tf=1200x' alt='Llevo toda la vida utilizando Windows y todavía sigo descubriendo funciones sorprendentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044'>Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-no-temen-ia--trabajo-fin-como-conocemos-1448044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programador-senior-inteligencia-artificial-4303245.jpg?tf=1200x' alt='Programadores veteranos no temen que la IA les deje sin trabajo: “No es el fin, es el fin tal y como la conocemos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047'>Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email</a></h4>
     <a href='https://computerhoy.20minutos.es/life/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-1448047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hackeo-iphone-19-anos-apple-contrato-fue-despedido-no-responder-email-4303253.jpg?tf=1200x' alt='Hackeo el iPhone con 19 años, Apple lo contrató y fue despedido por no responder un email' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324'>Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-sube-precios-espana-estreno-last-us-tarifa-barata-publicidad-1453324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/max-sube-precios-espana-estreno-last-us-anade-nueva-tarifa-barata-publicidad-4311960.jpg?tf=1200x' alt='Max sube los precios en España con el estreno de The Last of us, y añade la nueva tarifa barata con publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321'>Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-javier-tebas-iptv-webs-inocentes-2027-1453321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bloqueos-laliga-iptv-webs-inocentes-seguiran-2027-filtra-sentencia-judicial-4311954.jpg?tf=1200x' alt='Los bloqueos de LaLiga de Javier Tebas a las IPTV y las webs inocentes seguirán hasta 2027: se filtra la sentencia judicial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317'>Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-1453317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-10-anos-carcel-hombre-intentar-coleccionar-todos-elementos-tabla-periodica-4311952.jpg?tf=1200x' alt='Piden 10 años de cárcel para un joven por intentar coleccionar todos los elementos de la tabla periódica' />
     </a>
 </div>
 
