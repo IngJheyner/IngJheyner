@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-unity-mark-zuckerberg-metaverso-meta-idiotez-1453757'>El CEO de Unity contra Mark Zuckerberg: “El metaverso de Meta es una idiotez"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-unity-mark-zuckerberg-metaverso-meta-idiotez-1453757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/matt-bromberg-unity-4312682.jpg?tf=1200x' alt='El CEO de Unity contra Mark Zuckerberg: “El metaverso de Meta es una idiotez"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-1453699'>La IA de Elon Musk se sincera: reconoce la impactante razón por la que no debería usarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-1453699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-4312523.jpg?tf=1200x' alt='La IA de Elon Musk se sincera: reconoce la impactante razón por la que no debería usarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-smartwatch-propio-cuerpo-sera-proxima-tarjeta-credito-comprar-1453743'>Ni móvil ni smartwatch, tu propio cuerpo será tu próxima tarjeta de crédito para comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-smartwatch-propio-cuerpo-sera-proxima-tarjeta-credito-comprar-1453743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/biometria-4312623.jpg?tf=1200x' alt='Ni móvil ni smartwatch, tu propio cuerpo será tu próxima tarjeta de crédito para comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-1453658'>Giro de 180 grados en Apple: los aranceles de Trump podrían obligarles a lanzar un iPhone bajo suscripción</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-1453658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-4312571.jpg?tf=1200x' alt='Giro de 180 grados en Apple: los aranceles de Trump podrían obligarles a lanzar un iPhone bajo suscripción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686'>Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tuneles-m30-4312537.jpg?tf=1200x' alt='Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-degradando-windows-10-poco-poco-obligarte-cambiar-windows-11-1453745'>Microsoft está degradando Windows 10 poco a poco para obligarte a cambiar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-degradando-windows-10-poco-poco-obligarte-cambiar-windows-11-1453745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4290937.jpg?tf=1200x' alt='Microsoft está degradando Windows 10 poco a poco para obligarte a cambiar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770'>La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-jugando-minecraft-4312668.jpg?tf=1200x' alt='La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-shopify-hace-saltar-alarmas-debes-demostrar-ia-no-puede-hacer-trabajo-contratarte-1453779'>El CEO de Shopify hace saltar las alarmas: "Debes demostrar que la IA no puede hacer el trabajo para contratarte"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-shopify-hace-saltar-alarmas-debes-demostrar-ia-no-puede-hacer-trabajo-contratarte-1453779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-shopify-trabajo-ia-4312581.jpg?tf=1200x' alt='El CEO de Shopify hace saltar las alarmas: "Debes demostrar que la IA no puede hacer el trabajo para contratarte"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711'>Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/futuro-trabajo-ia-4312555.jpg?tf=1200x' alt='Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"' />
     </a>
 </div>
 
