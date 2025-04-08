@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-unity-mark-zuckerberg-metaverso-meta-idiotez-1453757'>El CEO de Unity contra Mark Zuckerberg: “El metaverso de Meta es una idiotez"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-unity-mark-zuckerberg-metaverso-meta-idiotez-1453757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/matt-bromberg-unity-4312682.jpg?tf=1200x' alt='El CEO de Unity contra Mark Zuckerberg: “El metaverso de Meta es una idiotez"' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915'>Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-ya-ve-abismo-define-ideologo-aranceles-trump-tonto-saco-ladrillos-4312937.jpg?tf=1200x' alt='Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-1453699'>La IA de Elon Musk se sincera: reconoce la impactante razón por la que no debería usarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-1453699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-elon-musk-sincera-reconoce-impactante-razon-no-deberia-usarse-4312523.jpg?tf=1200x' alt='La IA de Elon Musk se sincera: reconoce la impactante razón por la que no debería usarse' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908'>Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/uso-excesivo-chatgpt-podria-afectar-forma-pensar-4312935.jpg?tf=1200x' alt='Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-smartwatch-propio-cuerpo-sera-proxima-tarjeta-credito-comprar-1453743'>Ni móvil ni smartwatch, tu propio cuerpo será tu próxima tarjeta de crédito para comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-smartwatch-propio-cuerpo-sera-proxima-tarjeta-credito-comprar-1453743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/biometria-4312623.jpg?tf=1200x' alt='Ni móvil ni smartwatch, tu propio cuerpo será tu próxima tarjeta de crédito para comprar' />
+    <h4><a href='https://computerhoy.20minutos.es/life/desesperado-coloca-senales-evitar-google-maps-envie-conductores-casa-1453905'>Desesperado, coloca señales para evitar que Google Maps envíe a los conductores a su casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/desesperado-coloca-senales-evitar-google-maps-envie-conductores-casa-1453905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-google-maps-4312932.jpg?tf=1200x' alt='Desesperado, coloca señales para evitar que Google Maps envíe a los conductores a su casa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-1453658'>Giro de 180 grados en Apple: los aranceles de Trump podrían obligarles a lanzar un iPhone bajo suscripción</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-1453658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-apple-aranceles-trump-podrian-obligarles-lanzar-iphone-suscripcion-4312571.jpg?tf=1200x' alt='Giro de 180 grados en Apple: los aranceles de Trump podrían obligarles a lanzar un iPhone bajo suscripción' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903'>Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alzheimer-ia-4312930.jpg?tf=1200x' alt='Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686'>Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tuneles-m30-4312537.jpg?tf=1200x' alt='Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-entonces-tenemos-malas-noticias-ti-1453872'>¿Tienes instalado WinRAR en tu ordenador? Entonces tenemos malas noticias para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-entonces-tenemos-malas-noticias-ti-1453872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tienes-instalador-winrar-ordenador-entonces-tenemos-malas-noticias-ti-4312916.jpg?tf=1200x' alt='¿Tienes instalado WinRAR en tu ordenador? Entonces tenemos malas noticias para ti' />
     </a>
 </div>
 
