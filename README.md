@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702'>El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/precio-moviles-trump-4312586.jpg?tf=1200x' alt='El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678'>¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-tv-box-s-2nd-gen-4312484.jpg?tf=1200x' alt='¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668'>Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/telefonica-da-punetazo-mesa-acabar-vez-todas-llamadas-spam-4312469.jpg?tf=1200x' alt='Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649'>Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nunca-visto-ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-4312444.jpg?tf=1200x' alt='Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento' />
     </a>
 </div>
 
