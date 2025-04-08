@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649'>Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nunca-visto-ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-4312444.jpg?tf=1200x' alt='Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/laliga-tebas-tienen-nuevo-enemigo-usuarios-iptv-como-matar-moscas-canonazos-1451057'>LaLiga y Tebas tienen un nuevo enemigo, los usuarios de IPTV: "Es como matar moscas a cañonazos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/laliga-tebas-tienen-nuevo-enemigo-usuarios-iptv-como-matar-moscas-canonazos-1451057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-iptv-bloqueo-laliga-futbol-4309549.jpg?tf=1200x' alt='LaLiga y Tebas tienen un nuevo enemigo, los usuarios de IPTV: "Es como matar moscas a cañonazos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750'>Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-intelligence-4312339.jpg?tf=1200x' alt='Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ayuda-calidad-sueno-no-broma-asegura-nuevo-estudio-1453463'>Netflix ayuda a tu calidad de sueño, y no es broma: lo asegura un nuevo estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ayuda-calidad-sueno-no-broma-asegura-nuevo-estudio-1453463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/netflix-ayuda-calidad-sueno-no-broma-asegura-estudio-4312134.jpg?tf=1200x' alt='Netflix ayuda a tu calidad de sueño, y no es broma: lo asegura un nuevo estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/cuidado-amd-procesadores-comprar-portatil-pc-1452060'>¡Cuidado! Así te “engaña” AMD con sus procesadores al comprar un portátil o PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/cuidado-amd-procesadores-comprar-portatil-pc-1452060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/problemas-numeracion-amd-ryzen-4309741.jpg?tf=1200x' alt='¡Cuidado! Así te “engaña” AMD con sus procesadores al comprar un portátil o PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-pagar-evitar-estafas-te-puede-ahorrar-disgusto-1453473'>El truco de la Policía Nacional al pagar para evitar estafas: "Te puede ahorrar un disgusto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-pagar-evitar-estafas-te-puede-ahorrar-disgusto-1453473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/truco-policia-nacional-pagar-evitar-estafas-te-puede-ahorrar-disgusto-4312159.jpg?tf=1200x' alt='El truco de la Policía Nacional al pagar para evitar estafas: "Te puede ahorrar un disgusto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/jugar-linux-posible-ademas-bonito-consola-retro-noventera-cuesta-apenas-50-euros-1453337'>Jugar en Linux es posible, y además bonito: esta consola retro noventera cuesta apenas 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/jugar-linux-posible-ademas-bonito-consola-retro-noventera-cuesta-apenas-50-euros-1453337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/miyoo-mini-v4-white-4311977.jpg?tf=1200x' alt='Jugar en Linux es posible, y además bonito: esta consola retro noventera cuesta apenas 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-1453446'>Los expertos en IA confirman los temores: los chatbots ya no se distinguen de los humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-1453446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-4312122.jpg?tf=1200x' alt='Los expertos en IA confirman los temores: los chatbots ya no se distinguen de los humanos' />
     </a>
 </div>
 
