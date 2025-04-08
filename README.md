@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711'>Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/futuro-trabajo-ia-4312555.jpg?tf=1200x' alt='Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-1453671'>Día histórico para los clientes de Movistar Plus+: los partidos de Champions se verán mejor que nunca (si haces esto)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-1453671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-4312525.jpg?tf=1200x' alt='Día histórico para los clientes de Movistar Plus+: los partidos de Champions se verán mejor que nunca (si haces esto)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702'>El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/precio-moviles-trump-4312586.jpg?tf=1200x' alt='El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676'>Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackeo-camara-4312512.jpg?tf=1200x' alt='Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662'>Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/geoffrey-hinton-elon-musk-4312482.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668'>Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/telefonica-da-punetazo-mesa-acabar-vez-todas-llamadas-spam-4312469.jpg?tf=1200x' alt='Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM' />
     </a>
 </div>
 
