@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770'>La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-jugando-minecraft-4312668.jpg?tf=1200x' alt='La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-shopify-hace-saltar-alarmas-debes-demostrar-ia-no-puede-hacer-trabajo-contratarte-1453779'>El CEO de Shopify hace saltar las alarmas: "Debes demostrar que la IA no puede hacer el trabajo para contratarte"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-shopify-hace-saltar-alarmas-debes-demostrar-ia-no-puede-hacer-trabajo-contratarte-1453779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-shopify-trabajo-ia-4312581.jpg?tf=1200x' alt='El CEO de Shopify hace saltar las alarmas: "Debes demostrar que la IA no puede hacer el trabajo para contratarte"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711'>Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/futuro-trabajo-ia-4312555.jpg?tf=1200x' alt='Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702'>El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/precio-moviles-trump-4312586.jpg?tf=1200x' alt='El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678'>¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-tv-box-s-2nd-gen-4312484.jpg?tf=1200x' alt='¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676'>Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackeo-camara-4312512.jpg?tf=1200x' alt='Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"' />
     </a>
 </div>
 
