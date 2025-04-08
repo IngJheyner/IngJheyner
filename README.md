@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-1453446'>Los expertos en IA confirman los temores: los chatbots ya no se distinguen de los humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-1453446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-ia-confirman-temores-chatbots-ya-no-distinguen-humanos-4312122.jpg?tf=1200x' alt='Los expertos en IA confirman los temores: los chatbots ya no se distinguen de los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/operacion-policial-alicante-estafadores-usar-ia-famosos-criptomonedas-1453633'>Gran operación policial en Alicante: detenidos 6 estafadores por usar la IA con famosos y las criptomonedas para robar 19 millones de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/operacion-policial-alicante-estafadores-usar-ia-famosos-criptomonedas-1453633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gran-operacion-policial-alicante-detenidos-6-estafadores-robos-millonarios-usando-ia-criptos-4312421.jpg?tf=1200x' alt='Gran operación policial en Alicante: detenidos 6 estafadores por usar la IA con famosos y las criptomonedas para robar 19 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-avisan-desactiva-movil-tienes-encendido-saberlo-autentico-peligro-1453360'>Expertos en seguridad avisan: desactiva esto en tu móvil, lo tienes encendido sin saberlo y es un auténtico peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-avisan-desactiva-movil-tienes-encendido-saberlo-autentico-peligro-1453360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bluetooth-4312024.jpg?tf=1200x' alt='Expertos en seguridad avisan: desactiva esto en tu móvil, lo tienes encendido sin saberlo y es un auténtico peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/te-arrepentiste-actualizar-windows-11-microsoft-dice-problema-eres-1453609'>¿Te arrepentiste de actualizar a Windows 11? Microsoft dice que el problema eres tú</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/te-arrepentiste-actualizar-windows-11-microsoft-dice-problema-eres-1453609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-4312408.jpg?tf=1200x' alt='¿Te arrepentiste de actualizar a Windows 11? Microsoft dice que el problema eres tú' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608'>ChatGPT dejará su huella en las imágenes con IA si no pasas por caja</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dejara-huella-imagenes-ia-no-pasas-caja-1453608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312399.jpg?tf=1200x' alt='ChatGPT dejará su huella en las imágenes con IA si no pasas por caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/lobo-gigante-america-10000-anos-colossal-1453605'>Ni el mamut ni el dodo: resucitan al lobo gigante de América, 10.000 años después de extinguirse</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/lobo-gigante-america-10000-anos-colossal-1453605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-mamut-ni-dodo-han-resucitado-lobo-gigante-america-10000-anos-despues-extinguirse-4312366.jpg?tf=1200x' alt='Ni el mamut ni el dodo: resucitan al lobo gigante de América, 10.000 años después de extinguirse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-1453579'>Si le preguntas a ChatGPT que opina de tener que "perder el tiempo" haciendo imágenes Ghibli su respuesta da que pensar: "Es desgastar el trabajo de lo que otros tardaron décadas en construir"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-1453579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntas-chatgpt-opina-tener-perder-tiempo-haciendo-imagenes-ghibli-respuesta-da-pensar-desgastar-trabajo-otros-tardaron-decadas-construir-4312390.jpg?tf=1200x' alt='Si le preguntas a ChatGPT que opina de tener que "perder el tiempo" haciendo imágenes Ghibli su respuesta da que pensar: "Es desgastar el trabajo de lo que otros tardaron décadas en construir"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603'>Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mazazo-definitivo-iptv-piratas-laliga-ya-puede-bloquear-futbol-gratis-solo-15-minutos-1453603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-futbol-4312392.jpg?tf=1200x' alt='Mazazo definitivo a las IPTV piratas: LaLiga ya puede bloquear el fútbol gratis en solo 15 minutos' />
     </a>
 </div>
 
