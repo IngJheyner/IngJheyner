@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686'>Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-infierno-tuneles-m30-madrid-llega-funcion-google-maps-waze-no-perderte-1453686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tuneles-m30-4312537.jpg?tf=1200x' alt='Adiós al infierno de los túneles de la M30 en Madrid: llega la función a Google Maps y Waze para no perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-degradando-windows-10-poco-poco-obligarte-cambiar-windows-11-1453745'>Microsoft está degradando Windows 10 poco a poco para obligarte a cambiar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-degradando-windows-10-poco-poco-obligarte-cambiar-windows-11-1453745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4290937.jpg?tf=1200x' alt='Microsoft está degradando Windows 10 poco a poco para obligarte a cambiar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770'>La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-juego-consigue-encontrar-diamantes-minecraft-necesidad-instrucciones-1453770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-jugando-minecraft-4312668.jpg?tf=1200x' alt='La IA se pasa el juego: consigue encontrar Diamantes en Minecraft sin necesidad de instrucciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711'>Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-mit-desmarca-vision-catastrofista-todos-son-expertos-entonces-nadie-experto-1453711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/futuro-trabajo-ia-4312555.jpg?tf=1200x' alt='Experto en IA del MIT se desmarca de la visión catastrofista: "Si todos son expertos, entonces nadie es experto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-1453671'>Día histórico para los clientes de Movistar Plus+: los partidos de Champions se verán mejor que nunca (si haces esto)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-1453671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dia-historico-clientes-movistar-plus-partidos-champions-veran-mejor-nunca-haces-4312525.jpg?tf=1200x' alt='Día histórico para los clientes de Movistar Plus+: los partidos de Champions se verán mejor que nunca (si haces esto)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702'>El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/precio-moviles-punto-explotar-merece-pena-comprar-antes-trump-ponga-marcha-aranceles-1453702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/precio-moviles-trump-4312586.jpg?tf=1200x' alt='El precio de los móviles a punto de explotar: ¿merece la pena comprar antes de que Trump ponga en marcha sus aranceles?' />
     </a>
 </div>
 
