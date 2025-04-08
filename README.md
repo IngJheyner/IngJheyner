@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662'>Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/geoffrey-hinton-elon-musk-4312482.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668'>Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/telefonica-da-punetazo-mesa-acabar-llamadas-spam-1453668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/telefonica-da-punetazo-mesa-acabar-vez-todas-llamadas-spam-4312469.jpg?tf=1200x' alt='Telefónica da un puñetazo en la mesa para acabar de una vez por todas con las llamadas SPAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649'>Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nunca-visto-ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-4312444.jpg?tf=1200x' alt='Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750'>Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-intelligence-4312339.jpg?tf=1200x' alt='Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ayuda-calidad-sueno-no-broma-asegura-nuevo-estudio-1453463'>Netflix ayuda a tu calidad de sueño, y no es broma: lo asegura un nuevo estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ayuda-calidad-sueno-no-broma-asegura-nuevo-estudio-1453463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/netflix-ayuda-calidad-sueno-no-broma-asegura-estudio-4312134.jpg?tf=1200x' alt='Netflix ayuda a tu calidad de sueño, y no es broma: lo asegura un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/cuidado-amd-procesadores-comprar-portatil-pc-1452060'>¡Cuidado! Así te “engaña” AMD con sus procesadores al comprar un portátil o PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/cuidado-amd-procesadores-comprar-portatil-pc-1452060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/problemas-numeracion-amd-ryzen-4309741.jpg?tf=1200x' alt='¡Cuidado! Así te “engaña” AMD con sus procesadores al comprar un portátil o PC' />
     </a>
 </div>
 
