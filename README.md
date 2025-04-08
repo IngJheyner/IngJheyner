@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678'>¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/firestick-xiaomi-vende-algo-mejor-libre-android-instalar-cualquier-aplicacion-1453678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-tv-box-s-2nd-gen-4312484.jpg?tf=1200x' alt='¿Firestick? Xiaomi vende algo mejor, más libre y con Android para instalar cualquier aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676'>Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberdelincuentes-podrian-activar-camara-grabar-todos-movimientos-todo-hackeable-menos-papel-1453676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackeo-camara-4312512.jpg?tf=1200x' alt='Ciberdelincuentes podrían activar tu cámara para grabar todos tus movimientos: "Todo es hackeable menos el papel"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662'>Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-huye-charla-elon-musk-empezo-divagar-dije-me-iba-1453662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/geoffrey-hinton-elon-musk-4312482.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA, huye de una charla con Elon Musk: "Empezó a divagar y le dije que me iba"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649'>Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-1453649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nunca-visto-ingeniero-nvidia-arregla-bug-tarjetas-amd-funcionen-lento-4312444.jpg?tf=1200x' alt='Lo nunca visto: un ingeniero de Nvidia arregla un bug que hacía que las tarjetas AMD funcionen más lento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/laliga-tebas-tienen-nuevo-enemigo-usuarios-iptv-como-matar-moscas-canonazos-1451057'>LaLiga y Tebas tienen un nuevo enemigo, los usuarios de IPTV: "Es como matar moscas a cañonazos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/laliga-tebas-tienen-nuevo-enemigo-usuarios-iptv-como-matar-moscas-canonazos-1451057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-iptv-bloqueo-laliga-futbol-4309549.jpg?tf=1200x' alt='LaLiga y Tebas tienen un nuevo enemigo, los usuarios de IPTV: "Es como matar moscas a cañonazos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750'>Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mi-primera-semana-apple-intelligence-espanol-1450750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-intelligence-4312339.jpg?tf=1200x' alt='Mi primera semana con Apple Intelligence en español: es un buen intento de hacer segura a la IA, pero ya llega atrasada' />
     </a>
 </div>
 
