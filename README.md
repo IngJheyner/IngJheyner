@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979'>Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971'>Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4313007.jpg?tf=1200x' alt='Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/lenovo-yoga-slim-7i-gen-9-tiene-aura-hace-falta-portatil-trabajar-estudiar-1453465'>El Lenovo Yoga Slim 7i Gen 9 tiene el 'aura' que le hace falta a un portátil para trabajar o estudiar</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/lenovo-yoga-slim-7i-gen-9-tiene-aura-hace-falta-portatil-trabajar-estudiar-1453465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312263.jpg?tf=1200x' alt='El Lenovo Yoga Slim 7i Gen 9 tiene el 'aura' que le hace falta a un portátil para trabajar o estudiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784'>Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312709.jpg?tf=1200x' alt='Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas' />
     </a>
 </div>
 
