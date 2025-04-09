@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hackers-planean-mes-infernal-ataques-elon-musk-vamos-1454023'>Un grupo de hackers planean un mes infernal de ataques contra Elon Musk: "Vamos a por él"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hackers-planean-mes-infernal-ataques-elon-musk-vamos-1454023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackers-ataques-elon-musk-4313060.jpg?tf=1200x' alt='Un grupo de hackers planean un mes infernal de ataques contra Elon Musk: "Vamos a por él"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-1453506'>Cómo activar todas las funciones del modo bloqueo de WhatsApp para tener la máxima privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-1453506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-4312222.jpg?tf=1200x' alt='Cómo activar todas las funciones del modo bloqueo de WhatsApp para tener la máxima privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tecnologia-predice-seras-asesino-reino-unido-prepara-algoritmo-parece-sacado-minority-report-1453991'>La tecnología que predice si serás un asesino: Reino Unido prepara un algoritmo que parece sacado de Minority Report</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tecnologia-predice-seras-asesino-reino-unido-prepara-algoritmo-parece-sacado-minority-report-1453991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tom-cruise-minority-report-sosteniendo-cinta-policial-habitual-escenas-crimenes-4313175.jpg?tf=1200x' alt='La tecnología que predice si serás un asesino: Reino Unido prepara un algoritmo que parece sacado de Minority Report' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990'>Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafado-mujer-hecha-inteligencia-artificial-4313050.jpg?tf=1200x' alt='Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/guerra-comercial-amenaza-apple-vas-comprar-iphone-seguramente-mejor-hacerlo-ahora-1454003'>La guerra comercial amenaza a Apple: si vas a comprar un iPhone, seguramente mejor hacerlo ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/guerra-comercial-amenaza-apple-vas-comprar-iphone-seguramente-mejor-hacerlo-ahora-1454003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/guerra-comercial-iphone-4313044.jpg?tf=1200x' alt='La guerra comercial amenaza a Apple: si vas a comprar un iPhone, seguramente mejor hacerlo ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979'>Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad' />
     </a>
 </div>
 
