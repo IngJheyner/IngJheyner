@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990'>Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafado-mujer-hecha-inteligencia-artificial-4313050.jpg?tf=1200x' alt='Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/guerra-comercial-amenaza-apple-vas-comprar-iphone-seguramente-mejor-hacerlo-ahora-1454003'>La guerra comercial amenaza a Apple: si vas a comprar un iPhone, seguramente mejor hacerlo ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/guerra-comercial-amenaza-apple-vas-comprar-iphone-seguramente-mejor-hacerlo-ahora-1454003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/guerra-comercial-iphone-4313044.jpg?tf=1200x' alt='La guerra comercial amenaza a Apple: si vas a comprar un iPhone, seguramente mejor hacerlo ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979'>Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939'>Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-4312981.jpg?tf=1200x' alt='Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/merece-pena-comprar-tablet-2025-modelo-ha-conseguido-me-olvide-moviles-portatiles-1452839'>¿Merece la pena comprar una tablet en 2025? Este modelo ha conseguido que me olvide de móviles y portátiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/merece-pena-comprar-tablet-2025-modelo-ha-conseguido-me-olvide-moviles-portatiles-1452839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-pad-7-pro-4310542.jpg?tf=1200x' alt='¿Merece la pena comprar una tablet en 2025? Este modelo ha conseguido que me olvide de móviles y portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/lenovo-yoga-slim-7i-gen-9-tiene-aura-hace-falta-portatil-trabajar-estudiar-1453465'>El Lenovo Yoga Slim 7i Gen 9 tiene el 'aura' que le hace falta a un portátil para trabajar o estudiar</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/lenovo-yoga-slim-7i-gen-9-tiene-aura-hace-falta-portatil-trabajar-estudiar-1453465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312263.jpg?tf=1200x' alt='El Lenovo Yoga Slim 7i Gen 9 tiene el 'aura' que le hace falta a un portátil para trabajar o estudiar' />
     </a>
 </div>
 
