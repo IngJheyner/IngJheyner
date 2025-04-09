@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147'>GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-4313384.jpg?tf=1200x' alt='GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/tienes-movil-android-sola-pulsacion-puedes-solucionar-60-errores-criticos-1454176'>¿Tienes un móvil Android? Con una sola pulsación puedes solucionar más de 60 errores críticos </a></h4>
+    <a href='https://computerhoy.20minutos.es/android/tienes-movil-android-sola-pulsacion-puedes-solucionar-60-errores-criticos-1454176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malwares-atacando-movil-android-4313377.jpg?tf=1200x' alt='¿Tienes un móvil Android? Con una sola pulsación puedes solucionar más de 60 errores críticos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/macbook-air-m4-baja-precio-antes-suba-aranceles-buena-compra-1453969'>El MacBook Air M4 baja de precio, y antes de que suba por los aranceles es una buena compra</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/macbook-air-m4-baja-precio-antes-suba-aranceles-buena-compra-1453969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4306097.jpg?tf=1200x' alt='El MacBook Air M4 baja de precio, y antes de que suba por los aranceles es una buena compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937'>Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-4312975.jpg?tf=1200x' alt='Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145'>Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-estaria-generando-nuevos-trabajos-4313335.jpg?tf=1200x' alt='Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-1450313'>5 incalificables películas de terror de los 80 que hoy son de culto, y puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-1450313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-4306951.jpg?tf=1200x' alt='5 incalificables películas de terror de los 80 que hoy son de culto, y puedes ver en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelco-ia-china-acaba-encontrar-aliado-inesperado-potencia-cuantica-1454049'>Vuelco en la IA, China se acaba de encontrar con aliado inesperado: la potencia cuántica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vuelco-ia-china-acaba-encontrar-aliado-inesperado-potencia-cuantica-1454049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ia-4313204.jpg?tf=1200x' alt='Vuelco en la IA, China se acaba de encontrar con aliado inesperado: la potencia cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-1454090'>Así funciona el ejército contra las IPTV de Javier Tebas: "Baja al barro al último nivel"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-1454090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-4313332.jpg?tf=1200x' alt='Así funciona el ejército contra las IPTV de Javier Tebas: "Baja al barro al último nivel"' />
     </a>
 </div>
 
