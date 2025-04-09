@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925'>Piden skins y fundas para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-toda-espana-estafa-naranja-ni-llames-ni-escanees-codigo-qr-1453781'>Alerta en toda España por la estafa del sobre naranja: ni llames ni escanees el código QR</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-toda-espana-estafa-naranja-ni-llames-ni-escanees-codigo-qr-1453781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/naranja-4312727.jpg?tf=1200x' alt='Alerta en toda España por la estafa del sobre naranja: ni llames ni escanees el código QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-1453803'>Expertos en seguridad desvelan las preguntas que debes realizar durante una llamada para evitar que clonen tu voz</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-1453803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-4312683.jpg?tf=1200x' alt='Expertos en seguridad desvelan las preguntas que debes realizar durante una llamada para evitar que clonen tu voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925'>Piden fundas y skins para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-skins-carcasas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-4312953.jpg?tf=1200x' alt='Piden skins y fundas para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-skins-carcasas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-4312953.jpg?tf=1200x' alt='Piden fundas y skins para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908'>Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/uso-excesivo-chatgpt-podria-afectar-forma-pensar-4312935.jpg?tf=1200x' alt='Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/desesperado-coloca-senales-evitar-google-maps-envie-conductores-casa-1453905'>Desesperado, coloca señales para evitar que Google Maps envíe a los conductores a su casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/desesperado-coloca-senales-evitar-google-maps-envie-conductores-casa-1453905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/error-google-maps-4312932.jpg?tf=1200x' alt='Desesperado, coloca señales para evitar que Google Maps envíe a los conductores a su casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903'>Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alzheimer-ia-4312930.jpg?tf=1200x' alt='Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas' />
     </a>
 </div>
 
