@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784'>Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312709.jpg?tf=1200x' alt='Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-no-tienen-ninguna-duda-20-anos-estos-trabajos-seran-historia-1453710'>Expertos en IA no tienen ninguna duda: en 20 años estos trabajos serán historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-no-tienen-ninguna-duda-20-anos-estos-trabajos-seran-historia-1453710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/empleos-peligro-ia-4312589.jpg?tf=1200x' alt='Expertos en IA no tienen ninguna duda: en 20 años estos trabajos serán historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-contradice-habla-futuro-ia-pero-pide-barbaridad-trabajadores-tesla-superpoder-1453780'>Elon Musk se contradice, habla del futuro de la IA, pero pide esta barbaridad a sus trabajadores de Tesla: "Es un superpoder"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-contradice-habla-futuro-ia-pero-pide-barbaridad-trabajadores-tesla-superpoder-1453780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-contradice-habla-futuro-ia-pero-pide-barbaridad-trabajadores-tesla-superpoder-4312637.jpg?tf=1200x' alt='Elon Musk se contradice, habla del futuro de la IA, pero pide esta barbaridad a sus trabajadores de Tesla: "Es un superpoder"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/garmin-ia-te-hace-correr-rapido-entrenador-personal-cuesta-menos-200-euros-1453339'>Este Garmin con IA te hace correr más rápido: es un entrenador personal y cuesta menos de 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/garmin-ia-te-hace-correr-rapido-entrenador-personal-cuesta-menos-200-euros-1453339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-165-3386715.jpg?tf=1200x' alt='Este Garmin con IA te hace correr más rápido: es un entrenador personal y cuesta menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-toda-espana-estafa-naranja-ni-llames-ni-escanees-codigo-qr-1453781'>Alerta en toda España por la estafa del sobre naranja: ni llames ni escanees el código QR</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-toda-espana-estafa-naranja-ni-llames-ni-escanees-codigo-qr-1453781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/naranja-4312727.jpg?tf=1200x' alt='Alerta en toda España por la estafa del sobre naranja: ni llames ni escanees el código QR' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-1453803'>Expertos en seguridad desvelan las preguntas que debes realizar durante una llamada para evitar que clonen tu voz</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-1453803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/expertos-seguridad-desvelan-preguntas-debes-realizar-durante-llamada-evitar-clonen-voz-4312683.jpg?tf=1200x' alt='Expertos en seguridad desvelan las preguntas que debes realizar durante una llamada para evitar que clonen tu voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925'>Piden fundas y skins para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-skins-carcasas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-4312953.jpg?tf=1200x' alt='Piden fundas y skins para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915'>Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-ya-ve-abismo-define-ideologo-aranceles-trump-tonto-saco-ladrillos-4312937.jpg?tf=1200x' alt='Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908'>Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-openai-lanza-dura-advertencia-uso-excesivo-chatgpt-podria-hacernos-tontos-1453908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/uso-excesivo-chatgpt-podria-afectar-forma-pensar-4312935.jpg?tf=1200x' alt='Experto de OpenAI lanza una dura advertencia: "El uso excesivo de ChatGPT podría hacernos más tontos"' />
     </a>
 </div>
 
