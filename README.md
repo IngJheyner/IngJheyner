@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971'>Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4313007.jpg?tf=1200x' alt='Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939'>Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-4312981.jpg?tf=1200x' alt='Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784'>Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/utilizar-generador-imagenes-ia-chatgpt-podria-costarte-muy-caro-futuro-avisado-quedas-1453784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4312709.jpg?tf=1200x' alt='Utilizar el generador de imágenes con IA de ChatGPT podría costarte muy caro en el futuro, avisado quedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-no-tienen-ninguna-duda-20-anos-estos-trabajos-seran-historia-1453710'>Expertos en IA no tienen ninguna duda: en 20 años estos trabajos serán historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-no-tienen-ninguna-duda-20-anos-estos-trabajos-seran-historia-1453710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/empleos-peligro-ia-4312589.jpg?tf=1200x' alt='Expertos en IA no tienen ninguna duda: en 20 años estos trabajos serán historia' />
     </a>
 </div>
 
