@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205'>La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ira-elon-musk-crece-explosion-estacion-recarga-tesla-washington-4313405.jpg?tf=1200x' alt='La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-1454181'>Derrite (literalmente) su PlayStation 5 y pide ayuda desesperada para repararla</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-1454181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-4313415.jpg?tf=1200x' alt='Derrite (literalmente) su PlayStation 5 y pide ayuda desesperada para repararla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/conductor-70-anos-usa-waze-encontrar-hospital-termina-perdido-selva-1454200'>Conductor de 70 años usa Waze para encontrar un hospital y termina perdido en la selva</a></h4>
     <a href='https://computerhoy.20minutos.es/life/conductor-70-anos-usa-waze-encontrar-hospital-termina-perdido-selva-1454200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/waze-4313414.jpg?tf=1200x' alt='Conductor de 70 años usa Waze para encontrar un hospital y termina perdido en la selva' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196'>Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-1453932'>Netflix estrena la película de ciencia ficción que fracasó en cines hace más de 20 años, pero ahora arrasa en la plataforma</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-1453932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/neflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-4312972.jpg?tf=1200x' alt='Netflix estrena la película de ciencia ficción que fracasó en cines hace más de 20 años, pero ahora arrasa en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147'>GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-4313384.jpg?tf=1200x' alt='GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China' />
     </a>
 </div>
 
