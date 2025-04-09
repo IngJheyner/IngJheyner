@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-1454075'>Giro de 180 grados en Meta: así es la nueva medida que cambiará Instagram y no gustará a todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-1454075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-4313214.jpg?tf=1200x' alt='Giro de 180 grados en Meta: así es la nueva medida que cambiará Instagram y no gustará a todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/aleluya-microsoft-fin-tiene-buenas-noticias-usuarios-windows-11-1454121'>¡Aleluya! Microsoft por fin tiene buenas noticias para los usuarios de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/aleluya-microsoft-fin-tiene-buenas-noticias-usuarios-windows-11-1454121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-pc-windows-11-4313276.jpg?tf=1200x' alt='¡Aleluya! Microsoft por fin tiene buenas noticias para los usuarios de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/radio-luna-mision-convertira-cara-oculta-antena-radio-explorar-universo-1454033'>Radio Luna: la misión que convertirá la cara oculta en una antena de radio para explorar el universo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/radio-luna-mision-convertira-cara-oculta-antena-radio-explorar-universo-1454033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/radio-luna-4313186.jpg?tf=1200x' alt='Radio Luna: la misión que convertirá la cara oculta en una antena de radio para explorar el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tiene-toda-culpa-no-unica-razon-conductores-estan-dando-espalda-coches-electricos-1454040'>Elon Musk no tiene (toda) la culpa: no es la única razón por la que los conductores están dando la espalda a los coches eléctricos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tiene-toda-culpa-no-unica-razon-conductores-estan-dando-espalda-coches-electricos-1454040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-no-tiene-toda-culpa-no-unica-razon-conductores-estan-dando-espalda-coches-electricos-4313174.jpg?tf=1200x' alt='Elon Musk no tiene (toda) la culpa: no es la única razón por la que los conductores están dando la espalda a los coches eléctricos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-eeuu-cree-huawei-intento-saltarse-sanciones-puede-costar-1000-millones-tsmc-1454072'>Así es cómo EEUU cree que Huawei consiguió saltarse las sanciones, lo que le puede costar 1.000 millones a TSMC</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-eeuu-cree-huawei-intento-saltarse-sanciones-puede-costar-1000-millones-tsmc-1454072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-junto-dos-tacos-billetes-100-dolares-edificio-tsmc-4313266.jpg?tf=1200x' alt='Así es cómo EEUU cree que Huawei consiguió saltarse las sanciones, lo que le puede costar 1.000 millones a TSMC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-vuelve-loco-aranceles-trump-estaria-fletando-aviones-repletos-iphone-antes-sea-tarde-1454011'>Apple se vuelve loco por los aranceles de Trump: estaría fletando aviones repletos de iPhone antes de que sea tarde</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-vuelve-loco-aranceles-trump-estaria-fletando-aviones-repletos-iphone-antes-sea-tarde-1454011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-4313122.jpg?tf=1200x' alt='Apple se vuelve loco por los aranceles de Trump: estaría fletando aviones repletos de iPhone antes de que sea tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/vuelco-iptv-amazon-apple-cloudflare-google-meta-unen-pero-no-acabar-ellas-1454082'>Vuelco total a las IPTV: Amazon, Apple, Cloudflare, Google y Meta se unen, pero no para acabar con ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/vuelco-iptv-amazon-apple-cloudflare-google-meta-unen-pero-no-acabar-ellas-1454082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/contenido-pirata-bloqueado-4313229.jpg?tf=1200x' alt='Vuelco total a las IPTV: Amazon, Apple, Cloudflare, Google y Meta se unen, pero no para acabar con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-1454069'>Cuando tu jefe confía más en la IA que en sus trabajadores: "ChatGPT me hace sentir que estoy acabado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-1454069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-4313207.jpg?tf=1200x' alt='Cuando tu jefe confía más en la IA que en sus trabajadores: "ChatGPT me hace sentir que estoy acabado"' />
     </a>
 </div>
 
