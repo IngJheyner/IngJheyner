@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tecnologia-predice-seras-asesino-reino-unido-prepara-algoritmo-parece-sacado-minority-report-1453991'>La tecnología que predice si serás un asesino: Reino Unido prepara un algoritmo que parece sacado de Minority Report</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tecnologia-predice-seras-asesino-reino-unido-prepara-algoritmo-parece-sacado-minority-report-1453991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tom-cruise-minority-report-sosteniendo-cinta-policial-habitual-escenas-crimenes-4313175.jpg?tf=1200x' alt='La tecnología que predice si serás un asesino: Reino Unido prepara un algoritmo que parece sacado de Minority Report' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-no-soy-robot-ciberdelincuentes-usan-captchas-falsos-como-trampa-robar-datos-1454026'>La estafa del "No soy un robot": ciberdelincuentes usan captchas falsos como trampa para robar datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-no-soy-robot-ciberdelincuentes-usan-captchas-falsos-como-trampa-robar-datos-1454026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/captchas-falsos-como-trampa-4313051.jpg?tf=1200x' alt='La estafa del "No soy un robot": ciberdelincuentes usan captchas falsos como trampa para robar datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990'>Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafado-mujer-hecha-inteligencia-artificial-tenian-muy-bien-montado-1453990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafado-mujer-hecha-inteligencia-artificial-4313050.jpg?tf=1200x' alt='Estafado por una 'mujer' hecha con inteligencia artificial: "Lo tenían muy bien montado"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979'>Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuentas-google-microsoft-riesgo-hackers-consiguen-saltarse-todas-medidas-seguridad-1453979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/internet-archive-ha-sufrido-ciberataque-ha-dejado-web-inoperativa-durante-dias-3400459.jpg?tf=1200x' alt='Cuentas de Google y Microsoft en riesgo: hackers consiguen saltarse todas las medidas de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971'>Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-punto-mira-equipo-uso-ia-espiar-gobierno-coordino-operaciones-signal-1453971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-donald-trump-4313007.jpg?tf=1200x' alt='Elon Musk en el punto de mira: su equipo usó IA para espiar al gobierno y coordino operaciones con Signal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939'>Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-1453939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jeff-bezos-funda-compania-coches-electricos-baratos-slate-auto-competir-tesla-elon-musk-4312981.jpg?tf=1200x' alt='Jeff Bezos funda una compañía de coches eléctricos baratos, Slate Auto, para competir con Tesla de Elon Musk' />
     </a>
 </div>
 
