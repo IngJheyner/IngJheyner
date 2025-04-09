@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925'>Piden skins y fundas para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/piden-skins-fundas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-1453925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/piden-skins-carcasas-tapar-boton-c-nintendo-switch-2-boton-pagar-usar-4312953.jpg?tf=1200x' alt='Piden skins y fundas para tapar el botón C de la Nintendo Switch 2: "Es un botón de pagar para usar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915'>Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-ideologo-aranceles-trump-tonto-saco-ladrillos-1453915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-ya-ve-abismo-define-ideologo-aranceles-trump-tonto-saco-ladrillos-4312937.jpg?tf=1200x' alt='Elon Musk ya ve el abismo, define al ideólogo de los aranceles de Trump: "más tonto que un saco de ladrillos"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903'>Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/ia-puede-predecir-desarrollaras-alzheimer-solo-escuchar-como-hablas-1453903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alzheimer-ia-4312930.jpg?tf=1200x' alt='Esta IA puede predecir si desarrollarás Alzheimer solo con escuchar cómo hablas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-entonces-tenemos-malas-noticias-ti-1453872'>¿Tienes instalado WinRAR en tu ordenador? Entonces tenemos malas noticias para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-entonces-tenemos-malas-noticias-ti-1453872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tienes-instalador-winrar-ordenador-entonces-tenemos-malas-noticias-ti-4312916.jpg?tf=1200x' alt='¿Tienes instalado WinRAR en tu ordenador? Entonces tenemos malas noticias para ti' />
     </a>
 </div>
 
