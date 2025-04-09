@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-1454069'>Cuando tu jefe confía más en la IA que en sus trabajadores: "ChatGPT me hace sentir que estoy acabado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-1454069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuando-jefe-confia-ia-trabajadores-chatgpt-me-hace-sentir-estoy-acabado-4313207.jpg?tf=1200x' alt='Cuando tu jefe confía más en la IA que en sus trabajadores: "ChatGPT me hace sentir que estoy acabado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nova-sonic-nuevo-modelo-voz-basado-ia-desafia-google-openai-1454008'>Amazon presenta Nova Sonic, su nuevo modelo de voz basado en IA que desafía a Google y OpenAI</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-presenta-nova-sonic-nuevo-modelo-voz-basado-ia-desafia-google-openai-1454008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amazon-presenta-nova-sonic-nuevo-modelo-voz-basado-ia-desafia-google-openai-4313108.jpg?tf=1200x' alt='Amazon presenta Nova Sonic, su nuevo modelo de voz basado en IA que desafía a Google y OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lista-robinson-nuevo-objetivo-hackers-podrian-estar-peligro-datos-600000-personas-1454035'>La Lista Robinson es el nuevo objetivo de los hackers, podrían estar en peligro los datos de más de 600.000 personas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/lista-robinson-nuevo-objetivo-hackers-podrian-estar-peligro-datos-600000-personas-1454035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lista-robinson-nuevo-objetivo-hackers-podrian-estar-peligro-datos-600000-personas-4313163.jpg?tf=1200x' alt='La Lista Robinson es el nuevo objetivo de los hackers, podrían estar en peligro los datos de más de 600.000 personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/giro-180-grados-movistar-o2-tambien-bloquean-llamadas-internacionales-no-ser-sean-roaming-1453956'>Giro de 180 grados en Movistar y O2: también bloquean las llamadas internacionales a no ser que sean roaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/giro-180-grados-movistar-o2-tambien-bloquean-llamadas-internacionales-no-ser-sean-roaming-1453956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-movistar-o2-tambien-bloquean-llamadas-internacionales-no-ser-sean-roaming-4313028.jpg?tf=1200x' alt='Giro de 180 grados en Movistar y O2: también bloquean las llamadas internacionales a no ser que sean roaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/jaron-lanier-filosofo-digital-advierte-nos-estamos-equivocando-gravemente-ia-convertira-dios-1454025'>Jaron Lanier, filósofo digital, advierte que nos estamos equivocando gravemente con la IA: "¿Se convertirá en Dios?" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/jaron-lanier-filosofo-digital-advierte-nos-estamos-equivocando-gravemente-ia-convertira-dios-1454025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/jaron-lanier-filosofo-digital-ia-4313121.jpg?tf=1200x' alt='Jaron Lanier, filósofo digital, advierte que nos estamos equivocando gravemente con la IA: "¿Se convertirá en Dios?" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-entra-panico-maximo-rival-rompe-record-historico-spacex-1454066'>Elon Musk entra en pánico: su máximo rival rompe el récord histórico de SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-entra-panico-maximo-rival-rompe-record-historico-spacex-1454066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-4313221.jpg?tf=1200x' alt='Elon Musk entra en pánico: su máximo rival rompe el récord histórico de SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-saber-40-50-60-resultado-escalofriante-me-gusta-version-mi-mismo-1454073'>Le pide a ChatGPT saber cómo se verá a los 40, 50 y 60 años y el resultado es escalofriante: “Me gusta esta versión de mí mismo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-saber-40-50-60-resultado-escalofriante-me-gusta-version-mi-mismo-1454073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/imagenes-persona-mayor-chatgpt-4313199.jpg?tf=1200x' alt='Le pide a ChatGPT saber cómo se verá a los 40, 50 y 60 años y el resultado es escalofriante: “Me gusta esta versión de mí mismo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hackers-planean-mes-infernal-ataques-elon-musk-vamos-1454023'>Un grupo de hackers planean un mes infernal de ataques contra Elon Musk: "Vamos a por él"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hackers-planean-mes-infernal-ataques-elon-musk-vamos-1454023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackers-ataques-elon-musk-4313060.jpg?tf=1200x' alt='Un grupo de hackers planean un mes infernal de ataques contra Elon Musk: "Vamos a por él"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-1453506'>Cómo activar todas las funciones del modo bloqueo de WhatsApp para tener la máxima privacidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-1453506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/como-activar-todas-funciones-modo-bloqueo-whatsapp-tener-maxima-privacidad-4312222.jpg?tf=1200x' alt='Cómo activar todas las funciones del modo bloqueo de WhatsApp para tener la máxima privacidad' />
     </a>
 </div>
 
