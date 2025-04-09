@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/conductor-70-anos-usa-waze-encontrar-hospital-termina-perdido-selva-1454200'>Conductor de 70 años usa Waze para encontrar un hospital y termina perdido en la selva</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/conductor-70-anos-usa-waze-encontrar-hospital-termina-perdido-selva-1454200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/waze-4313414.jpg?tf=1200x' alt='Conductor de 70 años usa Waze para encontrar un hospital y termina perdido en la selva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cecotec-notifica-dos-anos-retraso-brecha-seguridad-datos-clientes-1454197'>Cecotec notifica con dos años de retraso una brecha de seguridad de datos de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cecotec-notifica-dos-anos-retraso-brecha-seguridad-datos-clientes-1454197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-conga-12090-twice-roller-homefill-3662720.jpg?tf=1200x' alt='Cecotec notifica con dos años de retraso una brecha de seguridad de datos de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196'>Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-1453932'>Netflix estrena la película de ciencia ficción que fracasó en cines hace más de 20 años, pero ahora arrasa en la plataforma</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-1453932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/neflix-estrena-pelicula-ciencia-ficcion-fracaso-cines-hace-20-anos-pero-ahora-arrasa-plataforma-4312972.jpg?tf=1200x' alt='Netflix estrena la película de ciencia ficción que fracasó en cines hace más de 20 años, pero ahora arrasa en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147'>GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-1454147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gpmi-humilla-hdmi-cables-usb-pero-sera-casi-imposible-salga-china-4313384.jpg?tf=1200x' alt='GPMI humilla al HDMI y los cables USB, pero será casi imposible que salga de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/tienes-movil-android-sola-pulsacion-puedes-solucionar-60-errores-criticos-1454176'>¿Tienes un móvil Android? Con una sola pulsación puedes solucionar más de 60 errores críticos </a></h4>
-    <a href='https://computerhoy.20minutos.es/android/tienes-movil-android-sola-pulsacion-puedes-solucionar-60-errores-criticos-1454176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malwares-atacando-movil-android-4313377.jpg?tf=1200x' alt='¿Tienes un móvil Android? Con una sola pulsación puedes solucionar más de 60 errores críticos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/macbook-air-m4-baja-precio-antes-suba-aranceles-buena-compra-1453969'>El MacBook Air M4 baja de precio, y antes de que suba por los aranceles es una buena compra</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/macbook-air-m4-baja-precio-antes-suba-aranceles-buena-compra-1453969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4306097.jpg?tf=1200x' alt='El MacBook Air M4 baja de precio, y antes de que suba por los aranceles es una buena compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937'>Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-4312975.jpg?tf=1200x' alt='Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145'>Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-estaria-generando-nuevos-trabajos-4313335.jpg?tf=1200x' alt='Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”' />
     </a>
 </div>
 
