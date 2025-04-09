@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937'>Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-1453937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/studio-ghibli-5-obras-maestras-no-dirigio-miyazaki-pero-tienes-ver-4312975.jpg?tf=1200x' alt='Studio Ghibli: 5 obras maestras que no dirigió Miyazaki, pero tienes que ver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145'>Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-claro-dedicaria-tuviera-buscar-trabajo-ia-creando-nuevas-profesiones-1454145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-estaria-generando-nuevos-trabajos-4313335.jpg?tf=1200x' alt='Sam Altman tiene claro a qué se dedicaría si tuviera que buscar trabajo: “La IA está creando nuevas profesiones”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-1450313'>5 incalificables películas de terror de los 80 que hoy son de culto, y puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-1450313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-incalificables-peliculas-terror-80-hoy-son-culto-puedes-ver-filmin-4306951.jpg?tf=1200x' alt='5 incalificables películas de terror de los 80 que hoy son de culto, y puedes ver en Filmin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-1454090'>Así funciona el ejército contra las IPTV de Javier Tebas: "Baja al barro al último nivel"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-1454090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/funciona-ejercito-iptv-javier-tebas-baja-barro-ultimo-nivel-4313332.jpg?tf=1200x' alt='Así funciona el ejército contra las IPTV de Javier Tebas: "Baja al barro al último nivel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-1454075'>Giro de 180 grados en Meta: así es la nueva medida que cambiará Instagram y no gustará a todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-1454075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-meta-nueva-medida-cambiara-instagram-no-gustara-todos-4313214.jpg?tf=1200x' alt='Giro de 180 grados en Meta: así es la nueva medida que cambiará Instagram y no gustará a todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/aleluya-microsoft-fin-tiene-buenas-noticias-usuarios-windows-11-1454121'>¡Aleluya! Microsoft por fin tiene buenas noticias para los usuarios de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/aleluya-microsoft-fin-tiene-buenas-noticias-usuarios-windows-11-1454121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-pc-windows-11-4313276.jpg?tf=1200x' alt='¡Aleluya! Microsoft por fin tiene buenas noticias para los usuarios de Windows 11' />
     </a>
 </div>
 
