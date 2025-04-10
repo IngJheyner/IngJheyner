@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953'>Sam Altman recula sobre la IA y da la razón a Bill Gates: "Es esta profesión, habrá más demanda de la que se pueda cubrir"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recula-ia-da-razon-bill-gates-habra-demanda-pueda-cubrir-4312995.jpg?tf=1200x' alt='Sam Altman recula sobre la IA y da la razón a Bill Gates: "Es esta profesión, habrá más demanda de la que se pueda cubrir"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046'>Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-4313219.jpg?tf=1200x' alt='Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/nordvpn-rapida-tengo-varias-pero-ideal-ademas-te-preocupa-seguridad-1454063'>NordVPN la más rápida, y tengo varias, pero es ideal si además te preocupa tu seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/nordvpn-rapida-tengo-varias-pero-ideal-ademas-te-preocupa-seguridad-1454063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nordvpn-4313172.jpg?tf=1200x' alt='NordVPN la más rápida, y tengo varias, pero es ideal si además te preocupa tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-habilidades-tan-basicas-1454058'>La generación Z tiene un problema: son expertos con los móviles, pero no saben usar estas habilidades tan básicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-habilidades-tan-basicas-1454058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-herramientas-basicas-4313194.jpg?tf=1200x' alt='La generación Z tiene un problema: son expertos con los móviles, pero no saben usar estas habilidades tan básicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cofundador-microsoft-sorprende-ia-raro-nadie-hable-1453986'>Bill Gates, el cofundador de Microsoft, se sorprende con la IA: "Es raro que nadie hable más de esto"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cofundador-microsoft-sorprende-ia-raro-nadie-hable-1453986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4313084.jpg?tf=1200x' alt='Bill Gates, el cofundador de Microsoft, se sorprende con la IA: "Es raro que nadie hable más de esto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/tiktoker-espanol-consigue-entrar-corea-norte-encuentra-no-te-esperas-parece-dubai-1454027'>Tiktoker español consigue entrar en Corea del Norte y lo que encuentra no te lo esperas: "Se parece a Dubái"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/tiktoker-espanol-consigue-entrar-corea-norte-encuentra-no-te-esperas-parece-dubai-1454027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/corea-norte-4313158.jpg?tf=1200x' alt='Tiktoker español consigue entrar en Corea del Norte y lo que encuentra no te lo esperas: "Se parece a Dubái"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-1454216'>Ni Disney+ ni Prime Video: 3 meses de Apple TV+ por menos de lo que cuesta un mes de Netflix o Max</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-1454216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-4313431.jpg?tf=1200x' alt='Ni Disney+ ni Prime Video: 3 meses de Apple TV+ por menos de lo que cuesta un mes de Netflix o Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205'>La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ira-elon-musk-crece-explosion-estacion-recarga-tesla-washington-4313405.jpg?tf=1200x' alt='La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-1454181'>Derrite (literalmente) su PlayStation 5 y pide ayuda desesperada para repararla</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-1454181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/derrite-literalmente-playstation-5-pide-ayuda-desesperada-repararla-4313415.jpg?tf=1200x' alt='Derrite (literalmente) su PlayStation 5 y pide ayuda desesperada para repararla' />
     </a>
 </div>
 
