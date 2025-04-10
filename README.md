@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323'>Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/timo-boton-rojo-4313587.jpg?tf=1200x' alt='Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345'>Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4313580.jpg?tf=1200x' alt='Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294'>La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196'>Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-lanzara-verano-robot-parecido-bb-8-impulsado-ia-1454260'>Samsung lanzará este verano su robot parecido a BB-8 e impulsado por IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/samsung-lanzara-verano-robot-parecido-bb-8-impulsado-ia-1454260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ballie-robot-ia-samsung-bb-8-4313555.jpg?tf=1200x' alt='Samsung lanzará este verano su robot parecido a BB-8 e impulsado por IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284'>Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/modo-raton-nintendo-switch-2-nadie-hablando-dos-grandes-problemas-4313500.jpg?tf=1200x' alt='Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas' />
     </a>
 </div>
 
