@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196'>Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-lanzara-verano-robot-parecido-bb-8-impulsado-ia-1454260'>Samsung lanzará este verano su robot parecido a BB-8 e impulsado por IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/samsung-lanzara-verano-robot-parecido-bb-8-impulsado-ia-1454260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ballie-robot-ia-samsung-bb-8-4313555.jpg?tf=1200x' alt='Samsung lanzará este verano su robot parecido a BB-8 e impulsado por IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284'>Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/modo-raton-nintendo-switch-2-nadie-hablando-dos-grandes-problemas-4313500.jpg?tf=1200x' alt='Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266'>Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-sam-altman-4286067.jpg?tf=1200x' alt='Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244'>Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia</a></h4>
     <a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/acusan-google-deepmind-contratar-ingenieros-darles-trabajo-quitarselos-competencia-4313457.jpg?tf=1200x' alt='Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518'>La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centennials-tumblr-4312576.jpg?tf=1200x' alt='La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-plegable-barato-ano-zte-nubia-flip-2-mejora-casi-todo-ser-rival-real-samsung-1453697'>He probado el plegable más barato del año: ZTE Nubia Flip 2 mejora en casi todo para ser un rival real de Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-plegable-barato-ano-zte-nubia-flip-2-mejora-casi-todo-ser-rival-real-samsung-1453697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/zte-nubia-flip-2-4312875.jpg?tf=1200x' alt='He probado el plegable más barato del año: ZTE Nubia Flip 2 mejora en casi todo para ser un rival real de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ni-intel-ni-amd-procesadores-fotonicos-rapidos-estan-cerca-comercializarse-1454229'>Ni Intel ni AMD: los procesadores fotónicos, infinitamente más rápidos, están cerca de comercializarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ni-intel-ni-amd-procesadores-fotonicos-rapidos-estan-cerca-comercializarse-1454229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-intel-ni-amd-procesadores-fotonicos-infinitamente-rapidos-estan-cerca-comercializarse-4313442.jpg?tf=1200x' alt='Ni Intel ni AMD: los procesadores fotónicos, infinitamente más rápidos, están cerca de comercializarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953'>Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recula-ia-da-razon-bill-gates-habra-demanda-pueda-cubrir-4312995.jpg?tf=1200x' alt='Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"' />
     </a>
 </div>
 
