@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244'>Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/acusan-google-deepmind-contratar-ingenieros-darles-trabajo-quitarselos-competencia-4313457.jpg?tf=1200x' alt='Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518'>La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centennials-tumblr-4312576.jpg?tf=1200x' alt='La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953'>Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recula-ia-da-razon-bill-gates-habra-demanda-pueda-cubrir-4312995.jpg?tf=1200x' alt='Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046'>Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-4313219.jpg?tf=1200x' alt='Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"' />
     </a>
 </div>
 
