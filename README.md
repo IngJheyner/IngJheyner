@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953'>Sam Altman recula sobre la IA y da la razón a Bill Gates: "Es esta profesión, habrá más demanda de la que se pueda cubrir"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518'>La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/generacion-z-redescubre-bondades-tumblr-futuro-incierto-tiktok-estados-unidos-1453518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/centennials-tumblr-4312576.jpg?tf=1200x' alt='La generación Z redescubre las bondades de Tumblr ante el futuro incierto de TikTok en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-plegable-barato-ano-zte-nubia-flip-2-mejora-casi-todo-ser-rival-real-samsung-1453697'>He probado el plegable más barato del año: ZTE Nubia Flip 2 mejora en casi todo para ser un rival real de Samsung</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-plegable-barato-ano-zte-nubia-flip-2-mejora-casi-todo-ser-rival-real-samsung-1453697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/zte-nubia-flip-2-4312875.jpg?tf=1200x' alt='He probado el plegable más barato del año: ZTE Nubia Flip 2 mejora en casi todo para ser un rival real de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ni-intel-ni-amd-procesadores-fotonicos-rapidos-estan-cerca-comercializarse-1454229'>Ni Intel ni AMD: los procesadores fotónicos, infinitamente más rápidos, están cerca de comercializarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ni-intel-ni-amd-procesadores-fotonicos-rapidos-estan-cerca-comercializarse-1454229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-intel-ni-amd-procesadores-fotonicos-infinitamente-rapidos-estan-cerca-comercializarse-4313442.jpg?tf=1200x' alt='Ni Intel ni AMD: los procesadores fotónicos, infinitamente más rápidos, están cerca de comercializarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953'>Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recula-ia-da-razon-bill-gates-profesion-habra-demanda-pueda-cubrir-1453953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recula-ia-da-razon-bill-gates-habra-demanda-pueda-cubrir-4312995.jpg?tf=1200x' alt='Sam Altman recula sobre la IA y da la razón a Bill Gates: "Es esta profesión, habrá más demanda de la que se pueda cubrir"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recula-ia-da-razon-bill-gates-habra-demanda-pueda-cubrir-4312995.jpg?tf=1200x' alt='Sam Altman recula sobre la IA y da la razón a Bill Gates: "En esta profesión, habrá más demanda de la que se pueda cubrir"' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046'>Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-1454046' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/investigadores-expertos-ia-analizan-efectos-hablar-chatgpt-todos-dias-considero-mi-amigo-4313219.jpg?tf=1200x' alt='Investigadores y expertos en IA analizan los efectos de hablar con ChatGPT todos los días: "Lo considero mi amigo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/nordvpn-rapida-tengo-varias-pero-ideal-ademas-te-preocupa-seguridad-1454063'>NordVPN la más rápida, y tengo varias, pero es ideal si además te preocupa tu seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/nordvpn-rapida-tengo-varias-pero-ideal-ademas-te-preocupa-seguridad-1454063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nordvpn-4313172.jpg?tf=1200x' alt='NordVPN la más rápida, y tengo varias, pero es ideal si además te preocupa tu seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-habilidades-tan-basicas-1454058'>La generación Z tiene un problema: son expertos con los móviles, pero no saben usar estas habilidades tan básicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-habilidades-tan-basicas-1454058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generacion-z-tiene-problema-son-expertos-moviles-pero-no-saben-usar-estas-herramientas-basicas-4313194.jpg?tf=1200x' alt='La generación Z tiene un problema: son expertos con los móviles, pero no saben usar estas habilidades tan básicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cofundador-microsoft-sorprende-ia-raro-nadie-hable-1453986'>Bill Gates, el cofundador de Microsoft, se sorprende con la IA: "Es raro que nadie hable más de esto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cofundador-microsoft-sorprende-ia-raro-nadie-hable-1453986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-4313084.jpg?tf=1200x' alt='Bill Gates, el cofundador de Microsoft, se sorprende con la IA: "Es raro que nadie hable más de esto"' />
     </a>
 </div>
 
