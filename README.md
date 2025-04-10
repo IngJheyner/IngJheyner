@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496'>Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-142-4313915.jpg?tf=1200x' alt='Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494'>Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/busy-bar-4313912.jpg?tf=1200x' alt='Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234'>Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-4313454.jpg?tf=1200x' alt='Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443'>Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-4313877.jpg?tf=1200x' alt='Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/reloj-huawei-tiene-caracteristica-fundamental-personas-mayores-ni-apple-watch-tiene-1454258'>Este reloj de Huawei tiene una característica fundamental para personas mayores que ni el Apple Watch tiene</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/reloj-huawei-tiene-caracteristica-fundamental-personas-mayores-ni-apple-watch-tiene-1454258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-d2-4272985.jpg?tf=1200x' alt='Este reloj de Huawei tiene una característica fundamental para personas mayores que ni el Apple Watch tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227'>La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-4313448.jpg?tf=1200x' alt='La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix' />
     </a>
 </div>
 
