@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296'>Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/agujero-negro-4313589.jpg?tf=1200x' alt='Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321'>James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/james-cameron-4313626.jpg?tf=1200x' alt='James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335'>Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-navegadores-pestanas-4313599.jpg?tf=1200x' alt='Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287'>Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-ios-19-apple-4313562.jpg?tf=1200x' alt='Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7' />
     </a>
 </div>
 
