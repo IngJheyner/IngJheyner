@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489'>Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-rinde-herramienta-popular-linux-4313930.jpg?tf=1200x' alt='Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501'>La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-centra-mirada-estas-ccaa-espanolas-extraccion-minerales-criticos-4313909.jpg?tf=1200x' alt='La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494'>Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/busy-bar-4313912.jpg?tf=1200x' alt='Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234'>Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-4313454.jpg?tf=1200x' alt='Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video' />
     </a>
 </div>
 
