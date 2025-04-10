@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343'>La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-4313615.jpg?tf=1200x' alt='La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ssd-pone-pc-volar-7450-mb-segundo-rebajado-precio-1454212'>Este SSD pone tu PC a volar con 7450 MB por segundo, y está rebajado de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ssd-pone-pc-volar-7450-mb-segundo-rebajado-precio-1454212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ssd-samsung-4313428.jpg?tf=1200x' alt='Este SSD pone tu PC a volar con 7450 MB por segundo, y está rebajado de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-anuncia-gran-novedad-entusiasmara-programadores-python-1454375'>NVIDIA anuncia una gran novedad que entusiasmará a los programadores de Python</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-anuncia-gran-novedad-entusiasmara-programadores-python-1454375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-cuda-python-4313643.jpg?tf=1200x' alt='NVIDIA anuncia una gran novedad que entusiasmará a los programadores de Python' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323'>Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/timo-boton-rojo-4313587.jpg?tf=1200x' alt='Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345'>Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4313580.jpg?tf=1200x' alt='Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294'>La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289'>Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/2030-maquinas-haran-casi-mitad-trabajo-adelanta-estudio-3613273.jpg?tf=1200x' alt='Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196'>Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen' />
     </a>
 </div>
 
