@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321'>James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/james-cameron-4313626.jpg?tf=1200x' alt='James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-imagenes-estilo-estudio-ghibli-mundo-beneficia-ello-1454399'>Sam Altman se cansa de las imágenes estilo estudio Ghibli: “El mundo se beneficia de ello”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-imagenes-estilo-estudio-ghibli-mundo-beneficia-ello-1454399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-imagenes-gpt-4o-4313691.jpg?tf=1200x' alt='Sam Altman se cansa de las imágenes estilo estudio Ghibli: “El mundo se beneficia de ello”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mitico-sonido-inicio-windows-95-convierte-oficialmente-historia-musica-1454346'>El mítico sonido de inicio de Windows 95 se convierte oficialmente en historia de la música</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mitico-sonido-inicio-windows-95-convierte-oficialmente-historia-musica-1454346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-95-4313645.jpg?tf=1200x' alt='El mítico sonido de inicio de Windows 95 se convierte oficialmente en historia de la música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335'>Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-navegadores-pestanas-4313599.jpg?tf=1200x' alt='Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287'>Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-ios-19-apple-4313562.jpg?tf=1200x' alt='Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-1454338'>Elon Musk no gana para disgustos: Tesla ha sido denunciada por copiar con IA a una película</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-1454338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-4313614.jpg?tf=1200x' alt='Elon Musk no gana para disgustos: Tesla ha sido denunciada por copiar con IA a una película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-1454318'>Giro de 180 grados: el Gobierno obligará a todos los dispositivos con internet a tener un sistema de control parental gratuito</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-1454318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-4313586.jpg?tf=1200x' alt='Giro de 180 grados: el Gobierno obligará a todos los dispositivos con internet a tener un sistema de control parental gratuito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343'>La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-4313615.jpg?tf=1200x' alt='La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China' />
     </a>
 </div>
 
