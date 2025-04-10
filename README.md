@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294'>La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ue-cuerda-floja-presiones-eeuu-amenazan-mandar-basura-ley-ia-1454294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='La UE en la cuerda floja: presiones de EEUU amenazan con mandar a la basura la ley de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289'>Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/2030-maquinas-haran-casi-mitad-trabajo-adelanta-estudio-3613273.jpg?tf=1200x' alt='Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284'>Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/modo-raton-nintendo-switch-2-dos-grandes-problemas-1454284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/modo-raton-nintendo-switch-2-nadie-hablando-dos-grandes-problemas-4313500.jpg?tf=1200x' alt='Modo ratón de Nintendo Switch 2: nadie está hablando de sus dos grandes problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266'>Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-sam-altman-4286067.jpg?tf=1200x' alt='Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"' />
     </a>
 </div>
 
