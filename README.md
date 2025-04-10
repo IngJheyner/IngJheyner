@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501'>La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-centra-mirada-estas-ccaa-espanolas-extraccion-minerales-criticos-4313909.jpg?tf=1200x' alt='La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-google-maps-fabricantes-coches-podran-elegir-otras-apps-navegacion-android-auto-automotive-1454497'>¿Adiós a Google Maps? Los fabricantes de coches podrán elegir otras apps de navegación en Android Auto y Automotive</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-google-maps-fabricantes-coches-podran-elegir-otras-apps-navegacion-android-auto-automotive-1454497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-vehiculo-4313917.jpg?tf=1200x' alt='¿Adiós a Google Maps? Los fabricantes de coches podrán elegir otras apps de navegación en Android Auto y Automotive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496'>Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-142-4313915.jpg?tf=1200x' alt='Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234'>Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-4313454.jpg?tf=1200x' alt='Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ultimo-uso-viral-chatgpt-da-mucho-miedo-puedes-saber-como-seran-futuros-hijos-1454446'>El último uso viral de ChatGPT da mucho miedo: así puedes saber cómo serán tus futuros hijos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ultimo-uso-viral-chatgpt-da-mucho-miedo-puedes-saber-como-seran-futuros-hijos-1454446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generar-imagen-hijos-chatgpt-4313869.jpg?tf=1200x' alt='El último uso viral de ChatGPT da mucho miedo: así puedes saber cómo serán tus futuros hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443'>Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-4313877.jpg?tf=1200x' alt='Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"' />
     </a>
 </div>
 
