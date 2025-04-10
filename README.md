@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289'>Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sindicatos-pie-guerra-ia-no-suponga-perdida-control-trabajo-1454289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/2030-maquinas-haran-casi-mitad-trabajo-adelanta-estudio-3613273.jpg?tf=1200x' alt='Sindicatos en pie de guerra contra la IA: "Que no suponga una pérdida sin control del trabajo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196'>Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-ciberataques-adjuntos-1454196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Aviso urgente: si usas WhatsApp Web en Windows no deberías abrir ninguna imagen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266'>Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-demanda-elon-musk-acoso-tomo-control-ia-beneficio-1454266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-sam-altman-4286067.jpg?tf=1200x' alt='Sam Altman demanda a Elon Musk por acoso: "Tomó el control de la IA para su beneficio"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244'>Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/acusan-google-deepmind-contratar-ingenieros-sin-darles-trabajo-1454244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/acusan-google-deepmind-contratar-ingenieros-darles-trabajo-quitarselos-competencia-4313457.jpg?tf=1200x' alt='Acusan a Google DeepMind de contratar ingenieros de IA sin darles trabajo, para que no fichen por la competencia' />
     </a>
 </div>
 
