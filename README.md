@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335'>Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-navegadores-pestanas-4313599.jpg?tf=1200x' alt='Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287'>Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-podria-revolucionar-ios-19-estetica-retro-evoca-clasico-windows-7-1454287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/actualizacion-ios-19-apple-4313562.jpg?tf=1200x' alt='Apple podría revolucionar iOS 19 con una estética retro que evoca al clásico Windows 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-1454338'>Elon Musk no gana para disgustos: Tesla ha sido denunciada por copiar con IA a una película</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-1454338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-no-gana-disgustos-tesla-ha-sido-denunciada-copiar-ia-pelicula-4313614.jpg?tf=1200x' alt='Elon Musk no gana para disgustos: Tesla ha sido denunciada por copiar con IA a una película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-1454318'>Giro de 180 grados: el Gobierno obligará a todos los dispositivos con internet a tener un sistema de control parental gratuito</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-1454318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-gobierno-obligara-todos-dispositivos-internet-tener-sistema-control-parental-gratuito-4313586.jpg?tf=1200x' alt='Giro de 180 grados: el Gobierno obligará a todos los dispositivos con internet a tener un sistema de control parental gratuito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343'>La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-1454343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-construira-gigafactorias-ia-romper-dependencia-eeuu-china-4313615.jpg?tf=1200x' alt='La Unión Europea construirá gigafactorías de IA para romper la dependencia de EEUU y China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ssd-pone-pc-volar-7450-mb-segundo-rebajado-precio-1454212'>Este SSD pone tu PC a volar con 7450 MB por segundo, y está rebajado de precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ssd-pone-pc-volar-7450-mb-segundo-rebajado-precio-1454212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ssd-samsung-4313428.jpg?tf=1200x' alt='Este SSD pone tu PC a volar con 7450 MB por segundo, y está rebajado de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-anuncia-gran-novedad-entusiasmara-programadores-python-1454375'>NVIDIA anuncia una gran novedad que entusiasmará a los programadores de Python</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-anuncia-gran-novedad-entusiasmara-programadores-python-1454375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-cuda-python-4313643.jpg?tf=1200x' alt='NVIDIA anuncia una gran novedad que entusiasmará a los programadores de Python' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323'>Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-timo-boton-rojo-estafadores-hacen-pasar-teleasistencia-robar-datos-bancarios-1454323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/timo-boton-rojo-4313587.jpg?tf=1200x' alt='Alerta sobre el timo del botón rojo: estafadores se hacen pasar por teleasistencia para robar datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345'>Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-admite-gran-error-tesla-no-sera-facil-ni-agradable-subsanar-1454345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4313580.jpg?tf=1200x' alt='Elon Musk admite su gran error con Tesla: "No será fácil ni agradable de subsanar"' />
     </a>
 </div>
 
