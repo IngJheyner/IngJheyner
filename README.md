@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234'>Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-1454234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/peliculas-terror-culto-anos-80-poca-gente-sabe-puedes-verla-prime-video-4313454.jpg?tf=1200x' alt='Es una de las películas de terror más de culto de los años 80, y poca gente sabe que puedes verla en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ultimo-uso-viral-chatgpt-da-mucho-miedo-puedes-saber-como-seran-futuros-hijos-1454446'>El último uso viral de ChatGPT da mucho miedo: así puedes saber cómo serán tus futuros hijos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ultimo-uso-viral-chatgpt-da-mucho-miedo-puedes-saber-como-seran-futuros-hijos-1454446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/generar-imagen-hijos-chatgpt-4313869.jpg?tf=1200x' alt='El último uso viral de ChatGPT da mucho miedo: así puedes saber cómo serán tus futuros hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443'>Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-1454443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canada-activa-plan-acoso-derribo-elon-musk-ni-centimo-imperialista-irresponsable-4313877.jpg?tf=1200x' alt='Canadá activa su plan de acoso y derribo a Elon Musk: "Ni un céntimo al imperialista irresponsable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/reloj-huawei-tiene-caracteristica-fundamental-personas-mayores-ni-apple-watch-tiene-1454258'>Este reloj de Huawei tiene una característica fundamental para personas mayores que ni el Apple Watch tiene</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/reloj-huawei-tiene-caracteristica-fundamental-personas-mayores-ni-apple-watch-tiene-1454258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-d2-4272985.jpg?tf=1200x' alt='Este reloj de Huawei tiene una característica fundamental para personas mayores que ni el Apple Watch tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227'>La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-4313448.jpg?tf=1200x' alt='La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390'>Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-4313685.jpg?tf=1200x' alt='Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-1454406'>Elon Musk, absolutamente sobrepasado, demuestra estar llegando al límite: "Morirás solo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-1454406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-4313769.jpg?tf=1200x' alt='Elon Musk, absolutamente sobrepasado, demuestra estar llegando al límite: "Morirás solo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/estos-son-todos-tipos-productos-ezviz-marca-confirma-apuesta-iot-espana-1454367'>Estos son todos los tipos de productos de Ezviz, la marca que confirma su apuesta por el IoT en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/estos-son-todos-tipos-productos-ezviz-marca-confirma-apuesta-iot-espana-1454367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/camara-vigilancia-inteligente-ezviz-4313710.jpg?tf=1200x' alt='Estos son todos los tipos de productos de Ezviz, la marca que confirma su apuesta por el IoT en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421'>El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-chip-ironwood-google-4313717.jpg?tf=1200x' alt='El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo' />
     </a>
 </div>
 
