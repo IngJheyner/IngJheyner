@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390'>Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-4313685.jpg?tf=1200x' alt='Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-1454406'>Elon Musk, absolutamente sobrepasado, demuestra estar llegando al límite: "Morirás solo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-1454406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-absolutamente-sobrepasado-demuestra-estar-llegando-limite-moriras-solo-4313769.jpg?tf=1200x' alt='Elon Musk, absolutamente sobrepasado, demuestra estar llegando al límite: "Morirás solo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/estos-son-todos-tipos-productos-ezviz-marca-confirma-apuesta-iot-espana-1454367'>Estos son todos los tipos de productos de Ezviz, la marca que confirma su apuesta por el IoT en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/estos-son-todos-tipos-productos-ezviz-marca-confirma-apuesta-iot-espana-1454367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/camara-vigilancia-inteligente-ezviz-4313710.jpg?tf=1200x' alt='Estos son todos los tipos de productos de Ezviz, la marca que confirma su apuesta por el IoT en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421'>El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-chip-ironwood-google-4313717.jpg?tf=1200x' alt='El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296'>Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/agujero-negro-4313589.jpg?tf=1200x' alt='Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321'>James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/james-cameron-rinde-inteligencia-artificial-ia-gana-oscar-mejor-guion-1454321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/james-cameron-4313626.jpg?tf=1200x' alt='James Cameron se rinde ante la inteligencia artificial: "Si una IA gana un Oscar al mejor guion…"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-imagenes-estilo-estudio-ghibli-mundo-beneficia-ello-1454399'>Sam Altman se cansa de las imágenes estilo estudio Ghibli: “El mundo se beneficia de ello”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-imagenes-estilo-estudio-ghibli-mundo-beneficia-ello-1454399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-imagenes-gpt-4o-4313691.jpg?tf=1200x' alt='Sam Altman se cansa de las imágenes estilo estudio Ghibli: “El mundo se beneficia de ello”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mitico-sonido-inicio-windows-95-convierte-oficialmente-historia-musica-1454346'>El mítico sonido de inicio de Windows 95 se convierte oficialmente en historia de la música</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mitico-sonido-inicio-windows-95-convierte-oficialmente-historia-musica-1454346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-95-4313645.jpg?tf=1200x' alt='El mítico sonido de inicio de Windows 95 se convierte oficialmente en historia de la música' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335'>Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/funciona-tabnabbing-estafa-aprovecha-desorden-chrome-vuelve-poner-datos-1454335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-navegadores-pestanas-4313599.jpg?tf=1200x' alt='Así funciona el 'tabnabbing', la estafa que se aprovecha de tu desorden en Chrome: "Vuelve a poner tus datos"' />
     </a>
 </div>
 
