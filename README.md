@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227'>La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-1454227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/obra-maestra-studio-ghibli-nadie-conoce-puedes-ver-netflix-4313448.jpg?tf=1200x' alt='La obra maestra del Studio Ghibli que nadie conoce, y que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390'>Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-1454390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-canal-4k-llega-tdt-abierto-promete-superar-todos-calidad-imagen-4313685.jpg?tf=1200x' alt='Un nuevo canal 4K llega a la TDT en abierto y promete superar a todos en calidad de imagen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421'>El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/google/chip-ironwood-google-24-veces-potente-supercomputadora-rapida-mundo-1454421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nuevo-chip-ironwood-google-4313717.jpg?tf=1200x' alt='El chip Ironwood de Google es 24 veces más potente que la supercomputadora más rápida del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296'>Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-aseguran-agujeros-negros-podrian-ocultar-habitaciones-secretas-como-interstellar-1454296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/agujero-negro-4313589.jpg?tf=1200x' alt='Investigadores aseguran que los agujeros negros podrían ocultar habitaciones secretas como en Interstellar' />
     </a>
 </div>
 
