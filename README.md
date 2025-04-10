@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-1454216'>Ni Disney+ ni Prime Video: 3 meses de Apple TV+ por menos de lo que cuesta un mes de Netflix o Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-1454216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ni-disney-ni-prime-video-3-meses-apple-tv-menos-cuesta-mes-netflix-max-4313431.jpg?tf=1200x' alt='Ni Disney+ ni Prime Video: 3 meses de Apple TV+ por menos de lo que cuesta un mes de Netflix o Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205'>La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/explosion-estacion-recarga-tesla-washington-elon-musk-1454205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ira-elon-musk-crece-explosion-estacion-recarga-tesla-washington-4313405.jpg?tf=1200x' alt='La ira contra Elon Musk crece: explosión en una estación de recarga de Tesla en Washington' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cecotec-notifica-dos-anos-retraso-brecha-seguridad-datos-clientes-1454197'>Cecotec notifica con dos años de retraso una brecha de seguridad de datos de sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cecotec-notifica-dos-anos-retraso-brecha-seguridad-datos-clientes-1454197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cecotec-conga-12090-twice-roller-homefill-3662720.jpg?tf=1200x' alt='Cecotec notifica con dos años de retraso una brecha de seguridad de datos de sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196'>Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/vulnerabilidad-whatsapp-windows-expone-usuarios-ciberataques-mediante-archivos-adjuntos-1454196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-windows-4313407.jpg?tf=1200x' alt='Vulnerabilidad en WhatsApp para Windows expone a usuarios a ciberataques mediante archivos adjuntos' />
     </a>
 </div>
 
