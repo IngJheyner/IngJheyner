@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-1454523'>No solo Black Mirror: Netflix anuncia novedades sobre su apuesta de ciencia ficción más ambiciosa</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-1454523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-4313955.jpg?tf=1200x' alt='No solo Black Mirror: Netflix anuncia novedades sobre su apuesta de ciencia ficción más ambiciosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-1454733'>Canadá convierte a Elon Musk y Donald Trump en supervillanos de cómic y les da las gracias por ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-1454733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-4314296.jpg?tf=1200x' alt='Canadá convierte a Elon Musk y Donald Trump en supervillanos de cómic y les da las gracias por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590'>"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/manuela-delgado-experta-inteligencia-artificial-4314074.jpg?tf=1200x' alt='"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570'>Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robin-phillips-4314040.jpg?tf=1200x' alt='Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/chatgpt-consigue-salvar-vida-mujer-embarazada-gracias-salvar-dos-vidas-1454702'>ChatGPT consigue salvar la vida de una mujer embarazada: “Gracias por salvar dos vidas”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/chatgpt-consigue-salvar-vida-mujer-embarazada-gracias-salvar-dos-vidas-1454702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-chatgpt-ayudando-personas-4314226.jpg?tf=1200x' alt='ChatGPT consigue salvar la vida de una mujer embarazada: “Gracias por salvar dos vidas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654'>Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nave-espacial-psyche-nasa-4314167.jpg?tf=1200x' alt='Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"' />
     </a>
 </div>
 
