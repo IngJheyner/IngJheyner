@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554'>Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/walter-isaacson-elon-musk-4313994.jpg?tf=1200x' alt='Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548'>No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-te-vas-creer-porcentaje-adolescentes-tienen-iphone-estados-unidos-4313973.jpg?tf=1200x' alt='No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508'>Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grabador-tdt-4313810.jpg?tf=1200x' alt='Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553'>Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312271.jpg?tf=1200x' alt='Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-despide-funcionarios-abrieron-expediente-coches-autonomos-tesla-1454527'>Dulce venganza: Elon Musk despide a los funcionarios que abrieron expediente a los coches autónomos de Tesla</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-despide-funcionarios-abrieron-expediente-coches-autonomos-tesla-1454527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dulce-venganza-elon-musk-despide-funcionarios-vigilaban-riesgos-coches-autonomos-tesla-4313945.jpg?tf=1200x' alt='Dulce venganza: Elon Musk despide a los funcionarios que abrieron expediente a los coches autónomos de Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696'>El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/pixel-9a-4313727.jpg?tf=1200x' alt='El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada' />
     </a>
 </div>
 
