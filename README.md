@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574'>OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304981.jpg?tf=1200x' alt='OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563'>Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4314003.jpg?tf=1200x' alt='Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508'>Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grabador-tdt-4313810.jpg?tf=1200x' alt='Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688'>Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/computer-hoy-692-4312088.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad' />
     </a>
 </div>
 
