@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590'>"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/manuela-delgado-experta-inteligencia-artificial-4314074.jpg?tf=1200x' alt='"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-hdmi-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557'>GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la edad de piedra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-hdmi-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cable-chino-gmpi-4314112.jpg?tf=1200x' alt='GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la edad de piedra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570'>Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robin-phillips-4314040.jpg?tf=1200x' alt='Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654'>Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nave-espacial-psyche-nasa-4314167.jpg?tf=1200x' alt='Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-windows-union-europea-1451388'>Europa dice adiós a Windows: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-windows-union-europea-1451388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eu-os-linux-4313218.jpg?tf=1200x' alt='Europa dice adiós a Windows: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-1454706'>Científicos consiguen atrapar a ChatGPT pensando como un humano y da mucho miedo: "No es un árbitro neutral"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-1454706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-4314263.jpg?tf=1200x' alt='Científicos consiguen atrapar a ChatGPT pensando como un humano y da mucho miedo: "No es un árbitro neutral"' />
     </a>
 </div>
 
