@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508'>Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grabador-tdt-4313810.jpg?tf=1200x' alt='Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688'>Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/computer-hoy-692-4312088.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553'>Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312271.jpg?tf=1200x' alt='Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696'>El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/pixel-9a-4313727.jpg?tf=1200x' alt='El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366'>Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-4313654.jpg?tf=1200x' alt='Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359'>Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/yuval-noah-harari-4313720.jpg?tf=1200x' alt='Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"' />
     </a>
 </div>
 
