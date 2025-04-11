@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776'>Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-espanol-juicio-decir-clientes-usaban-ia-eran-trabajadores-filipinos-4314330.jpg?tf=1200x' alt='Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756'>Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-4314323.jpg?tf=1200x' alt='Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763'>Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-4314290.jpg?tf=1200x' alt='Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/descubren-importante-vulnerabilidad-linux-permite-ejecutar-codigo-malicioso-mediante-usb-1454764'>Descubren una importante vulnerabilidad en Linux: permite ejecutar código malicioso mediante un USB</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/descubren-importante-vulnerabilidad-linux-permite-ejecutar-codigo-malicioso-mediante-usb-1454764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linux-4314314.jpg?tf=1200x' alt='Descubren una importante vulnerabilidad en Linux: permite ejecutar código malicioso mediante un USB' />
     </a>
 </div>
 
