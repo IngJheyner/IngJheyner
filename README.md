@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514'>He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/wordpress-lanza-ia-crear-paginas-web-segundos-gratis-4313932.jpg?tf=1200x' alt='He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489'>Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-rinde-herramienta-popular-linux-4313930.jpg?tf=1200x' alt='Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496'>Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-142-4313915.jpg?tf=1200x' alt='Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494'>Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-flipper-zero-crean-herramienta-dice-companeros-trabajo-te-dejen-paz-1454494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/busy-bar-4313912.jpg?tf=1200x' alt='Los creadores de Flipper Zero crean una herramienta que le dice a tus compañeros de trabajo "que te dejen en paz"' />
     </a>
 </div>
 
