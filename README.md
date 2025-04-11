@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-1454659'>La NASA observa por primera vez qué sucede cuando un planeta es tragado por una estrella </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-1454659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-4314128.jpg?tf=1200x' alt='La NASA observa por primera vez qué sucede cuando un planeta es tragado por una estrella ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570'>Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robin-phillips-4314040.jpg?tf=1200x' alt='Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/aire-acondicionado-lg-artcool-ai-air-llega-espana-funciones-inteligentes-climatizacion-1454727'>El aire acondicionado LG Artcool AI Air llega a España con funciones inteligentes de climatización</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/aire-acondicionado-lg-artcool-ai-air-llega-espana-funciones-inteligentes-climatizacion-1454727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lg-artcool-ai-air-4314258.jpg?tf=1200x' alt='El aire acondicionado LG Artcool AI Air llega a España con funciones inteligentes de climatización' />
+    <h4><a href='https://computerhoy.20minutos.es/life/chatgpt-consigue-salvar-vida-mujer-embarazada-gracias-salvar-dos-vidas-1454702'>ChatGPT consigue salvar la vida de una mujer embarazada: “Gracias por salvar dos vidas”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/chatgpt-consigue-salvar-vida-mujer-embarazada-gracias-salvar-dos-vidas-1454702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-chatgpt-ayudando-personas-4314226.jpg?tf=1200x' alt='ChatGPT consigue salvar la vida de una mujer embarazada: “Gracias por salvar dos vidas”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/transmitir-electricidad-cables-ya-no-ciencia-ficcion-investigadores-hacen-realidad-traves-electromagnetismo-1454621'>Transmitir electricidad sin cables ya no es ciencia ficción: investigadores lo hacen realidad a través del electromagnetismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/transmitir-electricidad-cables-ya-no-ciencia-ficcion-investigadores-hacen-realidad-traves-electromagnetismo-1454621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nikola-tesla-4314099.jpg?tf=1200x' alt='Transmitir electricidad sin cables ya no es ciencia ficción: investigadores lo hacen realidad a través del electromagnetismo' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654'>Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nave-nasa-recibe-mensaje-450-millones-kilometros-distancia-hito-precedentes-1454654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nave-espacial-psyche-nasa-4314167.jpg?tf=1200x' alt='Una nave de la NASA recibe un mensaje desde 450 millones de kilómetros de distancia: "Es un hito sin precedentes"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-windows-tenemos-malas-noticias-ti-1453872'>¿Tienes instalado WinRAR en tu ordenador? Lo sentimos, tenemos malas noticias para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-windows-tenemos-malas-noticias-ti-1453872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malware-virus-winrar-4314102.jpg?tf=1200x' alt='¿Tienes instalado WinRAR en tu ordenador? Lo sentimos, tenemos malas noticias para ti' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-windows-union-europea-1451388'>Europa dice adiós a Windows: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-windows-union-europea-1451388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eu-os-linux-4313218.jpg?tf=1200x' alt='Europa dice adiós a Windows: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-1454639'>Así es la nueva estafa que llega a España: cuidado con los coches de segunda mano en Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-1454639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-4314109.jpg?tf=1200x' alt='Así es la nueva estafa que llega a España: cuidado con los coches de segunda mano en Internet' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-1454706'>Científicos consiguen atrapar a ChatGPT pensando como un humano y da mucho miedo: "No es un árbitro neutral"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-1454706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-consiguen-atrapar-chatgpt-pensando-como-humano-da-mucho-miedo-no-arbitro-neutral-4314263.jpg?tf=1200x' alt='Científicos consiguen atrapar a ChatGPT pensando como un humano y da mucho miedo: "No es un árbitro neutral"' />
     </a>
 </div>
 
