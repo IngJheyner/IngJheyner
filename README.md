@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-1454523'>No solo Black Mirror: Netflix anuncia novedades sobre su apuesta de ciencia ficción más ambiciosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-1454523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-solo-black-mirror-netflix-anuncia-novedades-apuesta-ciencia-ficcion-ambiciosa-4313955.jpg?tf=1200x' alt='No solo Black Mirror: Netflix anuncia novedades sobre su apuesta de ciencia ficción más ambiciosa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756'>Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-4314323.jpg?tf=1200x' alt='Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-1454733'>Canadá convierte a Elon Musk y Donald Trump en supervillanos de cómic y les da las gracias por ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-1454733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/canada-convierte-elon-musk-donald-trump-supervillanos-comic-da-gracias-ello-4314296.jpg?tf=1200x' alt='Canadá convierte a Elon Musk y Donald Trump en supervillanos de cómic y les da las gracias por ello' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766'>Ya puedes usar Apple Maps en Android, pero no esperes milagros</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-maps-4314319.jpg?tf=1200x' alt='Ya puedes usar Apple Maps en Android, pero no esperes milagros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590'>"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-nos-liberara-tareas-sentido-defiende-manuela-delgado-experta-inteligencia-artificial-1454590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/manuela-delgado-experta-inteligencia-artificial-4314074.jpg?tf=1200x' alt='"La IA nos liberará de tareas sin sentido": así lo defiende Manuela Delgado, experta en inteligencia artificial' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-encuentran-extrana-torre-alienigena-area-51-usando-google-maps-1454765'>Usuarios encuentran una extraña “torre alienígena” en el Área 51 usando Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/usuarios-encuentran-extrana-torre-alienigena-area-51-usando-google-maps-1454765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-4314317.jpg?tf=1200x' alt='Usuarios encuentran una extraña “torre alienígena” en el Área 51 usando Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-hdmi-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557'>GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la edad de piedra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpmi-nuevo-estandar-hdmi-cable-chino-hace-usb-hdmi-parezcan-prehistoria-1453557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cable-chino-gmpi-4314112.jpg?tf=1200x' alt='GPMI: el nuevo estándar de cable chino que hace que USB y HDMI parezcan de la edad de piedra' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763'>Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-4314290.jpg?tf=1200x' alt='Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570'>Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-adicto-ia-alerta-sabra-ti-mismo-1454570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robin-phillips-4314040.jpg?tf=1200x' alt='Un experto adicto a la IA alerta: "Sabrá más de ti que tú mismo"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/descubren-importante-vulnerabilidad-linux-permite-ejecutar-codigo-malicioso-mediante-usb-1454764'>Descubren una importante vulnerabilidad en Linux: permite ejecutar código malicioso mediante un USB</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/descubren-importante-vulnerabilidad-linux-permite-ejecutar-codigo-malicioso-mediante-usb-1454764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linux-4314314.jpg?tf=1200x' alt='Descubren una importante vulnerabilidad en Linux: permite ejecutar código malicioso mediante un USB' />
     </a>
 </div>
 
