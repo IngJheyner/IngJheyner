@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366'>Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-4313654.jpg?tf=1200x' alt='Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359'>Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/yuval-noah-harari-4313720.jpg?tf=1200x' alt='Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-1454246'>Sam Altman recibe un duro golpe: abandonan OpenAI para irse a la competencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-1454246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-4313473.jpg?tf=1200x' alt='Sam Altman recibe un duro golpe: abandonan OpenAI para irse a la competencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-contradice-elon-musk-sam-altman-estoy-harto-termino-inteligencia-artificial-general-1454347'>El padre de la IA contradice a Elon Musk y Sam Altman: "Estoy harto del término inteligencia artificial general"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-contradice-elon-musk-sam-altman-estoy-harto-termino-inteligencia-artificial-general-1454347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/yann-lecun-4313747.jpg?tf=1200x' alt='El padre de la IA contradice a Elon Musk y Sam Altman: "Estoy harto del término inteligencia artificial general"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378'>Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-4313663.jpg?tf=1200x' alt='Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-1454248'>El CEO de Google advierte sobre su inteligencia artificial: “Está escapando del control humano”</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-1454248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-4313543.jpg?tf=1200x' alt='El CEO de Google advierte sobre su inteligencia artificial: “Está escapando del control humano”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514'>He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/wordpress-lanza-ia-crear-paginas-web-segundos-gratis-4313932.jpg?tf=1200x' alt='He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489'>Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-rinde-herramienta-popular-linux-1454489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-rinde-herramienta-popular-linux-4313930.jpg?tf=1200x' alt='Linus Torvalds se rinde ante esta herramienta: "Es más popular que Linux" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501'>La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-centra-mirada-estas-ccaa-espanolas-extraccion-minerales-criticos-4313909.jpg?tf=1200x' alt='La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos' />
     </a>
 </div>
 
