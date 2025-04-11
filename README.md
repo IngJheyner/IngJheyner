@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553'>Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312271.jpg?tf=1200x' alt='Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-despide-funcionarios-abrieron-expediente-coches-autonomos-tesla-1454527'>Dulce venganza: Elon Musk despide a los funcionarios que abrieron expediente a los coches autónomos de Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-despide-funcionarios-abrieron-expediente-coches-autonomos-tesla-1454527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/dulce-venganza-elon-musk-despide-funcionarios-vigilaban-riesgos-coches-autonomos-tesla-4313945.jpg?tf=1200x' alt='Dulce venganza: Elon Musk despide a los funcionarios que abrieron expediente a los coches autónomos de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696'>El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/google-pixel-9a-me-parece-ordago-moviles-1000-euros-no-baja-notable-casi-nada-1453696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/pixel-9a-4313727.jpg?tf=1200x' alt='El Google Pixel 9a me parece un órdago a los móviles de 1.000 euros que no baja del notable en (casi) nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366'>Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-1454366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafa-declaracion-renta-preocupa-policia-mucho-cuidado-recibes-correo-4313654.jpg?tf=1200x' alt='Así es la estafa de la declaración de la Renta que preocupa a la Policía: "Mucho cuidado si recibes este correo"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359'>Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-lanza-alerta-definitiva-ia-nos-haran-pensar-amigo-robotico-tiene-conciencia-1454359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/yuval-noah-harari-4313720.jpg?tf=1200x' alt='Yuval Noah Harari lanza la alerta definitiva sobre la IA: "Nos harán pensar que nuestro amigo robótico tiene conciencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-1454246'>Sam Altman recibe un duro golpe: abandonan OpenAI para irse a la competencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-1454246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-recibe-duro-golpe-abandonan-openai-irse-competencia-4313473.jpg?tf=1200x' alt='Sam Altman recibe un duro golpe: abandonan OpenAI para irse a la competencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-contradice-elon-musk-sam-altman-estoy-harto-termino-inteligencia-artificial-general-1454347'>El padre de la IA contradice a Elon Musk y Sam Altman: "Estoy harto del término inteligencia artificial general"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/padre-ia-contradice-elon-musk-sam-altman-estoy-harto-termino-inteligencia-artificial-general-1454347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/yann-lecun-4313747.jpg?tf=1200x' alt='El padre de la IA contradice a Elon Musk y Sam Altman: "Estoy harto del término inteligencia artificial general"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378'>Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-4313663.jpg?tf=1200x' alt='Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro' />
     </a>
 </div>
 
