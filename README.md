@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-principales-peligros-ia-me-pondria-muy-triste-pasara-1454545'>Sam Altman reconoce uno de los principales peligros de la IA: "Me pondría muy triste si pasara"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-principales-peligros-ia-me-pondria-muy-triste-pasara-1454545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Sam Altman reconoce uno de los principales peligros de la IA: "Me pondría muy triste si pasara"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-seguira-apostando-ia-pero-no-como-esperas-dara-salto-cine-1454631'>Google seguirá apostando por la IA, pero no como lo esperas: dará el salto al cine</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-seguira-apostando-ia-pero-no-como-esperas-dara-salto-cine-1454631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-seguira-apostando-ia-pero-no-como-esperas-dara-salto-cine-4314094.jpg?tf=1200x' alt='Google seguirá apostando por la IA, pero no como lo esperas: dará el salto al cine' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mete-pata-otra-vez-ultima-actualizacion-windows-11-hay-misteriosa-carpeta-nadie-sabe-sirve-1454617'>Microsoft mete la pata (otra vez) con la última actualización de Windows 11: hay una misteriosa carpeta y nadie sabe para qué sirve</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-mete-pata-otra-vez-ultima-actualizacion-windows-11-hay-misteriosa-carpeta-nadie-sabe-sirve-1454617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/microsoft-mete-pata-otra-vez-ultima-actualizacion-windows-11-hay-misteriosa-carpeta-nadie-sabe-sirve-4314093.jpg?tf=1200x' alt='Microsoft mete la pata (otra vez) con la última actualización de Windows 11: hay una misteriosa carpeta y nadie sabe para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-apk-android-lista-definitiva-apps-virus-no-deberias-tener-instaladas-movil-1454609'>Cuidado con las APK de Android: esta es la lista definitiva de las apps con virus que no deberías tener instaladas en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-apk-android-lista-definitiva-apps-virus-no-deberias-tener-instaladas-movil-1454609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuidado-apk-android-lista-definitiva-apps-virus-no-deberias-tener-instaladas-movil-4314057.jpg?tf=1200x' alt='Cuidado con las APK de Android: esta es la lista definitiva de las apps con virus que no deberías tener instaladas en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-1454547'>WhatsApp prepara una de las mayores actualizaciones de su historia: estas son todas sus novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-1454547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-4314002.jpg?tf=1200x' alt='WhatsApp prepara una de las mayores actualizaciones de su historia: estas son todas sus novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/adios-semana-santa-aemet-te-aconseja-busquen-planes-techo-avisa-nos-espera-1454620'>Adiós a la Semana Santa, la AEMET te aconseja que busquen planes bajo techo y avisa de lo que nos espera</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/adios-semana-santa-aemet-te-aconseja-busquen-planes-techo-avisa-nos-espera-1454620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/aemet-aviso-lluvias-semana-santa-4314043.jpg?tf=1200x' alt='Adiós a la Semana Santa, la AEMET te aconseja que busquen planes bajo techo y avisa de lo que nos espera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/deberias-desactivar-meta-ia-whatsapp-incluso-resulta-superutil-1454650'>Por qué deberías “desactivar” la Meta IA de WhatsApp, incluso si te resulta superútil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/deberias-desactivar-meta-ia-whatsapp-incluso-resulta-superutil-1454650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-te-espia-whatsapp-4314126.jpg?tf=1200x' alt='Por qué deberías “desactivar” la Meta IA de WhatsApp, incluso si te resulta superútil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-confiesa-nos-duele-estafa-reconocer-eres-idiota-1454591'>Experto en ciberseguridad confiesa lo que más nos duele en una estafa: "Es reconocer que eres un idiota"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-confiesa-nos-duele-estafa-reconocer-eres-idiota-1454591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafas-verguenza-4314042.jpg?tf=1200x' alt='Experto en ciberseguridad confiesa lo que más nos duele en una estafa: "Es reconocer que eres un idiota"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619'>Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/scambaiting-estafadores-4314036.jpg?tf=1200x' alt='Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores' />
     </a>
 </div>
 
