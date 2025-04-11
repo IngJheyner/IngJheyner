@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563'>Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4314003.jpg?tf=1200x' alt='Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554'>Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/walter-isaacson-elon-musk-4313994.jpg?tf=1200x' alt='Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688'>Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-692-gran-poder-conlleva-gran-responsabilidad-1452688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/computer-hoy-692-4312088.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 692: un gran poder conlleva una gran responsabilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553'>Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/portatil-lenovo-tiene-mejor-trabajar-estudiar-buena-pantalla-gran-autonomia-software-sencillo-1453553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lenovo-yoga-slim-7i-gen-9-aura-edition-4312271.jpg?tf=1200x' alt='Este portátil de Lenovo tiene lo mejor para trabajar o estudiar: buena pantalla, gran autonomía y un software sencillo' />
     </a>
 </div>
 
