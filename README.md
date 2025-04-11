@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619'>Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/scambaiting-estafadores-4314036.jpg?tf=1200x' alt='Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574'>OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304981.jpg?tf=1200x' alt='OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548'>No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-te-vas-creer-porcentaje-adolescentes-tienen-iphone-estados-unidos-4313973.jpg?tf=1200x' alt='No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508'>Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/graba-toda-tdt-hd-verla-luego-aparato-low-cost-salvavidas-solo-12-euros-1454508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/grabador-tdt-4313810.jpg?tf=1200x' alt='Graba toda la TDT en HD para verla luego: este aparato low cost es un salvavidas por solo 12 euros' />
     </a>
 </div>
 
