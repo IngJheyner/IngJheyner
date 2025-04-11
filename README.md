@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378'>Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-1454378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-descubre-desactivar-internet-movil-rejuvenece-10-anos-cerebro-4313663.jpg?tf=1200x' alt='Estudio descubre que desactivar internet del móvil rejuvenece 10 años el cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-1454248'>El CEO de Google advierte sobre su inteligencia artificial: “Está escapando del control humano”</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-1454248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-google-advierte-inteligencia-artificial-escapando-control-humano-4313543.jpg?tf=1200x' alt='El CEO de Google advierte sobre su inteligencia artificial: “Está escapando del control humano”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514'>He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/he-probado-ia-gratis-wordpress-crear-paginas-web-1454514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/wordpress-lanza-ia-crear-paginas-web-segundos-gratis-4313932.jpg?tf=1200x' alt='He probado la nueva IA gratis de WordPress para crear páginas web con palabras en segundos, y funciona... con algún pero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501'>La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/union-europea-ccaa-espanolas-extraccion-minerales-criticos-1454501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-centra-mirada-estas-ccaa-espanolas-extraccion-minerales-criticos-4313909.jpg?tf=1200x' alt='La Unión Europea centra su mirada en estas CCAA españolas para la extracción de minerales críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-google-maps-fabricantes-coches-podran-elegir-otras-apps-navegacion-android-auto-automotive-1454497'>¿Adiós a Google Maps? Los fabricantes de coches podrán elegir otras apps de navegación en Android Auto y Automotive</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-google-maps-fabricantes-coches-podran-elegir-otras-apps-navegacion-android-auto-automotive-1454497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-vehiculo-4313917.jpg?tf=1200x' alt='¿Adiós a Google Maps? Los fabricantes de coches podrán elegir otras apps de navegación en Android Auto y Automotive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496'>Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-sorprende-android-auto-142-beta-todas-novedades-como-puedes-ser-primero-descargarla-1454496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-142-4313915.jpg?tf=1200x' alt='Google sorprende con Android Auto 14.2 beta: todas las novedades y cómo puedes ser el primero en descargarla' />
     </a>
 </div>
 
