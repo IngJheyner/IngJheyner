@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-1454659'>La NASA observa por primera vez qué sucede cuando un planeta es tragado por una estrella </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-1454659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nasa-observa-primera-vez-sucede-cuando-planeta-tragado-estrella-4314128.jpg?tf=1200x' alt='La NASA observa por primera vez qué sucede cuando un planeta es tragado por una estrella ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/aire-acondicionado-lg-artcool-ai-air-llega-espana-funciones-inteligentes-climatizacion-1454727'>El aire acondicionado LG Artcool AI Air llega a España con funciones inteligentes de climatización</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/aire-acondicionado-lg-artcool-ai-air-llega-espana-funciones-inteligentes-climatizacion-1454727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/lg-artcool-ai-air-4314258.jpg?tf=1200x' alt='El aire acondicionado LG Artcool AI Air llega a España con funciones inteligentes de climatización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/transmitir-electricidad-cables-ya-no-ciencia-ficcion-investigadores-hacen-realidad-traves-electromagnetismo-1454621'>Transmitir electricidad sin cables ya no es ciencia ficción: investigadores lo hacen realidad a través del electromagnetismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/transmitir-electricidad-cables-ya-no-ciencia-ficcion-investigadores-hacen-realidad-traves-electromagnetismo-1454621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nikola-tesla-4314099.jpg?tf=1200x' alt='Transmitir electricidad sin cables ya no es ciencia ficción: investigadores lo hacen realidad a través del electromagnetismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-windows-tenemos-malas-noticias-ti-1453872'>¿Tienes instalado WinRAR en tu ordenador? Lo sentimos, tenemos malas noticias para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-instalado-winrar-ordenador-windows-tenemos-malas-noticias-ti-1453872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malware-virus-winrar-4314102.jpg?tf=1200x' alt='¿Tienes instalado WinRAR en tu ordenador? Lo sentimos, tenemos malas noticias para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-1454639'>Así es la nueva estafa que llega a España: cuidado con los coches de segunda mano en Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-1454639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nueva-estafa-llega-espana-cuidado-coches-segunda-mano-internet-4314109.jpg?tf=1200x' alt='Así es la nueva estafa que llega a España: cuidado con los coches de segunda mano en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pregunta-ia-chatgpt-planta-respuesta-muy-preocupante-aterrador-he-visto-1454634'>Le pregunta a la IA de ChatGPT sobre su planta y la respuesta es muy preocupante: "Es lo más aterrador que he visto".</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pregunta-ia-chatgpt-planta-respuesta-muy-preocupante-aterrador-he-visto-1454634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4314138.jpg?tf=1200x' alt='Le pregunta a la IA de ChatGPT sobre su planta y la respuesta es muy preocupante: "Es lo más aterrador que he visto".' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-royal society-elon-musk-podria-hacer-dano-bien-1451051'>Científicos del mundo entero aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cientificos-royal society-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cientificos-elon-musk-4313208.jpg?tf=1200x' alt='Científicos del mundo entero aterrados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/regalazo-movistar-plus-todos-clientes-regresa-100-gratis-canal-deseado-1454653'>Regalazo de Movistar Plus+ para todos sus clientes: regresa 100% gratis el canal más deseado</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/regalazo-movistar-plus-todos-clientes-regresa-100-gratis-canal-deseado-1454653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/regalo-movistar-plus-4314179.jpg?tf=1200x' alt='Regalazo de Movistar Plus+ para todos sus clientes: regresa 100% gratis el canal más deseado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desinfla-ninguneado-propios-empleados-favor-ignore-cualquier-instruccion-1454686'>Elon Musk se desinfla y es ninguneado por sus propios empleados: “Por favor, ignore cualquier instrucción”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desinfla-ninguneado-propios-empleados-favor-ignore-cualquier-instruccion-1454686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-siendo-acusado-empresarios-4314203.jpg?tf=1200x' alt='Elon Musk se desinfla y es ninguneado por sus propios empleados: “Por favor, ignore cualquier instrucción”' />
     </a>
 </div>
 
