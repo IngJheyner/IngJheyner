@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-1454547'>WhatsApp prepara una de las mayores actualizaciones de su historia: estas son todas sus novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-1454547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-prepara-mayores-actualizaciones-historia-estas-son-todas-novedades-4314002.jpg?tf=1200x' alt='WhatsApp prepara una de las mayores actualizaciones de su historia: estas son todas sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/adios-semana-santa-aemet-te-aconseja-busquen-planes-techo-avisa-nos-espera-1454620'>Adiós a la Semana Santa, la AEMET te aconseja que busquen planes bajo techo y avisa de lo que nos espera</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/adios-semana-santa-aemet-te-aconseja-busquen-planes-techo-avisa-nos-espera-1454620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/aemet-aviso-lluvias-semana-santa-4314043.jpg?tf=1200x' alt='Adiós a la Semana Santa, la AEMET te aconseja que busquen planes bajo techo y avisa de lo que nos espera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/deberias-desactivar-meta-ia-whatsapp-incluso-resulta-superutil-1454650'>Por qué deberías “desactivar” la Meta IA de WhatsApp, incluso si te resulta superútil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/deberias-desactivar-meta-ia-whatsapp-incluso-resulta-superutil-1454650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ai-te-espia-whatsapp-4314126.jpg?tf=1200x' alt='Por qué deberías “desactivar” la Meta IA de WhatsApp, incluso si te resulta superútil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-confiesa-nos-duele-estafa-reconocer-eres-idiota-1454591'>Experto en ciberseguridad confiesa lo que más nos duele en una estafa: "Es reconocer que eres un idiota"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-confiesa-nos-duele-estafa-reconocer-eres-idiota-1454591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estafas-verguenza-4314042.jpg?tf=1200x' alt='Experto en ciberseguridad confiesa lo que más nos duele en una estafa: "Es reconocer que eres un idiota"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619'>Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-scambaiting-metodo-perfecto-acabar-timos-hacer-perder-tiempo-estafadores-1454619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/scambaiting-estafadores-4314036.jpg?tf=1200x' alt='Así funciona el 'scambaiting', el método perfecto para acabar con los timos: hacer perder el tiempo a los estafadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574'>OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-pisa-acelerador-toda-costa-menos-pruebas-seguridad-prisa-lanzar-proxima-ia-estrella-1454574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304981.jpg?tf=1200x' alt='OpenAI pisa el acelerador a toda costa: menos pruebas de seguridad, más prisa por lanzar su próxima IA estrella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563'>Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ross-gerber-accionista-tesla-habla-elon-musk-reputacion-empresa-marca-rota-puede-no-tenga-solucion-1454563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-tesla-4314003.jpg?tf=1200x' alt='Ross Gerber, accionista de Tesla, habla de Elon Musk y la reputación de la empresa: "La marca está rota y puede que no tenga solución"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554'>Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/walter-isaacson-biografo-elon-musk-tiene-muy-claro-ceo-tesla-parece-completamente-poseido-veces-llegando-locura-1454554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/walter-isaacson-elon-musk-4313994.jpg?tf=1200x' alt='Walter Isaacson, biógrafo de Elon Musk, lo tiene claro: el CEO de Tesla parece "completamente poseído, a veces llegando a la locura"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548'>No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/porcentaje-adolescentes-tienen-iphone-estados-unidos-1454548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/no-te-vas-creer-porcentaje-adolescentes-tienen-iphone-estados-unidos-4313973.jpg?tf=1200x' alt='No te vas a creer el porcentaje de adolescentes que tienen un iPhone en Estados Unidos' />
     </a>
 </div>
 
