@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-1453632'>Demasiados españoles tienen activado este modo de su móvil todo el día y se están cargando la batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-1453632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-4312437.jpg?tf=1200x' alt='Demasiados españoles tienen activado este modo de su móvil todo el día y se están cargando la batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-bjarne-stroustrup-advertencia-aprender-programar-1445288'>Bjarne Stroustrup, padre de C++, avisa a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-bjarne-stroustrup-advertencia-aprender-programar-1445288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bjarne-stroustrup-4313222.jpg?tf=1200x' alt='Bjarne Stroustrup, padre de C++, avisa a los futuros programadores: "No puedes aprender a programar por internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/tocadiscos-inalambrico-portatil-toshiba-aurex-1454792'>Ya puedes llevarte tus vinilos de acampada, con el nuevo tocadiscos inalámbrico y portátil de Toshiba</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/tocadiscos-inalambrico-portatil-toshiba-aurex-1454792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ya-puedes-llevarte-vinilos-acampada-nuevo-tocadiscos-inalambrico-portatil-toshiba-4314359.jpg?tf=1200x' alt='Ya puedes llevarte tus vinilos de acampada, con el nuevo tocadiscos inalámbrico y portátil de Toshiba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215'>Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-resultado-inquietante-eficiente-estable-inhumana-4313438.jpg?tf=1200x' alt='Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266'>No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aprender-programar-phyton-4305233.jpg?tf=1200x' alt='No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/traicion-tecnoligarcas-como-trump-chantajeando-apple-tesla-aranceles-pagas-consecuencias-1454408'>La traición a los tecnoligarcas: ¿cómo Trump está chantajeando a Apple o Tesla con aranceles y por qué tú pagas las consecuencias?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/traicion-tecnoligarcas-como-trump-chantajeando-apple-tesla-aranceles-pagas-consecuencias-1454408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4313712.jpg?tf=1200x' alt='La traición a los tecnoligarcas: ¿cómo Trump está chantajeando a Apple o Tesla con aranceles y por qué tú pagas las consecuencias?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-muy-facil-hackear-aunque-lleve-mayusculas-1449392'>Tu contraseña es muy fácil de hackear (aunque lleve mayúsculas y un '@')</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-muy-facil-hackear-aunque-lleve-mayusculas-1449392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/contrasena-hackeo-4312124.jpg?tf=1200x' alt='Tu contraseña es muy fácil de hackear (aunque lleve mayúsculas y un '@')' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714'>Plegables de gama media: ¿estamos más cerca o más lejos en 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/plegables-gama-media-4314010.jpg?tf=1200x' alt='Plegables de gama media: ¿estamos más cerca o más lejos en 2025?' />
     </a>
 </div>
 
