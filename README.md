@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867'>Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-error-4314455.jpg?tf=1200x' alt='Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865'>El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-vision-pro-4314453.jpg?tf=1200x' alt='El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863'>Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gmail-4314451.jpg?tf=1200x' alt='Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849'>Crean la primera pantalla holográfica 3D interactiva del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/crean-primera-pantalla-holografica-3d-interactiva-mundo-4314423.jpg?tf=1200x' alt='Crean la primera pantalla holográfica 3D interactiva del mundo' />
     </a>
 </div>
 
