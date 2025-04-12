@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215'>Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-resultado-inquietante-eficiente-estable-inhumana-4313438.jpg?tf=1200x' alt='Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266'>No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aprender-programar-phyton-4305233.jpg?tf=1200x' alt='No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714'>Plegables de gama media: ¿estamos más cerca o más lejos en 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/plegables-gama-media-4314010.jpg?tf=1200x' alt='Plegables de gama media: ¿estamos más cerca o más lejos en 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352'>Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-4310196.jpg?tf=1200x' alt='Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce' />
     </a>
 </div>
 
