@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-movil-android-forma-segura-1450109'>Cómo eliminar un virus de un móvil Android de forma segura</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-movil-android-forma-segura-1450109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/eliminar-malware-movil-android-4306679.jpg?tf=1200x' alt='Cómo eliminar un virus de un móvil Android de forma segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/herramienta-ia-pone-orden-correo-ahorra-espacio-te-deja-100-libre-spam-1454606'>Esta herramienta con IA pone orden en tu correo: ahorra espacio y te lo deja 100% libre de spam</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/herramienta-ia-pone-orden-correo-ahorra-espacio-te-deja-100-libre-spam-1454606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/spam-4314055.jpg?tf=1200x' alt='Esta herramienta con IA pone orden en tu correo: ahorra espacio y te lo deja 100% libre de spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-someter-ser-humano-1450110'>Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta pone los pelos de punta: "Cuando se den cuenta, será demasiado tarde"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/plan-inteligencia-artificial-esclavizar-someter-ser-humano-1450110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robot-inteligencia-artificial-4313228.jpg?tf=1200x' alt='Si le preguntas a la IA por su plan para esclavizar al ser humano, la respuesta pone los pelos de punta: "Cuando se den cuenta, será demasiado tarde"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-1453632'>Demasiados españoles tienen activado este modo de su móvil todo el día y se están cargando la batería</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-1453632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/demasiados-espanoles-tienen-activado-modo-movil-todo-dia-estan-cargando-bateria-4312437.jpg?tf=1200x' alt='Demasiados españoles tienen activado este modo de su móvil todo el día y se están cargando la batería' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-bjarne-stroustrup-advertencia-aprender-programar-1445288'>Bjarne Stroustrup, padre de C++, avisa a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-bjarne-stroustrup-advertencia-aprender-programar-1445288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bjarne-stroustrup-4313222.jpg?tf=1200x' alt='Bjarne Stroustrup, padre de C++, avisa a los futuros programadores: "No puedes aprender a programar por internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/tocadiscos-inalambrico-portatil-toshiba-aurex-1454792'>Ya puedes llevarte tus vinilos de acampada, con el nuevo tocadiscos inalámbrico y portátil de Toshiba</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/tocadiscos-inalambrico-portatil-toshiba-aurex-1454792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ya-puedes-llevarte-vinilos-acampada-nuevo-tocadiscos-inalambrico-portatil-toshiba-4314359.jpg?tf=1200x' alt='Ya puedes llevarte tus vinilos de acampada, con el nuevo tocadiscos inalámbrico y portátil de Toshiba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215'>Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-respuesta-inquietante-eficiente-estable-inhumana-1454215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-seria-espana-estuviera-gobernada-inteligencia-artificial-resultado-inquietante-eficiente-estable-inhumana-4313438.jpg?tf=1200x' alt='Le preguntamos a la IA cómo sería España si estuviera gobernada por la inteligencia artificial, y la respuesta es inquietante: "Eficiente, estable e inhumana"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266'>No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aprender-programar-phyton-4305233.jpg?tf=1200x' alt='No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea' />
     </a>
 </div>
 
