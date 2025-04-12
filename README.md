@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845'>Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sony-bravia-8k-4314416.jpg?tf=1200x' alt='Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777'>Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malwares-windows-10-4314335.jpg?tf=1200x' alt='Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841'>Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gboard-4314411.jpg?tf=1200x' alt='Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842'>Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/kevin-weil-4313635.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"' />
     </a>
 </div>
 
