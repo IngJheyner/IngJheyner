@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777'>Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malwares-windows-10-4314335.jpg?tf=1200x' alt='Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-tiktok-estarian-desarrollando-unas-gafas-ia-desafiar-ray-ban-meta-1454844'>Los creadores de TikTok estarían desarrollando unas gafas con IA para desafiar a las Ray-Ban Meta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-tiktok-estarian-desarrollando-unas-gafas-ia-desafiar-ray-ban-meta-1454844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ray-ban-4314415.jpg?tf=1200x' alt='Los creadores de TikTok estarían desarrollando unas gafas con IA para desafiar a las Ray-Ban Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280'>La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-4305283.jpg?tf=1200x' alt='La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842'>Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/kevin-weil-4313635.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143'>¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-4305125.jpg?tf=1200x' alt='¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477'>Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lenguajes-programacion-4313618.jpg?tf=1200x' alt='Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"' />
     </a>
 </div>
 
