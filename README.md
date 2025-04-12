@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280'>La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-4305283.jpg?tf=1200x' alt='La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841'>Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gboard-4314411.jpg?tf=1200x' alt='Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842'>Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-miedo-programadores-1448842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/kevin-weil-4313635.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma los peores augurios: "Al ritmo que vamos, creo que será antes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143'>¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-4305125.jpg?tf=1200x' alt='¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477'>Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lenguajes-programacion-4313618.jpg?tf=1200x' alt='Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/chatgpt-llega-netflix-buscara-contenido-estado-animo-1454829'>ChatGPT llega a Netflix, buscará contenido según tu estado de ánimo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/chatgpt-llega-netflix-buscara-contenido-estado-animo-1454829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-llega-netflix-buscara-contenido-estado-animo-4314365.jpg?tf=1200x' alt='ChatGPT llega a Netflix, buscará contenido según tu estado de ánimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-lanza-herramienta-ia-generar-musica-fondo-gratuita-videos-1454828'>YouTube lanza una herramienta de IA para generar música de fondo gratuita en vídeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-lanza-herramienta-ia-generar-musica-fondo-gratuita-videos-1454828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/youtube-creator-music-4314399.jpg?tf=1200x' alt='YouTube lanza una herramienta de IA para generar música de fondo gratuita en vídeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-1448049'>Cuántos años y horas de uso tiene tu disco duro HDD y cómo saber si estás en la zona de peligro</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-1448049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-4303259.jpg?tf=1200x' alt='Cuántos años y horas de uso tiene tu disco duro HDD y cómo saber si estás en la zona de peligro' />
     </a>
 </div>
 
