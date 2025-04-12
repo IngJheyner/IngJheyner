@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865'>El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-vision-pro-4314453.jpg?tf=1200x' alt='El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864'>Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-hello-4314452.jpg?tf=1200x' alt='Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849'>Crean la primera pantalla holográfica 3D interactiva del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/crean-primera-pantalla-holografica-3d-interactiva-mundo-4314423.jpg?tf=1200x' alt='Crean la primera pantalla holográfica 3D interactiva del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845'>Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sony-bravia-8k-4314416.jpg?tf=1200x' alt='Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado' />
     </a>
 </div>
 
