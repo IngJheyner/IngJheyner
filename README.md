@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849'>Crean la primera pantalla holográfica 3D interactiva del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/crean-primera-pantalla-holografica-3d-interactiva-mundo-4314423.jpg?tf=1200x' alt='Crean la primera pantalla holográfica 3D interactiva del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845'>Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sony-bravia-8k-4314416.jpg?tf=1200x' alt='Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280'>La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-4305283.jpg?tf=1200x' alt='La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841'>Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-prueba-generador-memes-ia-gboard-pero-lejos-ser-divertido-1454841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gboard-4314411.jpg?tf=1200x' alt='Google prueba un generador de memes con IA para Gboard, pero lejos de ser divertido' />
     </a>
 </div>
 
