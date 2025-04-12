@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352'>Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-4310196.jpg?tf=1200x' alt='Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-te-protege-malware-baratas-tambien-muy-rapida-1454285'>Esta VPN te protege del malware: es de las más baratas y también muy rápida</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vpn-te-protege-malware-baratas-tambien-muy-rapida-1454285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/antivirus-surfsharj-4313544.jpg?tf=1200x' alt='Esta VPN te protege del malware: es de las más baratas y también muy rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776'>Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-espanol-juicio-decir-clientes-usaban-ia-eran-trabajadores-filipinos-4314330.jpg?tf=1200x' alt='Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766'>Ya puedes usar Apple Maps en Android, pero no esperes milagros</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-maps-4314319.jpg?tf=1200x' alt='Ya puedes usar Apple Maps en Android, pero no esperes milagros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-encuentran-extrana-torre-alienigena-area-51-usando-google-maps-1454765'>Usuarios encuentran una extraña “torre alienígena” en el Área 51 usando Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/usuarios-encuentran-extrana-torre-alienigena-area-51-usando-google-maps-1454765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-maps-4314317.jpg?tf=1200x' alt='Usuarios encuentran una extraña “torre alienígena” en el Área 51 usando Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763'>Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-1454763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/javier-tebas-confirma-acuerdo-cdn77-aisla-piratas-iptv-laliga-15-minutos-4314290.jpg?tf=1200x' alt='Javier Tebas confirma su acuerdo con CDN77: aísla a los piratas de IPTV de LaLiga en 15 minutos' />
     </a>
 </div>
 
