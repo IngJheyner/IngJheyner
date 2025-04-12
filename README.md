@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143'>¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-1449143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-sabe-laliga-javier-tebas-estas-viendo-futbol-pirata-estas-utilizando-iptv-4305125.jpg?tf=1200x' alt='¿Cómo sabe LaLiga de Javier Tebas que estás viendo el fútbol pirata y que estás utilizando una IPTV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477'>Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sam-altman-ceo-openai-python-c-javascript-programadores-1450477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-lenguajes-programacion-4313618.jpg?tf=1200x' alt='Sam Altman anticipa el adiós de Python, C o JavaScript y acaba con la esperanza de los programadores: "Solo necesitamos un poco más de tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/chatgpt-llega-netflix-buscara-contenido-estado-animo-1454829'>ChatGPT llega a Netflix, buscará contenido según tu estado de ánimo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/chatgpt-llega-netflix-buscara-contenido-estado-animo-1454829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-llega-netflix-buscara-contenido-estado-animo-4314365.jpg?tf=1200x' alt='ChatGPT llega a Netflix, buscará contenido según tu estado de ánimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-lanza-herramienta-ia-generar-musica-fondo-gratuita-videos-1454828'>YouTube lanza una herramienta de IA para generar música de fondo gratuita en vídeos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-lanza-herramienta-ia-generar-musica-fondo-gratuita-videos-1454828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/youtube-creator-music-4314399.jpg?tf=1200x' alt='YouTube lanza una herramienta de IA para generar música de fondo gratuita en vídeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-1448049'>Cuántos años y horas de uso tiene tu disco duro HDD y cómo saber si estás en la zona de peligro</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-1448049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuantos-anos-horas-uso-tiene-disco-duro-hdd-como-saber-estas-zona-peligro-4303259.jpg?tf=1200x' alt='Cuántos años y horas de uso tiene tu disco duro HDD y cómo saber si estás en la zona de peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lanzara-2026-unas-gafas-inteligentes-android-xr-desarrolladas-junto-google-1454822'>Samsung lanzará en 2026 unas gafas inteligentes con Android XR desarrolladas junto a Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lanzara-2026-unas-gafas-inteligentes-android-xr-desarrolladas-junto-google-1454822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reimaginacion-unas-gafas-inteligentes-samsung-google-4314392.jpg?tf=1200x' alt='Samsung lanzará en 2026 unas gafas inteligentes con Android XR desarrolladas junto a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066'>Dos de los mayores expertos en el mundo de la IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/robot-inteligencia-artificial-4313613.jpg?tf=1200x' alt='Dos de los mayores expertos en el mundo de la IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-movil-android-forma-segura-1450109'>Cómo eliminar un virus de un móvil Android de forma segura</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-movil-android-forma-segura-1450109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/eliminar-malware-movil-android-4306679.jpg?tf=1200x' alt='Cómo eliminar un virus de un móvil Android de forma segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/herramienta-ia-pone-orden-correo-ahorra-espacio-te-deja-100-libre-spam-1454606'>Esta herramienta con IA pone orden en tu correo: ahorra espacio y te lo deja 100% libre de spam</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/herramienta-ia-pone-orden-correo-ahorra-espacio-te-deja-100-libre-spam-1454606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/spam-4314055.jpg?tf=1200x' alt='Esta herramienta con IA pone orden en tu correo: ahorra espacio y te lo deja 100% libre de spam' />
     </a>
 </div>
 
