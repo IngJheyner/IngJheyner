@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266'>No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-soy-programador-pero-he-decicido-aprender-python-1449266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aprender-programar-phyton-4305233.jpg?tf=1200x' alt='No soy programador ni aspiro a serlo, pero he decidido que aprender Python es una gran idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/traicion-tecnoligarcas-como-trump-chantajeando-apple-tesla-aranceles-pagas-consecuencias-1454408'>La traición a los tecnoligarcas: ¿cómo Trump está chantajeando a Apple o Tesla con aranceles y por qué tú pagas las consecuencias?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/traicion-tecnoligarcas-como-trump-chantajeando-apple-tesla-aranceles-pagas-consecuencias-1454408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-aranceles-4313712.jpg?tf=1200x' alt='La traición a los tecnoligarcas: ¿cómo Trump está chantajeando a Apple o Tesla con aranceles y por qué tú pagas las consecuencias?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-muy-facil-hackear-aunque-lleve-mayusculas-1449392'>Tu contraseña es muy fácil de hackear (aunque lleve mayúsculas y un '@')</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-muy-facil-hackear-aunque-lleve-mayusculas-1449392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/contrasena-hackeo-4312124.jpg?tf=1200x' alt='Tu contraseña es muy fácil de hackear (aunque lleve mayúsculas y un '@')' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714'>Plegables de gama media: ¿estamos más cerca o más lejos en 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/plegables-gama-media-estamos-cerca-lejos-2025-1453714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/plegables-gama-media-4314010.jpg?tf=1200x' alt='Plegables de gama media: ¿estamos más cerca o más lejos en 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352'>Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-1452352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apagar-pantalla-smart-tv-lleno-trucos-funciones-superutiles-casi-nadie-conoce-4310196.jpg?tf=1200x' alt='Apagar la pantalla del Smart TV está lleno de trucos y funciones superútiles que casi nadie conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-te-protege-malware-baratas-tambien-muy-rapida-1454285'>Esta VPN te protege del malware: es de las más baratas y también muy rápida</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/vpn-te-protege-malware-baratas-tambien-muy-rapida-1454285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/antivirus-surfsharj-4313544.jpg?tf=1200x' alt='Esta VPN te protege del malware: es de las más baratas y también muy rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776'>Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-espanol-albert-saniger-juicio-estados-unidos-ia-eran-trabajadores-filipinos-1454776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ceo-espanol-juicio-decir-clientes-usaban-ia-eran-trabajadores-filipinos-4314330.jpg?tf=1200x' alt='Un CEO español a juicio en Estados Unidos por decir a sus clientes que usaban IA, pero eran trabajadores filipinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756'>Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-1454756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/primer-ceo-gran-empresa-admitir-triste-realidad-ia-reemplazara-nuevas-contrataciones-4314323.jpg?tf=1200x' alt='Primer CEO de una gran empresa en admitir la triste realidad de la IA: "Reemplazará a las nuevas contrataciones"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766'>Ya puedes usar Apple Maps en Android, pero no esperes milagros</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ya-puedes-usar-apple-maps-android-pero-no-esperes-milagros-1454766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-maps-4314319.jpg?tf=1200x' alt='Ya puedes usar Apple Maps en Android, pero no esperes milagros' />
     </a>
 </div>
 
