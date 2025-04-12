@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864'>Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-hello-4314452.jpg?tf=1200x' alt='Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/tienes-fibra-va-lenta-exprimela-cable-categoria-8-te-lleva-40-gb-segundo-1454821'>Si tienes fibra y va lenta, exprímela: este cable de Categoría 8 te lleva a 40 GB por segundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/tienes-fibra-va-lenta-exprimela-cable-categoria-8-te-lleva-40-gb-segundo-1454821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ugreen-4314391.jpg?tf=1200x' alt='Si tienes fibra y va lenta, exprímela: este cable de Categoría 8 te lleva a 40 GB por segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863'>Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gmail-4314451.jpg?tf=1200x' alt='Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849'>Crean la primera pantalla holográfica 3D interactiva del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-primera-pantalla-holografica-3d-interactiva-mundo-1454849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/crean-primera-pantalla-holografica-3d-interactiva-mundo-4314423.jpg?tf=1200x' alt='Crean la primera pantalla holográfica 3D interactiva del mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845'>Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/sony-deja-fabricar-televisores-8k-pero-abren-puerta-volver-futuro-cambia-mercado-1454845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sony-bravia-8k-4314416.jpg?tf=1200x' alt='Sony deja de fabricar televisores 8K, pero abren la puerta a volver en el futuro si cambia el mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777'>Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-avisa-750-millones-usuarios-todo-mundo-no-esperen-ultimo-minuto-1454777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/malwares-windows-10-4314335.jpg?tf=1200x' alt='Microsoft avisa a más de 750 millones de usuarios en todo el mundo: “No esperen hasta el último minuto”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-tiktok-estarian-desarrollando-unas-gafas-ia-desafiar-ray-ban-meta-1454844'>Los creadores de TikTok estarían desarrollando unas gafas con IA para desafiar a las Ray-Ban Meta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-tiktok-estarian-desarrollando-unas-gafas-ia-desafiar-ray-ban-meta-1454844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/meta-ray-ban-4314415.jpg?tf=1200x' alt='Los creadores de TikTok estarían desarrollando unas gafas con IA para desafiar a las Ray-Ban Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280'>La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-1449280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cruel-tecnica-lograr-exito-sam-altman-copio-steve-jobs-menudo-sera-doloroso-4305283.jpg?tf=1200x' alt='La cruel técnica para lograr el éxito que Sam Altman copió de Steve Jobs: "A menudo será doloroso"' />
     </a>
 </div>
 
