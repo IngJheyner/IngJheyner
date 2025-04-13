@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941'>Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-4314552.jpg?tf=1200x' alt='Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917'>OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4314519.jpg?tf=1200x' alt='OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4314097.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300'>Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-chatgpt-como-amiga-4305291.jpg?tf=1200x' alt='Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas' />
     </a>
 </div>
 
