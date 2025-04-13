@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/he-ignorado-herramienta-gratis-windows-ahora-no-puedo-dejar-utilizarla-1449268'>He ignorado esta herramienta gratis de Windows durante años y ahora no puedo dejar de utilizarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/he-ignorado-herramienta-gratis-windows-ahora-no-puedo-dejar-utilizarla-1449268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/powertoys-windows-11-4305245.jpg?tf=1200x' alt='He ignorado esta herramienta gratis de Windows durante años y ahora no puedo dejar de utilizarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-1450107'>Mi portátil con Windows tiene más de 5 años, funciona como el primer día y nunca lo he formateado: este es mi secreto</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-1450107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-4306676.jpg?tf=1200x' alt='Mi portátil con Windows tiene más de 5 años, funciona como el primer día y nunca lo he formateado: este es mi secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-home-google-ha-decidido-cambiar-estrategia-hogar-inteligente-1452015'>¿Qué es Google Home y por qué Google ha decidido cambiar su estrategia en el hogar inteligente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-home-google-ha-decidido-cambiar-estrategia-hogar-inteligente-1452015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-nest-mini-3201050.jpg?tf=1200x' alt='¿Qué es Google Home y por qué Google ha decidido cambiar su estrategia en el hogar inteligente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405'>He descubierto una mina de oro con Substack y creo que deberías probarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/substack-newsletter-prueba-4295324.jpg?tf=1200x' alt='He descubierto una mina de oro con Substack y creo que deberías probarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879'>Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/denuncia-compania-videojuegos-depresion-ser-abofeteado-virtualmente-4800-veces-4314470.jpg?tf=1200x' alt='Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-1453507'>Estás rompiendo tu televisor cada vez que lo apagas de esta forma y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-1453507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-4312332.jpg?tf=1200x' alt='Estás rompiendo tu televisor cada vez que lo apagas de esta forma y seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867'>Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-error-4314455.jpg?tf=1200x' alt='Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865'>El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-2-estaria-ya-produccion-podria-incorporar-nuevo-chip-m5-1454865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-vision-pro-4314453.jpg?tf=1200x' alt='El Apple Vision Pro 2 estaría ya en producción y podría incorporar el nuevo chip M5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864'>Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-hello-4314452.jpg?tf=1200x' alt='Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello' />
     </a>
 </div>
 
