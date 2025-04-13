@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912'>35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-chrome-malware-4314508.jpg?tf=1200x' alt='35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4314097.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300'>Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-chatgpt-como-amiga-4305291.jpg?tf=1200x' alt='Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
     <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-robot-ia-4314087.jpg?tf=1200x' alt='Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-reintroducir-calendario-flotante-reloj-windows-11-anos-ausencia-1454907'>Microsoft prueba en reintroducir el calendario flotante con reloj en Windows 11 tras años de ausencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-reintroducir-calendario-flotante-reloj-windows-11-anos-ausencia-1454907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reloj-windows-11-4314497.jpg?tf=1200x' alt='Microsoft prueba en reintroducir el calendario flotante con reloj en Windows 11 tras años de ausencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981'>La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-4306515.jpg?tf=1200x' alt='La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"' />
     </a>
 </div>
 
