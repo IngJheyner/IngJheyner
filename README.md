@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946'>Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ves-nueva-senal-prohibido-ministerio-cultura-no-te-ocurra-entrar-web-4314558.jpg?tf=1200x' alt='Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938'>La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027'>El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-4304842.jpg?tf=1200x' alt='El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912'>35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-chrome-malware-4314508.jpg?tf=1200x' alt='35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome' />
     </a>
 </div>
 
