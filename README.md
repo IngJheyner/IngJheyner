@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/experto-jaume-pons-identifica-14544-webs-inocentes-bloqueadas-javier-tebas-futbol-1454953'>El experto Jaume Pons identifica 14.544 webs inocentes bloqueadas por Javier Tebas durante el fútbol, desde editoriales a peluquerías</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/experto-jaume-pons-identifica-14544-webs-inocentes-bloqueadas-javier-tebas-futbol-1454953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estas-son-14544-webs-inocentes-bloqueadas-javier-tebas-durante-futbol-editoriales-peluquerias-4314570.jpg?tf=1200x' alt='El experto Jaume Pons identifica 14.544 webs inocentes bloqueadas por Javier Tebas durante el fútbol, desde editoriales a peluquerías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951'>Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-4314567.jpg?tf=1200x' alt='Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941'>Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-4314552.jpg?tf=1200x' alt='Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917'>OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4314519.jpg?tf=1200x' alt='OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti' />
     </a>
 </div>
 
