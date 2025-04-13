@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981'>La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-4306515.jpg?tf=1200x' alt='La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/raymond-che-microsoft-potencial-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confirma 30 años después el potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/raymond-che-microsoft-potencial-ms-dos-windows-95-graficos-1444031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ms-dos-windows-95-4313665.jpg?tf=1200x' alt='Ingeniero de Microsoft confirma 30 años después el potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/alternativa-firestick-resucita-tv-android-4k-menos-20-euros-1454872'>Esta alternativa al Firestick resucita tu TV: con Android, 4K y por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/alternativa-firestick-resucita-tv-android-4k-menos-20-euros-1454872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/stick-tv-4314463.jpg?tf=1200x' alt='Esta alternativa al Firestick resucita tu TV: con Android, 4K y por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-quiere-meterte-google-maps-cara-android-auto-prepara-usar-gafas-inteligentes-1454899'>Google quiere meterte Google Maps en la cara: Android Auto se prepara para usar gafas inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-quiere-meterte-google-maps-cara-android-auto-prepara-usar-gafas-inteligentes-1454899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-gafas-inteligentes-4314490.jpg?tf=1200x' alt='Google quiere meterte Google Maps en la cara: Android Auto se prepara para usar gafas inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-1450113'>He descubierto que ChatGPT es el compañero ideal para ver series y películas de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-1450113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-4306688.jpg?tf=1200x' alt='He descubierto que ChatGPT es el compañero ideal para ver series y películas de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-degradacion-1442577'>Giro de 180 grados al coche eléctrico, llegan las nuevas baterías de aluminio que duran para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-degradacion-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bateria-coche-aluminio-4313656.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las nuevas baterías de aluminio que duran para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-1452906'>Las tres carreras que deberías estudiar, según la IA, para no vivir atormentado porque la inteligencia artificial te va a quitar el trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-1452906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-4311301.jpg?tf=1200x' alt='Las tres carreras que deberías estudiar, según la IA, para no vivir atormentado porque la inteligencia artificial te va a quitar el trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-usb-pc-viejo-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en cualquier PC antiguo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-usb-pc-viejo-1452356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-usb-4313638.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en cualquier PC antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209'>Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-proceso-lento-angustiante-silencioso-4313435.jpg?tf=1200x' alt='Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"' />
     </a>
 </div>
 
