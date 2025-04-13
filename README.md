@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951'>Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-4314567.jpg?tf=1200x' alt='Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946'>Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ves-nueva-senal-prohibido-ministerio-cultura-no-te-ocurra-entrar-web-4314558.jpg?tf=1200x' alt='Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917'>OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4314519.jpg?tf=1200x' alt='OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027'>El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-4304842.jpg?tf=1200x' alt='El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"' />
     </a>
 </div>
 
