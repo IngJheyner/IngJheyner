@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938'>La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941'>Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-1454941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/aranceles-donald-trump-no-aplicaran-ordenadores-moviles-chips-pero-precios-subiran-igual-4314552.jpg?tf=1200x' alt='Los aranceles de Donald Trump no se aplicarán a ordenadores, móviles y chips, pero los precios subirán igual' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912'>35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-chrome-malware-4314508.jpg?tf=1200x' alt='35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855'>El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/john-mccarthy-padre-ia-alarmas-direccion-equivocada-1452855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/john-mccarthy-padre-inteligencia-artificial-4314097.jpg?tf=1200x' alt='El padre de la IA y expertos de todo el mundo hacen saltar las alarmas: “Nos está llevando en la dirección equivocada”' />
     </a>
 </div>
 
