@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-1452906'>Las tres carreras que deberías estudiar, según la IA, para no vivir atormentado porque la inteligencia artificial te va a quitar el trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-1452906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tres-carreras-deberias-estudiar-ia-no-vivir-atormentado-porque-inteligencia-artificial-te-va-quitar-trabajo-4311301.jpg?tf=1200x' alt='Las tres carreras que deberías estudiar, según la IA, para no vivir atormentado porque la inteligencia artificial te va a quitar el trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-usb-pc-viejo-1452356'>Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en cualquier PC antiguo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-windows-10-sistema-gratis-usb-pc-viejo-1452356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-usb-4313638.jpg?tf=1200x' alt='Adiós Windows 10, este sistema es gratis, para todos los públicos, se instala por USB y funciona en cualquier PC antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209'>Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-proceso-lento-angustiante-silencioso-4313435.jpg?tf=1200x' alt='Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-1450107'>Mi portátil con Windows tiene más de 5 años, funciona como el primer día y nunca lo he formateado: este es mi secreto</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-1450107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mi-portatil-windows-tiene-5-anos-funciona-como-primer-dia-nunca-he-formateado-mi-secreto-4306676.jpg?tf=1200x' alt='Mi portátil con Windows tiene más de 5 años, funciona como el primer día y nunca lo he formateado: este es mi secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-home-google-ha-decidido-cambiar-estrategia-hogar-inteligente-1452015'>¿Qué es Google Home y por qué Google ha decidido cambiar su estrategia en el hogar inteligente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-home-google-ha-decidido-cambiar-estrategia-hogar-inteligente-1452015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-nest-mini-3201050.jpg?tf=1200x' alt='¿Qué es Google Home y por qué Google ha decidido cambiar su estrategia en el hogar inteligente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405'>He descubierto una mina de oro con Substack y creo que deberías probarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/substack-newsletter-prueba-4295324.jpg?tf=1200x' alt='He descubierto una mina de oro con Substack y creo que deberías probarla' />
     </a>
 </div>
 
