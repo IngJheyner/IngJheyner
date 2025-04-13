@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300'>Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-chatgpt-como-amiga-4305291.jpg?tf=1200x' alt='Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-instagram-chatgpt-corona-como-app-numero-1-mundo-fiebre-ghibli-1454910'>Ni TikTok ni Instagram: ChatGPT se corona como la app número 1 del mundo tras su fiebre Ghibli</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-instagram-chatgpt-corona-como-app-numero-1-mundo-fiebre-ghibli-1454910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-tiktok-instagram-4314500.jpg?tf=1200x' alt='Ni TikTok ni Instagram: ChatGPT se corona como la app número 1 del mundo tras su fiebre Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-robot-ia-4314087.jpg?tf=1200x' alt='Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-reintroducir-calendario-flotante-reloj-windows-11-anos-ausencia-1454907'>Microsoft prueba en reintroducir el calendario flotante con reloj en Windows 11 tras años de ausencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-reintroducir-calendario-flotante-reloj-windows-11-anos-ausencia-1454907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/reloj-windows-11-4314497.jpg?tf=1200x' alt='Microsoft prueba en reintroducir el calendario flotante con reloj en Windows 11 tras años de ausencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981'>La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-1449981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/version-prohibida-windows-expertos-recomiendan-no-instalar-podria-bloquear-pc-4306515.jpg?tf=1200x' alt='La versión prohibida de Windows que los expertos recomiendan no instalar: "Podría bloquear tu PC"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/raymond-che-microsoft-potencial-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confirma 30 años después el potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/raymond-che-microsoft-potencial-ms-dos-windows-95-graficos-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ms-dos-windows-95-4313665.jpg?tf=1200x' alt='Ingeniero de Microsoft confirma 30 años después el potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/alternativa-firestick-resucita-tv-android-4k-menos-20-euros-1454872'>Esta alternativa al Firestick resucita tu TV: con Android, 4K y por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/alternativa-firestick-resucita-tv-android-4k-menos-20-euros-1454872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/stick-tv-4314463.jpg?tf=1200x' alt='Esta alternativa al Firestick resucita tu TV: con Android, 4K y por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-quiere-meterte-google-maps-cara-android-auto-prepara-usar-gafas-inteligentes-1454899'>Google quiere meterte Google Maps en la cara: Android Auto se prepara para usar gafas inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-quiere-meterte-google-maps-cara-android-auto-prepara-usar-gafas-inteligentes-1454899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-gafas-inteligentes-4314490.jpg?tf=1200x' alt='Google quiere meterte Google Maps en la cara: Android Auto se prepara para usar gafas inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-1450113'>He descubierto que ChatGPT es el compañero ideal para ver series y películas de Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-1450113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-descubierto-chatgpt-companero-ideal-ver-series-peliculas-netflix-4306688.jpg?tf=1200x' alt='He descubierto que ChatGPT es el compañero ideal para ver series y películas de Netflix' />
     </a>
 </div>
 
