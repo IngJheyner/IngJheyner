@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917'>OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-retirara-gpt-4-chatgpt-finales-abril-supone-ti-1454917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4314519.jpg?tf=1200x' alt='OpenAI retirará GPT-4 de ChatGPT a finales de abril y esto es lo que supone para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027'>El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-1449027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/impactante-secreto-oculto-lapida-tumba-stephen-hawking-no-son-completamente-negros-4304842.jpg?tf=1200x' alt='El impactante secreto oculto en la lápida de la tumba de Stephen Hawking: "No son completamente negros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912'>35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/35-extensiones-4-millones-usuarios-expuestos-cuela-malware-chrome-1454912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-chrome-malware-4314508.jpg?tf=1200x' alt='35 extensiones y 4 millones de usuarios expuestos: así se cuela el malware en Chrome' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300'>Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-amable-ni-como-amigo-forma-correcta-hablar-chatgpt-conseguir-mejores-respuestas-1449300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-chatgpt-como-amiga-4305291.jpg?tf=1200x' alt='Ni amable ni como a un amigo, esta es la forma correcta de hablar a ChatGPT para conseguir mejores respuestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-instagram-chatgpt-corona-como-app-numero-1-mundo-fiebre-ghibli-1454910'>Ni TikTok ni Instagram: ChatGPT se corona como la app número 1 del mundo tras su fiebre Ghibli</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-instagram-chatgpt-corona-como-app-numero-1-mundo-fiebre-ghibli-1454910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-tiktok-instagram-4314500.jpg?tf=1200x' alt='Ni TikTok ni Instagram: ChatGPT se corona como la app número 1 del mundo tras su fiebre Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628'>Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/preguntamos-ia-opinion-elon-musk-mejor-peor-ejemplo-humanidad-1452628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-robot-ia-4314087.jpg?tf=1200x' alt='Le preguntamos a la IA que se sincere sobre Elon Musk y nos ha dejado sin palabras: "Es el mejor y el peor ejemplo de la humanidad" ' />
     </a>
 </div>
 
