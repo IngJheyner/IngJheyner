@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209'>Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-lento-angustiante-silencioso-1454209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntamos-ia-como-sera-fin-mundo-respuesta-escalofriante-sera-proceso-lento-angustiante-silencioso-4313435.jpg?tf=1200x' alt='Le preguntamos a la IA cómo será el fin del mundo y su respuesta es escalofriante: "Será lento, angustiante… y silencioso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/he-ignorado-herramienta-gratis-windows-ahora-no-puedo-dejar-utilizarla-1449268'>He ignorado esta herramienta gratis de Windows durante años y ahora no puedo dejar de utilizarla</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/he-ignorado-herramienta-gratis-windows-ahora-no-puedo-dejar-utilizarla-1449268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/powertoys-windows-11-4305245.jpg?tf=1200x' alt='He ignorado esta herramienta gratis de Windows durante años y ahora no puedo dejar de utilizarla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405'>He descubierto una mina de oro con Substack y creo que deberías probarla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-descubierto-mina-oro-substack-creo-deberias-probarla-1443405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/substack-newsletter-prueba-4295324.jpg?tf=1200x' alt='He descubierto una mina de oro con Substack y creo que deberías probarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879'>Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/denuncia-compania-videojuegos-depresion-ser-abofeteado-virtualmente-4800-veces-4314470.jpg?tf=1200x' alt='Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces' />
     </a>
 </div>
 
