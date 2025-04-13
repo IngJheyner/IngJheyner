@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879'>Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/bullying-videojuego-denuncia-creadores-depresion-abofeteado-virtualmente-4800-veces-1454879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/denuncia-compania-videojuegos-depresion-ser-abofeteado-virtualmente-4800-veces-4314470.jpg?tf=1200x' alt='Cuando el bullying es parte del videojuego: denuncia a sus creadores por depresión tras ser "abofeteado" virtualmente 4.800 veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-1453507'>Estás rompiendo tu televisor cada vez que lo apagas de esta forma y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-1453507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estas-rompiendo-televisor-cada-vez-apagas-forma-seguramente-no-sabes-4312332.jpg?tf=1200x' alt='Estás rompiendo tu televisor cada vez que lo apagas de esta forma y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867'>Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-podria-estar-fallando-culpa-android-15-ni-google-tiene-claro-1454867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/android-auto-error-4314455.jpg?tf=1200x' alt='Android Auto podría estar fallando por culpa de Android 15, y ni Google lo tiene claro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864'>Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizacion-windows-11-deja-usuarios-acceso-error-windows-hello-1454864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-hello-4314452.jpg?tf=1200x' alt='Actualización de Windows 11 deja a usuarios sin acceso por un error en Windows Hello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/tienes-fibra-va-lenta-exprimela-cable-categoria-8-te-lleva-40-gb-segundo-1454821'>Si tienes fibra y va lenta, exprímela: este cable de Categoría 8 te lleva a 40 GB por segundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/tienes-fibra-va-lenta-exprimela-cable-categoria-8-te-lleva-40-gb-segundo-1454821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ugreen-4314391.jpg?tf=1200x' alt='Si tienes fibra y va lenta, exprímela: este cable de Categoría 8 te lleva a 40 GB por segundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863'>Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/gmail-prepara-propio-algoritmo-recomendaciones-te-sugerira-correos-como-fueran-series-netflix-1454863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/gmail-4314451.jpg?tf=1200x' alt='Gmail prepara su propio algoritmo de recomendaciones: te sugerirá correos como si fueran series de Netflix' />
     </a>
 </div>
 
