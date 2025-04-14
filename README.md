@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141'>Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eliminar-ubicacion-instagram-4314933.jpg?tf=1200x' alt='Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110'>Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-4314796.jpg?tf=1200x' alt='Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103'>Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tesla-4314797.jpg?tf=1200x' alt='Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137'>Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-4314905.jpg?tf=1200x' alt='Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087'>Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-4314756.jpg?tf=1200x' alt='Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gesto-puede-costarte-muy-caro-error-no-puedes-cometer-quieres-proteger-cuenta-bancaria-1455075'>Este gesto puede costarte muy caro: el error que no puedes cometer si quieres proteger tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gesto-puede-costarte-muy-caro-error-no-puedes-cometer-quieres-proteger-cuenta-bancaria-1455075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberdelincuencia-4314769.jpg?tf=1200x' alt='Este gesto puede costarte muy caro: el error que no puedes cometer si quieres proteger tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-no-cree-spacex-colonizar-marte-puro-marketing-1455083'>La hija de Elon Musk no cree a SpaceX: "Colonizar Marte es puro marketing"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-no-cree-spacex-colonizar-marte-puro-marketing-1455083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hija-elon-musk-no-cree-spacex-colonizar-marte-puro-marketing-4314752.jpg?tf=1200x' alt='La hija de Elon Musk no cree a SpaceX: "Colonizar Marte es puro marketing"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-nueva-actualizacion-genera-errores-microsoft-sugiere-ignores-1455077'>Windows 10: la nueva actualización genera errores y Microsoft sugiere que lo ignores</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-nueva-actualizacion-genera-errores-microsoft-sugiere-ignores-1455077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/laptop-error-windows-10-4314758.jpg?tf=1200x' alt='Windows 10: la nueva actualización genera errores y Microsoft sugiere que lo ignores' />
     </a>
 </div>
 
