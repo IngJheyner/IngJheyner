@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018'>Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-meta-instagram-whatsapp-juicio-4314707.jpg?tf=1200x' alt='Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-1454997'>El timo que preocupa a los expertos: "Usan la IA para engañar a tus familiares y amigos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-1454997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-4314623.jpg?tf=1200x' alt='El timo que preocupa a los expertos: "Usan la IA para engañar a tus familiares y amigos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/aranceles-productos-electronicos-volveran-eeuu-mes-trump-desentierra-hacha-guerra-tecnologica-1454994'>Los aranceles a los productos electrónicos volverán a EEUU en un mes: Trump desentierra el hacha de guerra tecnológica </a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/aranceles-productos-electronicos-volveran-eeuu-mes-trump-desentierra-hacha-guerra-tecnologica-1454994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-hace-ojitos-iphone-4314662.jpg?tf=1200x' alt='Los aranceles a los productos electrónicos volverán a EEUU en un mes: Trump desentierra el hacha de guerra tecnológica ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016'>Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988'>Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/playsation-5-sony-precio-4314650.jpg?tf=1200x' alt='Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-apunta-gremio-vera-muy-afectado-tecnologia-hay-personas-ven-no-entienden-1455007'>Experto en IA apunta a un gremio que se verá muy afectado por esta tecnología: "Hay personas que lo ven y no lo entienden"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-apunta-gremio-vera-muy-afectado-tecnologia-hay-personas-ven-no-entienden-1455007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-3747600.jpg?tf=1200x' alt='Experto en IA apunta a un gremio que se verá muy afectado por esta tecnología: "Hay personas que lo ven y no lo entienden"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971'>Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/asus-chromebook-4314593.jpg?tf=1200x' alt='Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451'>La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a56-5g-4311078.jpg?tf=1200x' alt='La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?' />
     </a>
 </div>
 
