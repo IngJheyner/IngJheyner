@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016'>Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988'>Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/playsation-5-sony-precio-4314650.jpg?tf=1200x' alt='Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-apunta-gremio-vera-muy-afectado-tecnologia-hay-personas-ven-no-entienden-1455007'>Experto en IA apunta a un gremio que se verá muy afectado por esta tecnología: "Hay personas que lo ven y no lo entienden"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-apunta-gremio-vera-muy-afectado-tecnologia-hay-personas-ven-no-entienden-1455007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/encuesta-revela-mitad-trabajadores-cree-ia-realidad-virtual-crearan-puestos-trabajo-3747600.jpg?tf=1200x' alt='Experto en IA apunta a un gremio que se verá muy afectado por esta tecnología: "Hay personas que lo ven y no lo entienden"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971'>Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/asus-chromebook-4314593.jpg?tf=1200x' alt='Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451'>La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a56-5g-4311078.jpg?tf=1200x' alt='La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llevo-usando-mal-toda-vida-carga-rapida-errores-garrafales-ensenanzas-no-danar-bateria-1452820'>Llevo usando mal toda la vida la carga rápida: errores garrafales y enseñanzas para no dañar tu batería</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/llevo-usando-mal-toda-vida-carga-rapida-errores-garrafales-ensenanzas-no-danar-bateria-1452820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/carga-rapida-inteligente-bateria-4311122.jpg?tf=1200x' alt='Llevo usando mal toda la vida la carga rápida: errores garrafales y enseñanzas para no dañar tu batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224'>Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-aterradora-terror-terminaria-4313449.jpg?tf=1200x' alt='Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903'>Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-4311290.jpg?tf=1200x' alt='Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción' />
     </a>
 </div>
 
