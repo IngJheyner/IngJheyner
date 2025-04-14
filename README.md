@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216'>¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-4315040.jpg?tf=1200x' alt='¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224'>La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-4315015.jpg?tf=1200x' alt='La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218'>Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chrome-4315021.jpg?tf=1200x' alt='Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203'>El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-4315017.jpg?tf=1200x' alt='El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después' />
     </a>
 </div>
 
