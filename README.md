@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-1455190'>Google celebra el Día de la Computación Cuántica con descubrimientos de salud y electricidad ilimitada</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-1455190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-4314983.jpg?tf=1200x' alt='Google celebra el Día de la Computación Cuántica con descubrimientos de salud y electricidad ilimitada' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222'>iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iphone-16e-4315033.jpg?tf=1200x' alt='iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196'>La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cantante-katy-perry-primera-mision-espacial-solo-mujeres-regresan-exito-espacio-4314932.jpg?tf=1200x' alt='La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219'>OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4315025.jpg?tf=1200x' alt='OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-1455166'>Así funciona el "Tesla de los mares", el nuevo negocio que Elon Musk no vio venir</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-1455166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-4314959.jpg?tf=1200x' alt='Así funciona el "Tesla de los mares", el nuevo negocio que Elon Musk no vio venir' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218'>Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chrome-4315021.jpg?tf=1200x' alt='Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141'>Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eliminar-ubicacion-instagram-4314933.jpg?tf=1200x' alt='Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203'>El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-4315017.jpg?tf=1200x' alt='El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110'>Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-4314796.jpg?tf=1200x' alt='Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-5060-ti-revela-rendimiento-filtra-benchmark-gpus-amd-1455189'>Nvidia 5060 Ti revela su rendimiento: se filtra un benchmark ante las GPUs de AMD</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nvidia-5060-ti-revela-rendimiento-filtra-benchmark-gpus-amd-1455189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/rtx-nvidia-geforce-5060-ti-prendida-fuego-4314976.jpg?tf=1200x' alt='Nvidia 5060 Ti revela su rendimiento: se filtra un benchmark ante las GPUs de AMD' />
     </a>
 </div>
 
