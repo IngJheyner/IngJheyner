@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224'>La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-4315015.jpg?tf=1200x' alt='La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222'>iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iphone-16e-4315033.jpg?tf=1200x' alt='iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203'>El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-1455203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sistema-operativo-amigaos-ordenadores-commodore-actualiza-sorpresa-33-anos-despues-4315017.jpg?tf=1200x' alt='El sistema operativo AmigaOS para ordenadores Commodore se actualiza por sorpresa 33 años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-5060-ti-revela-rendimiento-filtra-benchmark-gpus-amd-1455189'>Nvidia 5060 Ti revela su rendimiento: se filtra un benchmark ante las GPUs de AMD</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/nvidia-5060-ti-revela-rendimiento-filtra-benchmark-gpus-amd-1455189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/rtx-nvidia-geforce-5060-ti-prendida-fuego-4314976.jpg?tf=1200x' alt='Nvidia 5060 Ti revela su rendimiento: se filtra un benchmark ante las GPUs de AMD' />
     </a>
 </div>
 
