@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451'>La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a56-5g-4311078.jpg?tf=1200x' alt='La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llevo-usando-mal-toda-vida-carga-rapida-errores-garrafales-ensenanzas-no-danar-bateria-1452820'>Llevo usando mal toda la vida la carga rápida: errores garrafales y enseñanzas para no dañar tu batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/llevo-usando-mal-toda-vida-carga-rapida-errores-garrafales-ensenanzas-no-danar-bateria-1452820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/carga-rapida-inteligente-bateria-4311122.jpg?tf=1200x' alt='Llevo usando mal toda la vida la carga rápida: errores garrafales y enseñanzas para no dañar tu batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224'>Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-aterradora-terror-terminaria-4313449.jpg?tf=1200x' alt='Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632'>¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-ha-dado-vida-sistema-operativo-linux-4310735.jpg?tf=1200x' alt='¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adb-movil-android-deberias-habilitarlo-ahora-mismo-1449856'>Qué es ADB en un móvil Android y por qué deberías habilitarlo ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adb-movil-android-deberias-habilitarlo-ahora-mismo-1449856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-adb-android-4306196.jpg?tf=1200x' alt='Qué es ADB en un móvil Android y por qué deberías habilitarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955'>Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/vuelco-ciencia-descubren-conocida-sustancia-podria-ser-anterior-big-bang-4314572.jpg?tf=1200x' alt='Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang' />
     </a>
 </div>
 
