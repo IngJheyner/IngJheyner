@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196'>La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cantante-katy-perry-primera-mision-espacial-solo-mujeres-regresan-exito-espacio-4314932.jpg?tf=1200x' alt='La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-1455166'>Así funciona el "Tesla de los mares", el nuevo negocio que Elon Musk no vio venir</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-1455166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/funciona-tesla-mares-nuevo-negocio-elon-musk-no-vio-venir-4314959.jpg?tf=1200x' alt='Así funciona el "Tesla de los mares", el nuevo negocio que Elon Musk no vio venir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141'>Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/instagram-comparte-ubicacion-desactiva-funcion-no-sepa-donde-estas-1455141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eliminar-ubicacion-instagram-4314933.jpg?tf=1200x' alt='Instagram ahora comparte tu ubicación: desactiva esta función para que nadie sepa dónde estás' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103'>Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tesla-4314797.jpg?tf=1200x' alt='Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137'>Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-4314905.jpg?tf=1200x' alt='Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087'>Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-4314756.jpg?tf=1200x' alt='Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año' />
     </a>
 </div>
 
