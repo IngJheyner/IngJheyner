@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985'>La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-4314648.jpg?tf=1200x' alt='La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018'>Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-meta-instagram-whatsapp-juicio-4314707.jpg?tf=1200x' alt='Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016'>Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988'>Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/vuelve-subir-precio-playstation-5-espana-ha-cambiado-lanzamiento-motivo-1454988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/playsation-5-sony-precio-4314650.jpg?tf=1200x' alt='Vuelve a subir el precio de la PlayStation 5 en España: así ha cambiado desde su lanzamiento y este es el motivo' />
     </a>
 </div>
 
