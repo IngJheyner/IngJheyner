@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137'>Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-1455137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/hackean-semaforos-silicon-valley-musk-zuckerberg-trump-convierten-protagonistas-te-doy-cybertruck-juro-4314905.jpg?tf=1200x' alt='Hackean semáforos en Silicon Valley y Musk, Zuckerberg y Trump se convierten en los protagonistas: "Te doy un Cybertruck, lo juro"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087'>Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-1455087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estudio-muestra-como-elon-musk-ha-tirado-popularidad-borda-ultimo-ano-4314756.jpg?tf=1200x' alt='Este estudio muestra cómo Elon Musk ha tirado su popularidad por la borda en el último año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gesto-puede-costarte-muy-caro-error-no-puedes-cometer-quieres-proteger-cuenta-bancaria-1455075'>Este gesto puede costarte muy caro: el error que no puedes cometer si quieres proteger tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gesto-puede-costarte-muy-caro-error-no-puedes-cometer-quieres-proteger-cuenta-bancaria-1455075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ciberdelincuencia-4314769.jpg?tf=1200x' alt='Este gesto puede costarte muy caro: el error que no puedes cometer si quieres proteger tu cuenta bancaria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-nueva-actualizacion-genera-errores-microsoft-sugiere-ignores-1455077'>Windows 10: la nueva actualización genera errores y Microsoft sugiere que lo ignores</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-10-nueva-actualizacion-genera-errores-microsoft-sugiere-ignores-1455077' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/laptop-error-windows-10-4314758.jpg?tf=1200x' alt='Windows 10: la nueva actualización genera errores y Microsoft sugiere que lo ignores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/todo-mundo-habla-desactivar-meta-ai-pero-nadie-te-dice-ventajas-obtienes-ya-has-activado-1455125'>Todo el mundo habla sobre desactivar Meta AI, pero nadie te dice las ventajas que obtienes si ya la has activado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/todo-mundo-habla-desactivar-meta-ai-pero-nadie-te-dice-ventajas-obtienes-ya-has-activado-1455125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ventajas-meta-ai-4314812.jpg?tf=1200x' alt='Todo el mundo habla sobre desactivar Meta AI, pero nadie te dice las ventajas que obtienes si ya la has activado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-1455100'>¿Es ilegal usar IPTV en España? Las claves detrás de la lucha de Javier Tebas contra el fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-1455100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-4314782.jpg?tf=1200x' alt='¿Es ilegal usar IPTV en España? Las claves detrás de la lucha de Javier Tebas contra el fútbol gratis' />
     </a>
 </div>
 
