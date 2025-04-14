@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224'>Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-pone-pelos-punta-terror-terminaria-1454224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/preguntas-ia-pasaria-desaparecieran-todos-humanos-prediccion-aterradora-terror-terminaria-4313449.jpg?tf=1200x' alt='Si le preguntas a la IA qué pasaría si desaparecieran todos los humanos, su predicción pone los pelos de punta: "El terror terminaría"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903'>Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-4311290.jpg?tf=1200x' alt='Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632'>¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-ha-dado-vida-sistema-operativo-linux-4310735.jpg?tf=1200x' alt='¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955'>Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/vuelco-ciencia-descubren-conocida-sustancia-podria-ser-anterior-big-bang-4314572.jpg?tf=1200x' alt='Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-jaume-pons-identifica-14544-webs-inocentes-bloqueadas-javier-tebas-futbol-1454953'>El experto Jaume Pons identifica 14.544 webs inocentes bloqueadas por Javier Tebas durante el fútbol, desde editoriales a peluquerías</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-jaume-pons-identifica-14544-webs-inocentes-bloqueadas-javier-tebas-futbol-1454953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estas-son-14544-webs-inocentes-bloqueadas-javier-tebas-durante-futbol-editoriales-peluquerias-4314570.jpg?tf=1200x' alt='El experto Jaume Pons identifica 14.544 webs inocentes bloqueadas por Javier Tebas durante el fútbol, desde editoriales a peluquerías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951'>Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-4314567.jpg?tf=1200x' alt='Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft' />
     </a>
 </div>
 
