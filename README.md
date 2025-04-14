@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971'>Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/dile-adios-microsoft-hola-google-portatil-barato-16gb-ram-no-usa-windows-11-1454971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/asus-chromebook-4314593.jpg?tf=1200x' alt='Dile adiós a Microsoft y hola a Google: este portátil barato con 16GB de RAM no usa Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451'>La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vuelta-camaras-tipo-pildora-samsung-galaxy-a56-5g-marca-regreso-clasico-1453451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/samsung-galaxy-a56-5g-4311078.jpg?tf=1200x' alt='La vuelta de las cámaras tipo píldora: ¿el Samsung Galaxy A56 5G marca el regreso de un clásico?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903'>Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-1452903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mi-movil-android-ahora-vuela-solo-he-tenido-desactivar-opcion-4311290.jpg?tf=1200x' alt='Mi móvil Android ahora vuela y solo he tenido que desactivar esta opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632'>¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-ha-dado-vida-sistema-operativo-linux-4310735.jpg?tf=1200x' alt='¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?' />
     </a>
 </div>
 
