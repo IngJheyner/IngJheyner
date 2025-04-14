@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-1455190'>Google celebra el Día de la Computación Cuántica con descubrimientos de salud y electricidad ilimitada</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-1455190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-celebra-dia-computacion-cuantica-descubrimientos-salud-electricidad-ilimitada-4314983.jpg?tf=1200x' alt='Google celebra el Día de la Computación Cuántica con descubrimientos de salud y electricidad ilimitada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196'>La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-primera-mision-espacial-solo-mujeres-culmina-exito-1455196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cantante-katy-perry-primera-mision-espacial-solo-mujeres-regresan-exito-espacio-4314932.jpg?tf=1200x' alt='La cantante Katy Perry y la primera misión espacial solo con mujeres, viajan con éxito al espacio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110'>Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-1455110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/experta-ciberseguridad-te-da-tres-grandes-consejos-evitar-estafas-internet-como-anadir-capa-extra-seguridad-4314796.jpg?tf=1200x' alt='Experta en ciberseguridad te da tres grandes consejos para evitar estafas en Internet: "Es como añadir una capa extra de seguridad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103'>Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-opina-tesla-considera-fin-elon-musk-no-acabada-pero-juego-ya-no-solo-1455103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tesla-4314797.jpg?tf=1200x' alt='Le preguntamos a la IA qué opina de Tesla y si considera que este es el fin de Elon Musk: "No está acabada, pero el juego ya no es solo suyo"' />
     </a>
 </div>
 
