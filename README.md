@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-1455100'>¿Es ilegal usar IPTV en España? Las claves detrás de la lucha de Javier Tebas contra el fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-1455100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ilegal-usar-iptv-espana-claves-detras-lucha-javier-tebas-futbol-gratis-4314782.jpg?tf=1200x' alt='¿Es ilegal usar IPTV en España? Las claves detrás de la lucha de Javier Tebas contra el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-asegura-inteligencia-artificial-general-podria-llegar-menos-10-anos-pero-no-todos-son-buenas-noticias-1455065'>Google asegura que la inteligencia artificial general podría llegar en menos de 10 años, pero no todos son buenas noticias</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-asegura-inteligencia-artificial-general-podria-llegar-menos-10-anos-pero-no-todos-son-buenas-noticias-1455065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-asegura-inteligencia-artificial-general-podria-llegar-menos-10-anos-pero-no-todos-son-buenas-noticias-4314736.jpg?tf=1200x' alt='Google asegura que la inteligencia artificial general podría llegar en menos de 10 años, pero no todos son buenas noticias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estandar-h265-hevc-va-hacer-tdt-espana-salto-futuro-emisiones-4k-1455066'>Qué es el estándar H.265/HEVC que va a hacer que la TDT en España de un salto al futuro con emisiones en 4K</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estandar-h265-hevc-va-hacer-tdt-espana-salto-futuro-emisiones-4k-1455066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/estandar-h265-hevc-va-hacer-tdt-espana-salto-futuro-emisiones-4k-4314737.jpg?tf=1200x' alt='Qué es el estándar H.265/HEVC que va a hacer que la TDT en España de un salto al futuro con emisiones en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-pone-limite-algunas-tarifas-podrias-perder-numero-1455013'>Movistar pone límite a algunas tarifas, podrías perder tu número</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-pone-limite-algunas-tarifas-podrias-perder-numero-1455013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-pone-limite-algunas-tarifas-podrias-perder-numero-4314652.jpg?tf=1200x' alt='Movistar pone límite a algunas tarifas, podrías perder tu número' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ultima-llamada-actualizar-windows-11-quien-puede-hacerlo-gratis-pasa-no-haces-1455062'>Última llamada para actualizar a Windows 11: quién puede hacerlo gratis y qué pasa si no lo haces</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ultima-llamada-actualizar-windows-11-quien-puede-hacerlo-gratis-pasa-no-haces-1455062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-4314746.jpg?tf=1200x' alt='Última llamada para actualizar a Windows 11: quién puede hacerlo gratis y qué pasa si no lo haces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022'>Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-pensando-proximo-visor-realidad-mixta-apple-4314757.jpg?tf=1200x' alt='Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/internet-todas-partes-incluso-viaje-router-5g-siempre-deberia-ir-maleta-1454976'>Internet en todas partes, incluso de viaje: este router 5G siempre debería ir en tu maleta</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/internet-todas-partes-incluso-viaje-router-5g-siempre-deberia-ir-maleta-1454976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tenda-router-4314598.jpg?tf=1200x' alt='Internet en todas partes, incluso de viaje: este router 5G siempre debería ir en tu maleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-responde-dudas-seguridad-ia-ted-dije-eso-privado-1455004'>Sam Altman responde a las dudas sobre la seguridad de la IA en TED: "Dije eso en privado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-responde-dudas-seguridad-ia-ted-dije-eso-privado-1455004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-4314699.jpg?tf=1200x' alt='Sam Altman responde a las dudas sobre la seguridad de la IA en TED: "Dije eso en privado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985'>La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-4314648.jpg?tf=1200x' alt='La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"' />
     </a>
 </div>
 
