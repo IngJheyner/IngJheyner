@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ultima-llamada-actualizar-windows-11-quien-puede-hacerlo-gratis-pasa-no-haces-1455062'>Última llamada para actualizar a Windows 11: quién puede hacerlo gratis y qué pasa si no lo haces</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ultima-llamada-actualizar-windows-11-quien-puede-hacerlo-gratis-pasa-no-haces-1455062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/windows-11-4314746.jpg?tf=1200x' alt='Última llamada para actualizar a Windows 11: quién puede hacerlo gratis y qué pasa si no lo haces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022'>Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-pensando-proximo-visor-realidad-mixta-apple-4314757.jpg?tf=1200x' alt='Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985'>La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-4314648.jpg?tf=1200x' alt='La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018'>Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-meta-instagram-whatsapp-juicio-4314707.jpg?tf=1200x' alt='Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp' />
     </a>
 </div>
 
