@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632'>¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ocurrira-linux-cuando-linus-torvalds-ya-no-1452632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/linus-torvalds-ha-dado-vida-sistema-operativo-linux-4310735.jpg?tf=1200x' alt='¿Qué ocurrirá con Linux cuando Linus Torvalds ya no esté?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adb-movil-android-deberias-habilitarlo-ahora-mismo-1449856'>Qué es ADB en un móvil Android y por qué deberías habilitarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adb-movil-android-deberias-habilitarlo-ahora-mismo-1449856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-adb-android-4306196.jpg?tf=1200x' alt='Qué es ADB en un móvil Android y por qué deberías habilitarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955'>Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/vuelco-ciencia-materia-oscura-podria-ser-anterior-big-bang-1454955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/vuelco-ciencia-descubren-conocida-sustancia-podria-ser-anterior-big-bang-4314572.jpg?tf=1200x' alt='Vuelco a la ciencia: descubren que una conocida materia podría ser anterior al Big Bang' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951'>Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-1454951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/alivio-programadores-ia-crea-codigo-tiene-gran-agujero-microsoft-4314567.jpg?tf=1200x' alt='Alivio para los programadores: la IA que crea código tiene un gran agujero, según Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946'>Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/pantalla-prohibido-web-ilegal-ministerio-cultura-1454946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ves-nueva-senal-prohibido-ministerio-cultura-no-te-ocurra-entrar-web-4314558.jpg?tf=1200x' alt='Si ves esta nueva señal de prohibido del Ministerio de Cultura, ni se te ocurra entrar en la web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938'>La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/tdt-ha-actualizado-va-emitir-4k-tienes-tv-vieja-vas-necesitar-aparato-1454938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT se ha actualizado: va a emitir en 4K y si tienes una TV vieja vas a necesitar este aparato' />
     </a>
 </div>
 
