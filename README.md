@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022'>Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-no-rinde-trabaja-dos-nuevas-apple-vision-pro-unas-gafas-ar-futuristas-1455022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tim-cook-pensando-proximo-visor-realidad-mixta-apple-4314757.jpg?tf=1200x' alt='Apple no se rinde, trabaja en dos nuevas Apple Vision Pro y unas gafas de realidad aumentada futuristas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/internet-todas-partes-incluso-viaje-router-5g-siempre-deberia-ir-maleta-1454976'>Internet en todas partes, incluso de viaje: este router 5G siempre debería ir en tu maleta</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/internet-todas-partes-incluso-viaje-router-5g-siempre-deberia-ir-maleta-1454976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/tenda-router-4314598.jpg?tf=1200x' alt='Internet en todas partes, incluso de viaje: este router 5G siempre debería ir en tu maleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-responde-dudas-seguridad-ia-ted-dije-eso-privado-1455004'>Sam Altman responde a las dudas sobre la seguridad de la IA en TED: "Dije eso en privado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-responde-dudas-seguridad-ia-ted-dije-eso-privado-1455004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-4314699.jpg?tf=1200x' alt='Sam Altman responde a las dudas sobre la seguridad de la IA en TED: "Dije eso en privado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985'>La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-maria-aperador-desmonta-mito-capturas-whatsapp-no-son-pruebas-validas-1454985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/whatsapp-4314648.jpg?tf=1200x' alt='La experta en ciberseguridad, María Aperador, desmonta un mito: "Las capturas de WhatsApp no son pruebas válidas"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018'>Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-tendra-declarar-juicio-antimonopolio-arranca-eeuu-podria-obligar-vender-instagram-whatsapp-1455018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-meta-instagram-whatsapp-juicio-4314707.jpg?tf=1200x' alt='Zuckerberg tendrá que declarar en el juicio antimonopolio que arranca en EEUU y que le podría obligar a vender Instagram y WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-1454997'>El timo que preocupa a los expertos: "Usan la IA para engañar a tus familiares y amigos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-1454997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/timo-preocupa-expertos-usan-ia-enganar-familiares-amigos-4314623.jpg?tf=1200x' alt='El timo que preocupa a los expertos: "Usan la IA para engañar a tus familiares y amigos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/aranceles-productos-electronicos-volveran-eeuu-mes-trump-desentierra-hacha-guerra-tecnologica-1454994'>Los aranceles a los productos electrónicos volverán a EEUU en un mes: Trump desentierra el hacha de guerra tecnológica </a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/aranceles-productos-electronicos-volveran-eeuu-mes-trump-desentierra-hacha-guerra-tecnologica-1454994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/donald-trump-hace-ojitos-iphone-4314662.jpg?tf=1200x' alt='Los aranceles a los productos electrónicos volverán a EEUU en un mes: Trump desentierra el hacha de guerra tecnológica ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016'>Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-apuesta-camaras-baratas-mientras-lidar-chino-deja-tesla-jaque-1455016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Elon Musk apuesta por cámaras baratas mientras el LiDAR chino deja a Tesla en jaque' />
     </a>
 </div>
 
