@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-1455349'>Son nativos tecnológicos, pero la generación Z es la más proclive a caer en la desinformación, dice un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-1455349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-4315198.jpg?tf=1200x' alt='Son nativos tecnológicos, pero la generación Z es la más proclive a caer en la desinformación, dice un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/espana-lupa-bloqueo-masivo-webs-iptv-confirman-estos-bloqueos-indebidos-nos-comprometemos-actuar-decision-1455368'>España bajo la lupa por el bloqueo masivo de webs IPTV: "Si se confirman estos bloqueos indebidos, nos comprometemos a actuar con decisión"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/espana-lupa-bloqueo-masivo-webs-iptv-confirman-estos-bloqueos-indebidos-nos-comprometemos-actuar-decision-1455368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iptv-4315239.jpg?tf=1200x' alt='España bajo la lupa por el bloqueo masivo de webs IPTV: "Si se confirman estos bloqueos indebidos, nos comprometemos a actuar con decisión"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-1455385'>La guerra entre Mediapro y LaLiga de Tebas ha comenzado: ¿cómo afectará esto al fútbol español?</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-1455385' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-4315290.jpg?tf=1200x' alt='La guerra entre Mediapro y LaLiga de Tebas ha comenzado: ¿cómo afectará esto al fútbol español?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343'>Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-4315199.jpg?tf=1200x' alt='Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356'>Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-feliz-tener-chatgpt-4315237.jpg?tf=1200x' alt='Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-1455272'>Giro de 180 grados en Netflix: podría decir adiós a uno de sus principales problemas, y gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-1455272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-4315092.jpg?tf=1200x' alt='Giro de 180 grados en Netflix: podría decir adiós a uno de sus principales problemas, y gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-1455357'>Elon Musk sigue con los despidos, es el turno de funcionarios que revisan que Tesla cumpla la normativa en sus coches autónomos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-1455357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-4315214.jpg?tf=1200x' alt='Elon Musk sigue con los despidos, es el turno de funcionarios que revisan que Tesla cumpla la normativa en sus coches autónomos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284'>Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-4315102.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"' />
     </a>
 </div>
 
