@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042'>El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-4314729.jpg?tf=1200x' alt='El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-1454958'>Fue uno de los thrillers más polémicos de 2024, y ahora está a punto de llegar a Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-1454958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-4314576.jpg?tf=1200x' alt='Fue uno de los thrillers más polémicos de 2024, y ahora está a punto de llegar a Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238'>Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-desesperada-entrenara-apple-intelligence-datos-usuarios-4315046.jpg?tf=1200x' alt='Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224'>La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-4315015.jpg?tf=1200x' alt='La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222'>iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-16e-impulsa-apple-liderazgo-global-ventas-moviles-arrebatando-trono-samsung-1455222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iphone-16e-4315033.jpg?tf=1200x' alt='iPhone 16e impulsa a Apple al liderazgo global en ventas de móviles arrebatando el trono a Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219'>OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4315025.jpg?tf=1200x' alt='OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano' />
     </a>
 </div>
 
