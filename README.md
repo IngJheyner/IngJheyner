@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238'>Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-desesperada-entrenara-apple-intelligence-datos-usuarios-4315046.jpg?tf=1200x' alt='Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216'>¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-4315040.jpg?tf=1200x' alt='¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219'>OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-prepara-lanzamiento-cinco-nuevos-modelos-incluidos-gpt-41-41-mini-41-nano-1455219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chatgpt-4315025.jpg?tf=1200x' alt='OpenAI prepara el lanzamiento de cinco nuevos modelos, incluidos GPT-4.1, 4.1 mini y 4.1 nano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218'>Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-repara-chrome-136-brecha-privacidad-llevaba-20-anos-abierta-1455218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/chrome-4315021.jpg?tf=1200x' alt='Google repara en Chrome 136 una brecha de privacidad que llevaba 20 años abierta' />
     </a>
 </div>
 
