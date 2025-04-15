@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284'>Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-4315102.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288'>El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-4315149.jpg?tf=1200x' alt='El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261'>Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-mueve-eeuu-4315148.jpg?tf=1200x' alt='Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968'>Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-4314588.jpg?tf=1200x' alt='Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas' />
     </a>
 </div>
 
