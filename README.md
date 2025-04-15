@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961'>Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-4314581.jpg?tf=1200x' alt='Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-1455038'>Cuidado si realizas transferencias de este tipo, Bizum bloqueará tu cuenta temporalmente </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-1455038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-4314673.jpg?tf=1200x' alt='Cuidado si realizas transferencias de este tipo, Bizum bloqueará tu cuenta temporalmente ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042'>El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-4314729.jpg?tf=1200x' alt='El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238'>Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-desesperada-entrenara-apple-intelligence-datos-usuarios-4315046.jpg?tf=1200x' alt='Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216'>¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-1455216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/fin-windows-11-permite-otros-pc-sean-compatibles-24h2-4315040.jpg?tf=1200x' alt='¡Al fin! Windows 11 permite que otros PC sean compatibles con 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224'>La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-1455224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/serie-harry-potter-max-ya-tiene-primeros-actores-magos-hagrid-polemica-4315015.jpg?tf=1200x' alt='La serie de Harry Potter para Max ya tiene a sus primeros actores: los magos y Hagrid, con polémica' />
     </a>
 </div>
 
