@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281'>Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/consumo-desmedido-agua-chatgpt-4315130.jpg?tf=1200x' alt='Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263'>El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/realme-14-5g-lanzamiento-4315106.jpg?tf=1200x' alt='El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938'>La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671'>WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/privacidad-seguridad-whatsapp-4295794.jpg?tf=1200x' alt='WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pro-wifi-futuro-audio-pasa-estos-auriculares-1453837'>He probado los Xiaomi Buds 5 Pro WiFi y el futuro del audio pasa por estos auriculares</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pro-wifi-futuro-audio-pasa-estos-auriculares-1453837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-buds-5-pro-wifi-4313826.jpg?tf=1200x' alt='He probado los Xiaomi Buds 5 Pro WiFi y el futuro del audio pasa por estos auriculares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961'>Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-4314581.jpg?tf=1200x' alt='Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video' />
     </a>
 </div>
 
