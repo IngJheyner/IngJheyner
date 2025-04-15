@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288'>El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-4315149.jpg?tf=1200x' alt='El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/zasca-trump-exingeniero-apple-explica-iphones-no-pueden-fabricar-eeuu-1455322'>Zasca a Trump: un exingeniero de Apple explica por qué los iPhones no se pueden fabricar en EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/zasca-trump-exingeniero-apple-explica-iphones-no-pueden-fabricar-eeuu-1455322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iphone-bandera-estadounidense-4315186.jpg?tf=1200x' alt='Zasca a Trump: un exingeniero de Apple explica por qué los iPhones no se pueden fabricar en EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/cuales-son-marcas-moviles-estropean-ocu-alerta-problema-recurrente-1455325'>¿Cuáles son las marcas de móviles que más se estropean? La OCU alerta sobre "el problema más recurrente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/cuales-son-marcas-moviles-estropean-ocu-alerta-problema-recurrente-1455325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movil-reparacion-marcas-fiables-4315185.jpg?tf=1200x' alt='¿Cuáles son las marcas de móviles que más se estropean? La OCU alerta sobre "el problema más recurrente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261'>Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-mueve-eeuu-4315148.jpg?tf=1200x' alt='Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968'>Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-4314588.jpg?tf=1200x' alt='Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-marca-moviles-espanoles-no-no-apple-1455301'>Esta es la mejor marca de móviles para los españoles (y no, no es Apple)</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/mejor-marca-moviles-espanoles-no-no-apple-1455301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/marcas-queridas-moviles-apple-huawei-samsung-google-4315165.jpg?tf=1200x' alt='Esta es la mejor marca de móviles para los españoles (y no, no es Apple)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295'>Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-4315144.jpg?tf=1200x' alt='Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285'>¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mascota-fuera-vecino-ia-4315095.jpg?tf=1200x' alt='¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano' />
     </a>
 </div>
 
