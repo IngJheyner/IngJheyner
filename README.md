@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295'>Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-4315144.jpg?tf=1200x' alt='Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285'>¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mascota-fuera-vecino-ia-4315095.jpg?tf=1200x' alt='¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/meta-usara-todo-publiques-aplicaciones-ahora-entrenar-ia-1455266'>Meta usará todo lo que publiques en sus aplicaciones desde ahora para entrenar a su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/meta-usara-todo-publiques-aplicaciones-ahora-entrenar-ia-1455266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-iconos-apps-4315132.jpg?tf=1200x' alt='Meta usará todo lo que publiques en sus aplicaciones desde ahora para entrenar a su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281'>Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/consumo-desmedido-agua-chatgpt-4315130.jpg?tf=1200x' alt='Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263'>El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/realme-14-5g-lanzamiento-4315106.jpg?tf=1200x' alt='El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938'>La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-dolphingemma-ia-hablar-delfines-1455243'>Google tiene una nueva IA, y no es para ti: es para hablar con los delfines</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-dolphingemma-ia-hablar-delfines-1455243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-tiene-nueva-ia-no-ti-hablar-delfines-4315060.jpg?tf=1200x' alt='Google tiene una nueva IA, y no es para ti: es para hablar con los delfines' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671'>WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/privacidad-seguridad-whatsapp-4295794.jpg?tf=1200x' alt='WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte' />
     </a>
 </div>
 
