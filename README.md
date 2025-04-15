@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261'>Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-mueve-eeuu-4315148.jpg?tf=1200x' alt='Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968'>Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/movistar-plus-dos-dos-meses-gratis-oferta-incluye-champions-liga-barata-piensas-1454968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movistar-4314588.jpg?tf=1200x' alt='Movistar Plus+ para dos y con dos meses gratis: esta oferta incluye Champions, Liga y es más barata de lo que piensas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-marca-moviles-espanoles-no-no-apple-1455301'>Esta es la mejor marca de móviles para los españoles (y no, no es Apple)</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/mejor-marca-moviles-espanoles-no-no-apple-1455301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/marcas-queridas-moviles-apple-huawei-samsung-google-4315165.jpg?tf=1200x' alt='Esta es la mejor marca de móviles para los españoles (y no, no es Apple)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295'>Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-1455295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bill-gates-contradice-nuevo-defender-ia-no-hemos-nacido-trabajar-4315144.jpg?tf=1200x' alt='Bill Gates se contradice de nuevo para defender a la IA: "No hemos nacido para trabajar"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285'>¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mascota-fuera-vecino-puedes-chatgpt-paso-paso-convertirla-humano-1455285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mascota-fuera-vecino-ia-4315095.jpg?tf=1200x' alt='¿Y si tu mascota fuese tu vecino? Así puedes con ChatGPT y, paso a paso, convertirla en humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/meta-usara-todo-publiques-aplicaciones-ahora-entrenar-ia-1455266'>Meta usará todo lo que publiques en sus aplicaciones desde ahora para entrenar a su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/meta-usara-todo-publiques-aplicaciones-ahora-entrenar-ia-1455266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/mark-zuckerberg-iconos-apps-4315132.jpg?tf=1200x' alt='Meta usará todo lo que publiques en sus aplicaciones desde ahora para entrenar a su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281'>Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-revela-donde-sale-consumo-desmedido-agua-chatgpt-no-destruye-devuelve-ecosistema-1455281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/consumo-desmedido-agua-chatgpt-4315130.jpg?tf=1200x' alt='Experto en IA revela de dónde sale el consumo desmedido de agua de ChatGPT: "No se destruye, se devuelve al ecosistema"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263'>El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nuevo-realme-14-5g-apunta-ser-moviles-ano-videojuegos-1455263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/realme-14-5g-lanzamiento-4315106.jpg?tf=1200x' alt='El nuevo Realme 14 5G apunta a ser uno de los móviles del año para videojuegos' />
     </a>
 </div>
 
