@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-nueva-estafa-mochila-quieren-robar-datos-tienes-oportunidad-unica-1455405'>Cuidado con la nueva estafa de la mochila, quieren robar tus datos: "¡Tienes una oportunidad única!"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-nueva-estafa-mochila-quieren-robar-datos-tienes-oportunidad-unica-1455405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuidado-nueva-estafa-mochila-quieren-robar-datos-tienes-oportunidad-unica-4315335.jpg?tf=1200x' alt='Cuidado con la nueva estafa de la mochila, quieren robar tus datos: "¡Tienes una oportunidad única!"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-ahora-usara-datos-mejorar-ia-pero-cotillear-demasiado-1455395'>Giro de 180 grados en Apple: ahora sí usará tus datos para mejorar su IA (pero sin cotillear demasiado)</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-ahora-usara-datos-mejorar-ia-pero-cotillear-demasiado-1455395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/inteligencia-artificial-apple-intelligence-4315274.jpg?tf=1200x' alt='Giro de 180 grados en Apple: ahora sí usará tus datos para mejorar su IA (pero sin cotillear demasiado)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-1455349'>Son nativos tecnológicos, pero la generación Z es la más proclive a caer en la desinformación, dice un estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-1455349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/son-nativos-tecnologicos-pero-generacion-z-proclive-caer-desinformacion-dice-estudio-4315198.jpg?tf=1200x' alt='Son nativos tecnológicos, pero la generación Z es la más proclive a caer en la desinformación, dice un estudio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-1455385'>La guerra entre Mediapro y LaLiga de Tebas ha comenzado: ¿cómo afectará esto al fútbol español?</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-1455385' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/guerra-mediapro-laliga-tebas-ha-comenzado-como-afectara-futbol-espanol-4315290.jpg?tf=1200x' alt='La guerra entre Mediapro y LaLiga de Tebas ha comenzado: ¿cómo afectará esto al fútbol español?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343'>Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-4315199.jpg?tf=1200x' alt='Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356'>Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-feliz-tener-chatgpt-4315237.jpg?tf=1200x' alt='Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”' />
     </a>
 </div>
 
