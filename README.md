@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938'>La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/tdt-actualiza-va-emitir-4k-algunas-tv-necesitar-aparato-1454938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/decotdt-4314553.jpg?tf=1200x' alt='La TDT actualiza: va a emitir en 4K y algunas TV van a necesitar este aparato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-dolphingemma-ia-hablar-delfines-1455243'>Google tiene una nueva IA, y no es para ti: es para hablar con los delfines</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-dolphingemma-ia-hablar-delfines-1455243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/google-tiene-nueva-ia-no-ti-hablar-delfines-4315060.jpg?tf=1200x' alt='Google tiene una nueva IA, y no es para ti: es para hablar con los delfines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671'>WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-5-sencillos-pasos-blindar-cuenta-convertirla-practicamente-caja-fuerte-1443671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/privacidad-seguridad-whatsapp-4295794.jpg?tf=1200x' alt='WhatsApp: 5 sencillos pasos para blindar tu cuenta y convertirla prácticamente en una caja fuerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pro-wifi-futuro-audio-pasa-estos-auriculares-1453837'>He probado los Xiaomi Buds 5 Pro WiFi y el futuro del audio pasa por estos auriculares</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-buds-5-pro-wifi-futuro-audio-pasa-estos-auriculares-1453837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/xiaomi-buds-5-pro-wifi-4313826.jpg?tf=1200x' alt='He probado los Xiaomi Buds 5 Pro WiFi y el futuro del audio pasa por estos auriculares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961'>Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-1454961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/amazon-pone-nostalgico-pelicula-hace-25-anos-tendra-serie-prime-video-4314581.jpg?tf=1200x' alt='Amazon se pone nostálgico: la película de hace 25 años que tendrá serie en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-1455038'>Cuidado si realizas transferencias de este tipo, Bizum bloqueará tu cuenta temporalmente </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-1455038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cuidado-realizas-transferencias-tipo-bizum-bloqueara-cuenta-temporalmente-4314673.jpg?tf=1200x' alt='Cuidado si realizas transferencias de este tipo, Bizum bloqueará tu cuenta temporalmente ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042'>El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/lado-oscuro-coches-electricos-estudio-alerta-no-siempre-reducen-emisiones-carbono-1455042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/coche-electrico-4314729.jpg?tf=1200x' alt='El lado oscuro de los coches eléctricos: estudio alerta que no siempre reducen las emisiones de carbono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-1454958'>Fue uno de los thrillers más polémicos de 2024, y ahora está a punto de llegar a Max</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-1454958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/fue-thrillers-polemicos-2024-ahora-punto-llegar-max-4314576.jpg?tf=1200x' alt='Fue uno de los thrillers más polémicos de 2024, y ahora está a punto de llegar a Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238'>Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-entrenara-apple-intelligence-emails-usuarios-1455238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/apple-desesperada-entrenara-apple-intelligence-datos-usuarios-4315046.jpg?tf=1200x' alt='Apple, a la desesperada: entrenará a Apple Intelligence con los correos de los usuarios' />
     </a>
 </div>
 
