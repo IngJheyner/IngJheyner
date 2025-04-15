@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343'>Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convencerte-base-ia-copilot-empujon-definitivo-des-salto-windows-10-windows-11-1455343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/copilot-4315199.jpg?tf=1200x' alt='Microsoft quiere convencerte a base de IA y Copilot: el empujón definitivo para que des el salto de Windows 10 a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356'>Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desactiva-modo-apocalipsis-ia-hacer-todo-trabajo-manera-autonoma-agi-1455356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-feliz-tener-chatgpt-4315237.jpg?tf=1200x' alt='Sam Altman desactiva el modo apocalipsis: “Si una IA puede hacer todo un trabajo de manera autónoma, para mí eso ya es AGI”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-1455272'>Giro de 180 grados en Netflix: podría decir adiós a uno de sus principales problemas, y gracias a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-1455272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/giro-180-grados-netflix-podria-decir-adios-principales-problemas-gracias-ia-4315092.jpg?tf=1200x' alt='Giro de 180 grados en Netflix: podría decir adiós a uno de sus principales problemas, y gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-1455357'>Elon Musk sigue con los despidos, es el turno de funcionarios que revisan que Tesla cumpla la normativa en sus coches autónomos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-1455357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/elon-musk-sigue-despidos-turno-funcionarios-revisan-tesla-cumpla-normativa-coches-autonomos-4315214.jpg?tf=1200x' alt='Elon Musk sigue con los despidos, es el turno de funcionarios que revisan que Tesla cumpla la normativa en sus coches autónomos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284'>Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-1455284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/sam-altman-ceo-openai-deja-claro-ia-sera-tan-omnipresente-como-luz-electrica-4315102.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, lo deja claro: "La IA será tan omnipresente como la luz eléctrica"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288'>El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-1455288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/exjefe-playstation-shock-precios-juegos-switch-2-han-roto-todas-reglas-4315149.jpg?tf=1200x' alt='El exjefe de PlayStation está en 'shock' con los precios de los juegos de Switch 2: "Han roto todas las reglas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/zasca-trump-exingeniero-apple-explica-iphones-no-pueden-fabricar-eeuu-1455322'>Zasca a Trump: un exingeniero de Apple explica por qué los iPhones no se pueden fabricar en EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/zasca-trump-exingeniero-apple-explica-iphones-no-pueden-fabricar-eeuu-1455322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/iphone-bandera-estadounidense-4315186.jpg?tf=1200x' alt='Zasca a Trump: un exingeniero de Apple explica por qué los iPhones no se pueden fabricar en EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/cuales-son-marcas-moviles-estropean-ocu-alerta-problema-recurrente-1455325'>¿Cuáles son las marcas de móviles que más se estropean? La OCU alerta sobre "el problema más recurrente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/cuales-son-marcas-moviles-estropean-ocu-alerta-problema-recurrente-1455325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/movil-reparacion-marcas-fiables-4315185.jpg?tf=1200x' alt='¿Cuáles son las marcas de móviles que más se estropean? La OCU alerta sobre "el problema más recurrente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261'>Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-dice-adios-taiwan-hola-eeuu-ia-muda-casa-pero-esconde-detras-decision-1455261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/nvidia-mueve-eeuu-4315148.jpg?tf=1200x' alt='Nvidia dice 'adiós Taiwán' y 'hola EEUU', la IA se muda a casa, pero ¿qué se esconde detrás de esta decisión?' />
     </a>
 </div>
 
